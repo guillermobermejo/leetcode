@@ -1,5 +1,5 @@
 # leetcode
-![](https://github.com/guillermobermejo/leetcode/f.gif)
+![](https://github.com/guillermobermejo/leetcode/blob/main/f.gif)
 ### General structure:
 - Arrays & Hashing
   - etc.
