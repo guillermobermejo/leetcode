@@ -8,12 +8,12 @@
 |---|---|---|---|---|---|---|---|
 |Contains Duplicate|containsDuplicate.java|Easy|Java|O(n)|O(n)|10ms (Beats 85.11%)|57.8 (Beats 21.49%)|
 |---|---|---|---|---|---|---|---|
-|Valid Anagram|isAnagram.java|Easy|Java|O(n)|O(n)|Beats 11.58%|Beats 71.10%|
+|Valid Anagram|isAnagram.java|Easy|Java|O(n)|O(n)|20ms (Beats 11.58%)|42.9mb (Beats 71.10%)|
 |---|---|---|---|---|---|---|---|
-|Product of Array Except Self|productExceptSelf.java|Medium|Java|O(n)|O(1)|Beats 66.87%|Beats 51.43%|
+|Product of Array Except Self|productExceptSelf.java|Medium|Java|O(n)|O(1)|2ms (Beats 66.87%)|53mb (Beats 51.43%)|
 |---|---|---|---|---|---|---|---|
-|Product of Array Except Self|productExceptSelf2.java|Medium|Java|O(n)|O(n)|Beats 66.87%|Beats 6.93%|
+|Product of Array Except Self|productExceptSelf2.java|Medium|Java|O(n)|O(n)|2ms (Beats 67.37%)|54.6mb (Beats 7.31%)|
 |---|---|---|---|---|---|---|---|
-|Two Sum|twoSum.java|Easy|Java|O(n)|O(n)|Beats 84.68%|Beats 6.21%|
+|Two Sum|twoSum.java|Easy|Java|O(n)|O(n)|2ms (Beats 84.68%)|45.4mb (Beats 6.21%)|
 |---|---|---|---|---|---|---|---|
-|Two Sum*|twoSum2.java|Easy|Java|O(n)|O(n)|Beats 57.67%|Beats 99.86%|
+|Two Sum*|twoSum2.java|Easy|Java|O(n)|O(n)|5ms (Beats 57.67%)|42.8mb (Beats 99.86%)|
