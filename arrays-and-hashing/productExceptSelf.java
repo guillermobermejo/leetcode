@@ -11,30 +11,40 @@ Advantage:  O(1) retrieval
             O(1) Insertion
 
 Notes: 
-    prefix:     product of numbers from indexes 0 - i to nums.length-1
-    postfix:    product of numbers from indexes nums.length-1 - i to 0
+    prefix[]:   for all index: product of numbers from indexes i=0 to i=nums.length-1
+    postfix[]:  for all index: product of numbers from indexes i=nums.length-1 to i=0
 
 Example (using two arrays to store prefix and postfix):
     nums:       [ 1, 2, 3, 4]       nums:       [ 1, 2, 3, 4]
     prefix:     [ 1, 2, 6,24]       postfix:    [24,24,12, 4]
-    
 
+Approach:
+    compute prefix[] and postfix[] within result_arr[]
+    1st loop calculate prefix values in result_arr[] from i=1 tp i=nums.length-2
+    2nd loop calculate postfix values in result_arr[] from i=nums.length-2 to i=1
+    
 Algorithm:
-    approach: compute postfix and prefix within result_arr[]
-
-    declare result_arr of size nums.length
-    declare nums[0] to 1 (necessary for prefix calculation 0 otherwise)
-
-    for loop
-        calculate prefix starting from index i = 1 store in result_arr 
-        (result will be prefix example shifted 1 left)
+    declare int[]: 
+        1 for result            size: nums.length   name: result_arr
     
-    declare postfix set to 1
+    initialize:
+        nums[0] to 1 (necessary for prefix calculation 0 otherwise)
 
-    for loop (reverse)
-        calculate postfix in reverse (index nums.length-1 - 0)
-            note:   nums[i] = self * postfix
-                    postfix = postfix * nums[i]
+    for loop:
+        calculate prefix in result_arr[] from i=1 to i=nums.length-1 (end)
+        (result will be prefix example shifted 1 left)
+        note:
+            result_arr[i] = result_arr[i-1] * nums[i-1];
+            
+    
+    declare & initialize:
+        int postfix and set to 1
+
+    for loop: (reverse)
+        calculate postfix in result_arr[] in reverse (i=nums.length-1 to i=0)
+            note:   
+                nums[i] = self * postfix
+                postfix = postfix * nums[i]
 
 Algorithm Example:
     index:        0, 1, 2, 3
