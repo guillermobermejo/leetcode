@@ -20,6 +20,10 @@ Example (using two arrays to store prefix and postfix):
 {1=1*1, 2=1*2, 6=1*2*3, 24=1*2*3*4} {4=4*1, 12=4*3, 24=4*3*2, 24=4*3*2*1}
 
 Algorithm:
+    approach:
+        declare 2 arrays 1 for prefix 1 for postfix products
+        calculate result_arr indexes based on prefix[i-1] * postfix[i+1]
+
     declare 3 int[] arrays: 
         1 for result            size: nums.length   name: result_arr
         1 for prefix products   size: nums.length   name: prefix
