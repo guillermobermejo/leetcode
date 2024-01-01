@@ -6,4 +6,6 @@
 
 |Problem Name|File Name|Time Complexity|Space Complexity|Runtime|Memory|
 |---|---|---|---|---|---|
-|Row 1, column 1|Row 1, column A|Row 1, column 1|Row 1, column A|Row 1, column 1|Row 1, column A|
+|product of array except self|productExceptSelf|O(n)|O(1)|beats 66.87%|beats 51.43%|
+|---|---|---|---|---|---|
+|product of array except self|productExceptSelf2|O(n)|O(n)|beats 66.87%|beats 6.93%|
