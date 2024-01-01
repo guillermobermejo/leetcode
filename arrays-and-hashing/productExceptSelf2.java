@@ -33,12 +33,12 @@ Algorithm:
         prefix[0] = nums[0]                             // [ 1, 0, 0, 0]
         postfix[nums-length-1] = nums[nums.length-1]    // [ 0, 0, 0, 4]
                                                                  <-s
-    for loop
+    for loop:
         compute prefix from i=1 - i=nums.length-1   (end)
         note:
             prefix[i] = prefix[i-1] * nums[i]
     
-    for loop
+    for loop:
         compute postfix from i=nums.length-2 - i=0  (beninging)
         note:
             postfix[i] = postfix[i+1] * nums[i]
@@ -47,7 +47,7 @@ Algorithm:
         result_arr[0] = postfix[1]                             // [24, 0, 0, 0]
         result_arr[nums-length-1] = prefix[nums.length-2]      // [ 0, 0, 0, 6]
 
-    for loop
+    for loop:
         compute result_arr from i=1 - i=nums.length-2
         note:
             result_arr[i] = prefix[i-1] * postfix[i+1]
