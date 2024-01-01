@@ -6,7 +6,7 @@
 
 |Problem Name|File Name|Difficulty|Time Complexity|Space Complexity|Runtime|Memory|
 |---|---|---|---|---|---|---|
-|Contains Duplicate|containsDuplicate.java|Easy|O(n)|O(n)|Beats 85.11%|Beats 21.49%|
+|Contains Duplicate|containsDuplicate.java|Easy|O(n)|O(n)|10ms (Beats 85.11%)|57.8 (Beats 21.49%)|
 |---|---|---|---|---|---|---|
 |Valid Anagram|isAnagram.java|Easy|O(n)|O(n)|Beats 11.58%|Beats 71.10%|
 |---|---|---|---|---|---|---|
