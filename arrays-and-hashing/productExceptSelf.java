@@ -42,13 +42,12 @@ Algorithm Example:
     nums:       [ 1, 2, 3, 4]
     result_arr: [ 1, 0, 0, 0]
 
+    // calculate prefix in result_arr
     nums:       [ 1, 2, 3, 4]
     prefix:     [ 1, 1, 2, 6]   (result_arr)
 
-    nums:       [ 1, 2, 3, 4]
-    postfix:    [24,12, 8, 6]   (result_arr)    ANSWER
-
-
+    // calculate postfix in result_arr (step by step)
+    for loop in reverse from result_arr[nums.length-1] - result_arr[0]
     (                                                                           postfix = 1
             pass 1: result_arr[3] = result_arr[3] * postfix -> 6 * 1 = (6)      postfix = postfix * nums[3] -> 1 * 4 = (4)
                 index:        0, 1, 2, 3
@@ -67,6 +66,8 @@ Algorithm Example:
                 result_arr: [24,12, 8, 6]       ANSWER
     )
 
+    nums:       [ 1, 2, 3, 4]
+    postfix:    [24,12, 8, 6]   (result_arr)    ANSWER
 */
 class Solution {
     public int[] productExceptSelf(int[] nums) {
