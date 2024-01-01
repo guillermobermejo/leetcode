@@ -2,7 +2,7 @@
 Version: 2 (2 arrays)            M
 Programmer: Guillermo
 Time Complexity: O(n)
-Space Complexity: O(1)      (result_arr does not count)
+Space Complexity: O(n)
 Runtime: 2ms (beats 66.87%)
 Memory: 53mb (beats 6.93%)
 
