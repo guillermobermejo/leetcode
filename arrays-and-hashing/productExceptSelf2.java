@@ -1,5 +1,5 @@
 /**
-Version: 2 (2 arrays)               M
+Version: 2 (2 arrays)            M
 Programmer: Guillermo
 Time Complexity: O(n)
 Space Complexity: O(1)      (result_arr does not count)
