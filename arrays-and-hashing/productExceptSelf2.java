@@ -3,8 +3,8 @@ Version: 2 (2 arrays)            M
 Programmer: Guillermo
 Time Complexity: O(n)
 Space Complexity: O(n)
-Runtime: 2ms (beats 66.87%)
-Memory: 53mb (beats 6.93%)
+Runtime: 2ms (beats 67.37%)
+Memory: 54.6mb (beats 7.31%)
 
 DS: int[]   (given)
 Advantage:  O(1) retrieval
