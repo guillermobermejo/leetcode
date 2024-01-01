@@ -36,7 +36,6 @@ Algorithm:
         note:
             result_arr[i] = result_arr[i-1] * nums[i-1];
             
-    
     declare & initialize:
         int postfix and set to 1
 
