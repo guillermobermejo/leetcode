@@ -9,13 +9,24 @@ DS: HashSet<Integer>
 Advantage:  O(1) Search
             O(1) Insertion
 
+Approach:
+    use hashset
+
+    while traversing nums[] array from i=0 to i=nums.length-1
+    check if contained in hashset (O(1))
+
 Algorithm:
-    While traversing nums[]
-        at each index check if value is in hashset
+    declare:
+        hashset<integer>   name: hashset 
+
+    for loop:
+        traverse nums[] array from i=0 to i=nums.length-1 
+        check if nums[i] is contained in hashset
         true ?
             return true
         false ?
             add to hashset
+            
     return false
 */
 
