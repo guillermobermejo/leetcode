@@ -1,5 +1,5 @@
 /**
-Version: 1 (most recent)
+Version: 1 (most recent)         E
 Programmer: Guillermo
 Time Complexity: O(n)
 Space Complexity: O(n)
@@ -10,13 +10,37 @@ DS: HashMap<Integer, Integer>
 Advantage:  O(1) Search
             O(1) Insertion
 
-DS: int[]
+DS: int[]   size: 2
+Advantage:  O(1) insert
+
+DS: int[]   (given)
 Advantage:  for return
 
-Algorithm:
-    declare data structures
+Approach:
+   use hashmap
 
-    traverse the nums array
+   while traversing the nums[] array
+       calculate the remainder (remainder = target - nums[i])
+       check if remainder contained in hashmap
+           true ? 
+               return [key.value, i]
+           false ?
+               add <nums[i], index> to hashmap
+
+    return result
+
+
+Algorithm:
+    declare int[] and hashmap: 
+        1 int[]                           size: 2             name: result
+        1 hashmap<integer, integer>       size: nums.length   name: hashmap
+        int remainder
+        
+    initialize:
+        remainder = 0
+
+    for loop:
+        traverse the nums array from i=0 to i=nums.length-1
         calculate remainder (target - nums[i])
         if the remainder (key) is in hashmap (possible solution)
             check if i (index) == to value of key (key index)
@@ -27,7 +51,8 @@ Algorithm:
             store key value (index) in result[0]
             return result
 
-    return result
+    return:
+        result
 
 Possible Scenario:
     index:  0  1  2  3  4
