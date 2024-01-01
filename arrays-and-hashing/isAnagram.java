@@ -9,24 +9,53 @@ DS: HashMap<Character, Integer>
 Advantage:  O(1) Search
             O(1) Insertion
 
-Algorithm:
-    check if lengths are equal
-        true ? 
-            return false
-
-    build hashmap of size 26 and initialize with lowercase values as keys each with 0 value
+Approach:
+    check if both strings contain the same set number of characters each
+    use hashmap inisialized with every lowercase with 0 value
 
     traverse both strings simultaneously
-        for each key at index i of both strings
-            increment value of key of s
-            decrement value of key of t
+    increment hashmap value by 1 for current key for string s
+    decrement hashmap value by 1 for current key for string t
 
-    build iterator
-    iterate through every key-value pair of the hashmap
+Algorithm:
+    if check:
+        s.length == t.length 
+        true ? 
+            return false (must be equal length)
+
+    declare hahsmap:
+        hahsmap<character, integer>    size: 26    name: hashmap
+
+    initialize:
+        hashmap with every character a - z with 0 value
+        use for loop: loop value 'a' loop terminating 'z'
+
+    declare 2 character objects:
+        character c1
+        character c2
+
+    for loop:
+        traverse both strings simultaneously
+        for each key at index i of both strings
+            increment value of key s.charAt(i) in hashmap
+            decrement value of key t.charAt(i) in hashmap
+            note:
+                hashmap.put(__, hashmap.get(__) +/- 1)
+
+    declare iterator:
+        iterator<map.entry<character, integer>>    name: mapIterator
+        note:
+            = hashmap.entrySet().iterator()
+
+    while loop (mapIterator.hasNext()):
+        iterate through every key-value pair of the hashmap
         if value != 0
             return false
+        note:
+            value = mapIterator.next().getValue()
         
-    return true
+    return:
+        true
 */
 
 class Solution {
