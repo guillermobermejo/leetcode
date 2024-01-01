@@ -1,39 +1,43 @@
 # leetcode
 ![](https://github.com/guillermobermejo/leetcode/blob/main/f.gif)
-### General structure:
-- Arrays & Hashing
-  - etc.
-- Stack
-  - etc.
-- Two Pointers
-  - etc.
-- Sliding Window
-  - etc.
-- Linked List
-  - etc.
-- Binary Search
-  - etc.
-- Trees
-  - etc.
-- Heap / Priority Queue
-  - etc.
-- Intervals
-  - etc.
-- Greedy
-  - etc.
-- Backtracking
-  - etc.
-- Graphs
-  - etc.
-- Advanced Graphs
-  - etc.
-- 1-D DP
-  - etc.
-- 2-D DP
-  - etc.
-- Bit Manipulation
-  - etc.
-- Math & Geometry
-  - etc.
-- Miscellaneous
-  - etc.
+### Folder structure:
+```text
+.
+└── leetcode/
+    ├── arrays-and-hashing/
+    │   └── ...
+    ├── stack/
+    │   └── ...
+    ├── two-pointers/
+    │   └── ...
+    ├── sliding-window/
+    │   └── ...
+    ├── linked-list/
+    │   └── ...
+    ├── binary-search/
+    │   └── ...
+    ├── trees/
+    │   └── ...
+    ├── heap-and-priority-queue/
+    │   └── ...
+    ├── intervals/
+    │   └── ...
+    ├── greedy/
+    │   └── ...
+    ├── backtracking/
+    │   └── ...
+    ├── graphs/
+    │   └── ...
+    ├── advanced-graphs/
+    │   └── ...
+    ├── 1-d-dp/
+    │   └── ...
+    ├── 2-d-dp/
+    │   └── ...
+    ├── bit-manipulation/
+    │   └── ...
+    ├── math-and-geometry/
+    │   └── ...
+    └── miscellaneous/
+        └── ...
+  ```
