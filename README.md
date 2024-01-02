@@ -4,40 +4,40 @@
 ```text
 .
 └── leetcode/
+    ├── 1-d-dp/
+    │   └── ...
+    ├── 2-d-dp/
+    │   └── ...
     ├── arrays-and-hashing/
-    │   └── etc.
-    ├── stack/
-    │   └── etc.
-    ├── two-pointers/
-    │   └── etc.
-    ├── sliding-window/
-    │   └── etc.
-    ├── linked-list/
-    │   └── etc.
-    ├── binary-search/
-    │   └── etc.
-    ├── trees/
-    │   └── etc.
-    ├── heap-and-priority-queue/
-    │   └── etc.
-    ├── intervals/
-    │   └── etc.
-    ├── greedy/
-    │   └── etc.
+    │   └── ...
     ├── backtracking/
-    │   └── etc.
+    │   └── ...
+    ├── binary-search/
+    │   └── ...
+    ├── bit-manipulation/
+    │   └── ...
     ├── graphs/
     │   ├── advanced-graphs/
-    │   │   └── etc.
-    │   └── etc.
-    ├── 1-d-dp/
-    │   └── etc.
-    ├── 2-d-dp/
-    │   └── etc.
-    ├── bit-manipulation/
-    │   └── etc.
+    │   │   └── ...
+    │   └── ...
+    ├── greedy/
+    │   └── ...
+    ├── heap-and-priority-queue/
+    │   └── ...
+    ├── intervals/
+    │   └── ...
+    ├── linked-list/
+    │   └── ...
     ├── math-and-geometry/
-    │   └── etc.
-    └── miscellaneous/
-        └── etc.
+    │   └── ...
+    ├── miscellaneous/
+    │   └── ...
+    ├── sliding-window/
+    │   └── ...
+    ├── stack/
+    │   └── ...
+    ├── trees/
+    │   └── ...
+    └── two-pointers/
+        └── ...
   ```
