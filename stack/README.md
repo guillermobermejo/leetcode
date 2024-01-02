@@ -1,4 +1,4 @@
-#leetcode# leetcode/stack :space_invader:	:space_invader:	:space_invader:	
+# leetcode/stack :space_invader:	:space_invader:	:space_invader:	
 ![](https://github.com/guillermobermejo/leetcode/blob/main/f.gif)
 ### Stack: :space_invader:	:space_invader:	:space_invader:	
 - Table Structure: :flying_saucer: :flying_saucer:
