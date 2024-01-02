@@ -54,7 +54,7 @@
 |---|---|---|---|---|---|---|
 |Valid Anagram|isAnagram.java|arrays-and-hashing|Easy|Java|20ms (Beats 11.58%)|42.9mb (Beats 71.10%)|
 |---|---|---|---|---|---|---|
-|Valid Anagram|isAnagram2.java|arrays-and-hashing|CRACKED|Java|3ms (Beats 83.79%)|42.99mb (Beats 71.33%)|
+|Valid Anagram|isAnagram2.java|arrays-and-hashing|*Cracked*|Java|3ms (Beats 83.79%)|42.99mb (Beats 71.33%)|
 |---|---|---|---|---|---|---|
 |Product of Array Except Self|productExceptSelf.java|arrays-and-hashing|Medium|Java|2ms (Beats 66.87%)|53mb (Beats 51.43%)|
 |---|---|---|---|---|---|---|
