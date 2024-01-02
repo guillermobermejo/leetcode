@@ -10,6 +10,8 @@
 |---|---|---|---|---|---|---|---|
 |Valid Anagram|isAnagram.java|Easy|Java|O(n)|O(n)|20ms (Beats 11.58%)|42.9mb (Beats 71.10%)|
 |---|---|---|---|---|---|---|---|
+|Valid Anagram|isAnagram2.java|*Cracked*|Java|O(n)|O(n)|3ms (Beats 83.79%)|42.99mb (Beats 71.33%)|
+|---|---|---|---|---|---|---|---|
 |Product of Array Except Self|productExceptSelf.java|Medium|Java|O(n)|O(1)|2ms (Beats 66.87%)|53mb (Beats 51.43%)|
 |---|---|---|---|---|---|---|---|
 |Product of Array Except Self|productExceptSelf2.java|Medium|Java|O(n)|O(n)|2ms (Beats 67.37%)|54.6mb (Beats 7.31%)|
