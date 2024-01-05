@@ -1,5 +1,5 @@
 /**
-Programmer: Guillermo               M
+Programmer: Guillermo           M
 Time Complexity: O(n)
 Space Complexity: O(n)
 Runtime: 5ms (beats 63.19%)
