@@ -12,7 +12,7 @@ Advantage:  O(1) insertion
 
 Approach: after a stock is bought the max of the remaining range is needed
           calculate this max in an array where the ith value is the max from i to length-1
-          in a loop check to see if the max from a range is (-) new bought price > max
+          in a loop check to see if the max from a range i (-) new bought price > max
 
 Algorithm:
     if check:
