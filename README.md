@@ -50,6 +50,12 @@
 
 |Problem Name|File Name|File Location|Difficulty|Language|Runtime|Memory|
 |---|---|---|---|---|---|---|
+|Min Stack|MinStack.java|stack|Medium|Java|5ms (Beats 63.19%)|45.6mb (Beats 75.27%)|
+|---|---|---|---|---|---|---|
+|Min Stack|MinStack2.java|stack|Medium|Java|5ms (Beats 63.19%)|44.7mb (Beats 89.64%)|
+|---|---|---|---|---|---|---|
+|Min Stack|MinStack3.java|stack|*Cracked*|Java|4ms (Beats 98.12%)|44.86mb (Beats 86.30%)|
+|---|---|---|---|---|---|---|
 |Contains Duplicate|containsDuplicate.java|arrays-and-hashing|Easy|Java|10ms (Beats 85.11%)|57.8 (Beats 21.49%)|
 |---|---|---|---|---|---|---|
 |Valid Anagram|isAnagram.java|arrays-and-hashing|Easy|Java|20ms (Beats 11.58%)|42.9mb (Beats 71.10%)|
