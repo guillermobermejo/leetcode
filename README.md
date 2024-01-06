@@ -66,6 +66,10 @@
 |---|---|---|---|---|---|---|
 |Valid Parenthesis|isValid2.java|stack|*Cracked*|Java|1ms (Beats 98.54%)|41.5mb (Beats 10.3%)|
 |---|---|---|---|---|---|---|
+|Best Time to Buy and Sell Stock|maxProfit.java|sliding-window|*Cracked*|Java|1ms (Beats 99.92%)|61.6mb (Beats 29.8%)|
+|---|---|---|---|---|---|---|
+|Best Time to Buy and Sell Stock|maxProfit2.java|sliding-window|*Cracked*|Java|2ms (Beats 78.72%)|56.9mb (Beats 97.49%)|
+|---|---|---|---|---|---|---|
 |Product of Array Except Self|productExceptSelf.java|arrays-and-hashing|Medium|Java|2ms (Beats 66.87%)|53mb (Beats 51.43%)|
 |---|---|---|---|---|---|---|
 |Product of Array Except Self|productExceptSelf2.java|arrays-and-hashing|Medium|Java|2ms (Beats 67.37%)|54.6mb (Beats 7.31%)|
