@@ -8,4 +8,4 @@
 |---|---|---|---|---|---|---|---|
 |Best Time to Buy and Sell Stock|maxProfit.java|*Cracked*|Java|O(n)|O(1)|1ms (Beats 99.92%)|61.6mb (Beats 29.08%)|
 |---|---|---|---|---|---|---|---|
-|Best Time to Buy and Sell Stock|maxProfit2.java|*Cracked*|Java|O(n)|O(n)|2ms (Beats 99.92%)|56.9mb (Beats 97.49%)|
+|Best Time to Buy and Sell Stock|maxProfit2.java|*Cracked*|Java|O(n)|O(n)|2ms (Beats 78.72%)|56.9mb (Beats 97.49%)|
