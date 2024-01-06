@@ -3,7 +3,7 @@ Programmer: Guillermo           *cracked*
 Time Complexity: O(n)
 Space Complexity: O(1)
 Runtime: 1ms (beats 99.92%)
-Memory: 29.08 (beats 29.08%)
+Memory: 61.63 (beats 29.08%)
 
 DS: none
 
