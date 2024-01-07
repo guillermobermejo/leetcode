@@ -1,5 +1,5 @@
 /**
-Programmer: Guillermo           *cracked*
+Programmer: Guillermo           *cracked*E
 Time Complexity: O(n)
 Space Complexity: O(n)
 Runtime: 2ms (beats 78.72%)
@@ -10,9 +10,10 @@ Advantage:  O(1) insertion
             O(1) access
             best memory
 
-Approach: after a stock is bought the max of the remaining range is needed
-          calculate this max in an array where the ith value is the max from i to length-1
-          in a loop check to see if the max from a range is (-) new bought price > max
+Approach: 
+    after a stock is bought the max of the remaining range is needed
+    calculate this max in an array where the ith value is the max from i to length-1
+    in a loop check to see if the max from a range is (-) new bought price > max
 
 Algorithm:
     if check:
