@@ -7,12 +7,13 @@ Memory: 61.63 (beats 29.08%)
 
 DS: none
 
-Approach: taking the prices list as a line graph, we will traverse this graph using sliding window
-          y axis prices 
-          x axis i positions
-          if we dive low (left point -> right point goes down) means prices[i+1] - prices[i] < 0
-          if we rise (left point -> right point goes up) means valid profit, prices[i+1] - prices[i] > 0
-          traverse position[] in O(n) time sliding two pointers l and r
+Approach: 
+    taking the prices list as a line graph, we will traverse this graph using sliding window
+    y axis prices 
+    x axis i positions
+    if we dive low (left point -> right point goes down) means prices[i+1] - prices[i] < 0
+    if we rise (left point -> right point goes up) means valid profit, prices[i+1] - prices[i] > 0
+    traverse position[] in O(n) time sliding two pointers l and r
 
 Algorithm:
     if check:
