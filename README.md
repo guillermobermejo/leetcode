@@ -60,7 +60,7 @@
 |---|---|---|---|---|---|---|
 |Binary Search|search.java|binary-search|Easy|Java|0ms (Beats 100%)|45.68mb (19.53%)|
 |---|---|---|---|---|---|---|
-|Climbing Stairs|ckimbStairs.java|1-d-dp|Easy|Java|0ms (Beats 100%)|39.7mb (Beats 49.05%)|
+|Climbing Stairs|climbStairs.java|1-d-dp|Easy|Java|0ms (Beats 100%)|39.7mb (Beats 49.05%)|
 |---|---|---|---|---|---|---|
 |Contains Duplicate|containsDuplicate.java|arrays-and-hashing|Easy|Java|10ms (Beats 85.11%)|57.8 (Beats 21.49%)|
 |---|---|---|---|---|---|---|
