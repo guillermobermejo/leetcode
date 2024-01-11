@@ -1,5 +1,5 @@
 # leetcode :space_invader:	:space_invader:	:space_invader:	
-![](https://github.com/guillermobermejo/leetcode/blob/main/f.gif)
+![](https://github.com/guillermobermejo/leetcode/blob/main/b.gif)
 ## Folder structure & All file locations: :flying_saucer: :flying_saucer:
 
 ### Folder structure: :space_invader: :space_invader: :space_invader:
