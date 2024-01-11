@@ -6,4 +6,6 @@
 
 |Problem Name|File Name|Difficulty|Language|Time Complexity|Space Complexity|Runtime|Memory|
 |---|---|---|---|---|---|---|---|
-|...|...|...|...|...|...|...|...|
+|Valid Palindrome|isPalindrome.java|Easy|Java|O(n)|O(n)|1ms (Beats 100%)|43.3mb (Beats 54.5%)|
+|---|---|---|---|---|---|---|---|
+|Valid Palindrome|isPalindrome2.java|Easy|Java|O(n)|O(n)|2ms (Beats 99.31%)|42.6mb (Beats 70.2%)|
