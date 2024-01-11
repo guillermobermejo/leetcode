@@ -6,4 +6,4 @@
 
 |Problem Name|File Name|Difficulty|Language|Time Complexity|Space Complexity|Runtime|Memory|
 |---|---|---|---|---|---|---|---|
-|Binary Search|search.java|Easy|Java|O(n)|O(1)|0ms (Beats 100%)|45.68mb (19.53%)|
+|Binary Search|search.java|Easy|Java|O(log n)|O(1)|0ms (Beats 100%)|45.68mb (19.53%)|
