@@ -8,4 +8,4 @@
 |---|---|---|---|---|---|---|---|
 |Climbing Stairs|ckimbStairs.java|Easy|Java|O(n)|O(n)|0ms (Beats 100%)|39.7mb (Beats 49.05%)|
 |---|---|---|---|---|---|---|---|
-|Min Cost Climbing Stairs|minCostClimbingStairs.java|Easy|O(n)|O(n)|Java|0ms (Beats 100%)|43mb (Beats 64.67%)|
+|Min Cost Climbing Stairs|minCostClimbingStairs.java|Easy|Java|O(n)|O(n)|0ms (Beats 100%)|43mb (Beats 64.67%)|
