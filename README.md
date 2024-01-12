@@ -50,9 +50,9 @@
 
 |Problem Name|File Name|File Location|Difficulty|Language|Runtime|Memory|
 |---|---|---|---|---|---|---|
-|Add Two Numbers|addTwoNumbers.java|linked-list|*Cracked*|Java|1ms (Beats 100%)|44.2 (Beats 32.42%)|
+|Add Two Numbers|addTwoNumbers.java|linked-list|Medium<br/>*Cracked*|Java|1ms (Beats 100%)|44.2 (Beats 32.42%)|
 |---|---|---|---|---|---|---|
-|Add Two Numbers|addTwoNumbers2.java|linked-list|*Cracked*|Java|1ms (Beats 100%)|44.3 (Beats 30.97%)|
+|Add Two Numbers|addTwoNumbers2.java|linked-list|Medium<br/>*Cracked*|Java|1ms (Beats 100%)|44.3 (Beats 30.97%)|
 |---|---|---|---|---|---|---|
 |Best Time to Buy and Sell Stock|maxProfit.java|sliding-window|*Cracked*|Java|1ms (Beats 99.92%)|61.6mb (Beats 29.8%)|
 |---|---|---|---|---|---|---|
@@ -64,9 +64,9 @@
 |---|---|---|---|---|---|---|
 |Contains Duplicate|containsDuplicate.java|arrays-and-hashing|Easy|Java|10ms (Beats 85.11%)|57.8 (Beats 21.49%)|
 |---|---|---|---|---|---|---|
-|Longest Repeating Character Replacement|characterReplacement.java|sliding-window|*Cracked*|Java|5ms (Beats 99.27%)|45.68mb (Beats 48.22%)|
+|Longest Repeating Character Replacement|characterReplacement.java|sliding-window|Medium<br/>*Cracked*|Java|5ms (Beats 99.27%)|45.68mb (Beats 48.22%)|
 |---|---|---|---|---|---|---|
-|Longest Substring Without Repeating Characters|lengthOfLongestSubstring.java|sliding-window|*Cracked*|Java|2ms (Beats 99.52%)|42.8mb (Beats 92.48%)|
+|Longest Substring Without Repeating Characters|lengthOfLongestSubstring.java|sliding-window|Medium<br/>*Cracked*|Java|2ms (Beats 99.52%)|42.8mb (Beats 92.48%)|
 |---|---|---|---|---|---|---|
 |Min Cost Climbing Stairs|minCostClimbingStairs.java|1-d-dp|Easy|Java|0ms (Beats 100%)|43mb (Beats 64.67%)|
 |---|---|---|---|---|---|---|
