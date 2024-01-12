@@ -74,7 +74,7 @@
 |---|---|---|---|---|---|---|
 |Min Stack|MinStack2.java|stack|Medium|Java|5ms (Beats 63.19%)|44.7mb (Beats 89.64%)|
 |---|---|---|---|---|---|---|
-|Min Stack|MinStack3.java|stack|*Cracked*|Java|4ms (Beats 98.12%)|44.86mb (Beats 86.30%)|
+|Min Stack|MinStack3.java|stack|Medium<br/>*Cracked*|Java|4ms (Beats 98.12%)|44.86mb (Beats 86.30%)|
 |---|---|---|---|---|---|---|
 |Product of Array Except Self|productExceptSelf.java|arrays-and-hashing|Medium|Java|2ms (Beats 66.87%)|53mb (Beats 51.43%)|
 |---|---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 |---|---|---|---|---|---|---|
 |Valid Anagram|isAnagram.java|arrays-and-hashing|Easy|Java|20ms (Beats 11.58%)|42.9mb (Beats 71.10%)|
 |---|---|---|---|---|---|---|
-|Valid Anagram|isAnagram2.java|arrays-and-hashing|*Cracked*|Java|3ms (Beats 83.79%)|42.99mb (Beats 71.33%)|
+|Valid Anagram|isAnagram2.java|arrays-and-hashing|Easy<br/>*Cracked*|Java|3ms (Beats 83.79%)|42.99mb (Beats 71.33%)|
 |---|---|---|---|---|---|---|
 |Valid Palindrome|isPalindrome.java|two-pointers|Easy|Java|1ms (Beats 100%)|43.3mb (Beats 54.5%)|
 |---|---|---|---|---|---|---|
@@ -94,4 +94,4 @@
 |---|---|---|---|---|---|---|
 |Valid Parenthesis|isValid.java|stack|Easy|Java|2ms (Beats 79.10%)|42.9mb (Beats 20.54%)|
 |---|---|---|---|---|---|---|
-|Valid Parenthesis|isValid2.java|stack|*Cracked*|Java|1ms (Beats 98.54%)|41.5mb (Beats 10.3%)|
+|Valid Parenthesis|isValid2.java|stack|Easy<br/>*Cracked*|Java|1ms (Beats 98.54%)|41.5mb (Beats 10.3%)|
