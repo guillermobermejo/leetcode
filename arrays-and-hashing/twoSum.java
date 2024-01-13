@@ -69,6 +69,7 @@ Possible Scenario:
     nums[0]: hashmap.get(-3)    // 2
     nums[1]: i                  // 4
 */
+
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         int[] result = new int[2];
