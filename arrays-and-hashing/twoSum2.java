@@ -16,6 +16,7 @@ Advantage:  for return
 Algorithm:
     will amend
 */
+
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         int[] sol = new int[2];
