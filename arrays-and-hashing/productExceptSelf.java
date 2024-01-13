@@ -78,6 +78,7 @@ Algorithm Example:
     nums:       [ 1, 2, 3, 4]
     postfix:    [24,12, 8, 6]   (result_arr)    ANSWER
 */
+
 class Solution {
     public int[] productExceptSelf(int[] nums) {
         int[] result_arr = new int[nums.length];
