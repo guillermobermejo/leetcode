@@ -8,6 +8,8 @@
 |---|---|---|---|---|---|---|---|
 |Contains Duplicate|containsDuplicate.java|Easy|Java|O(n)|O(n)|10ms (Beats 85.11%)|57.8 (Beats 21.49%)|
 |---|---|---|---|---|---|---|---|
+|Longest Consecutive Subsequence|longestConsecutive.java|Medium|Java|O(n)|O(n)|26ms (Beats 72.15%)|67.3mb (Beats 10.54%)|
+|---|---|---|---|---|---|---|---|
 |Product of Array Except Self|productExceptSelf.java|Medium|Java|O(n)|O(1)|2ms (Beats 66.87%)|53mb (Beats 51.43%)|
 |---|---|---|---|---|---|---|---|
 |Product of Array Except Self|productExceptSelf2.java|Medium|Java|O(n)|O(n)|2ms (Beats 67.37%)|54.6mb (Beats 7.31%)|
