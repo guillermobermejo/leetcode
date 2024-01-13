@@ -64,7 +64,7 @@
 |---|---|---|---|---|---|---|
 |Contains Duplicate|containsDuplicate.java|arrays-and-hashing|Easy|Java|10ms (Beats 85.11%)|57.8 (Beats 21.49%)|
 |---|---|---|---|---|---|---|
-|House Robber|rob.java|1-d-dp|Medium|Java||0ms (Beats 100%)|40.8mb (Beats 28.98%)|
+|House Robber|rob.java|1-d-dp|Medium|Java|0ms (Beats 100%)|40.8mb (Beats 28.98%)|
 |---|---|---|---|---|---|---|
 |Longest Consecutive Subsequence|longestConsecutive.java|arrays-and-hashing|Medium|Java|26ms (Beats 72.15%)|67.3mb (Beats 10.54%)|
 |---|---|---|---|---|---|---|
