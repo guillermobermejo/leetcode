@@ -14,6 +14,8 @@
 |---|---|---|---|---|---|---|---|
 |Product of Array Except Self|productExceptSelf2.java|Medium|Java|O(n)|O(n)|2ms (Beats 67.37%)|54.6mb (Beats 7.31%)|
 |---|---|---|---|---|---|---|---|
+|Top K Frequent Elements|topKFrequent.java|Medium<br/>*Cracked*|Java|O(n)|O(n)|3ms (Beats 99.99%)|48.3mb (Beats 35.43%)|
+|---|---|---|---|---|---|---|---|
 |Two Sum|twoSum.java|Easy|Java|O(n)|O(n)|2ms (Beats 84.68%)|45.4mb (Beats 6.21%)|
 |---|---|---|---|---|---|---|---|
 |Two Sum*|twoSum2.java|Easy|Java|O(n)|O(n)|5ms (Beats 57.67%)|42.8mb (Beats 99.86%)|
