@@ -84,6 +84,8 @@
 |---|---|---|---|---|---|---|
 |Product of Array Except Self|productExceptSelf2.java|arrays-and-hashing|Medium|Java|2ms (Beats 67.37%)|54.6mb (Beats 7.31%)|
 |---|---|---|---|---|---|---|
+|Search a 2D Matrix|searchMatrix.java|binary-search|Medium|Java|0ms (Beats 100%)|41.7mb (52.13%)|
+|---|---|---|---|---|---|---|
 |Top K Frequent Elements|topKFrequent.java|arrays-and-hashing|Medium<br/>*Cracked*|Java|3ms (Beats 99.99%)|48.3mb (Beats 35.43%)|
 |---|---|---|---|---|---|---|
 |Two Sum|twoSum.java|arrays-and-hashing|Easy|Java|2ms (Beats 84.68%)|45.4mb (Beats 6.21%)|
