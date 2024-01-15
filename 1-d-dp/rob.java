@@ -93,6 +93,7 @@ Visualization of algorithm:
     
             i=4 
             arr[4] = 1 (nums[4]) + 11 (arr[2]) || 11 (arr[3])
+                                            12 || 11
             = 12                    12 max value from houses 0-4 inclusive                  houses: [2,7,9,3,1] max: 12
     
     index:   0  1  2  3  4
