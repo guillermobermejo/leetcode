@@ -134,9 +134,8 @@ class Solution {
         arr[0] = nums[start++];
         arr[1] = Math.max(arr[0], nums[start++]);
         
-        for (int i=2; i < arr.length; i++) {
+        for (int i=2; i < arr.length; i++)
             arr[i] = Math.max(nums[start++] + arr[i-2], arr[i-1]);
-        }
         
         return arr[arr.length-1];
     }
