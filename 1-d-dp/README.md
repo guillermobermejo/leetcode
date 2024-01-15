@@ -20,7 +20,7 @@
 |---|---|---|---|---|---|---|---|
 |House Robber II<br/>*(standard)*|robCircular.java|Medium|Java|O(n)|O(n)|0ms (Beats 100%)|40.8mb (Beats 41.89%)|
 |---|---|---|---|---|---|---|---|
-|House Robber II<br/>*(modular)*|robCircular2.java|Medium|Java|O(n)|O(n)|0ms (Beats 100%)|40.8mb (Beats 41.89%)|
+|House Robber II<br/>*(modular)*|robCircular2.java|Medium|Java|O(n)|O(n)|0ms (Beats 100%)|40.6mb (Beats 51.77%)|
 |---|---|---|---|---|---|---|---|
 |House Robber II<br/>*(modular +)*|robCircular2.java|Medium|Java|O(n)|O(1)|0ms (Beats 100%)|40.8mb (Beats 41.89%)|
 |---|---|---|---|---|---|---|---|
