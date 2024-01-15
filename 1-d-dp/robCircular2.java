@@ -100,6 +100,10 @@ Algorithm:
 
 Visualization of algorithm (rob_helper(nums, 0, nums.length-1)):
     note:   first call to rob_helper is from range i=0 to i=2 (nums.length-2)   (excludes last house)
+
+    nums:   [2, 1, 1, 2]
+    start:  0
+    end:    3
     
     start:  arr[0] -> first house: 2   (nums[start++])      i.e., start: 0 then increment to 1      houses: [2]         max: 2
             arr[1] -> second house: 2  (the max value in a neighborhood of TWO houses)              houses: [2, 1]      max: 2
@@ -127,6 +131,10 @@ Visualization of algorithm (rob_helper(nums, 0, nums.length-1)):
     
 Visualization of algorithm (rob_helper(nums, 0, nums.length-1)):
     note:   second call to rob_helper from range i=1 to i=nums.length-1         (excludes first house)
+
+    nums:   [2, 1, 1, 2]
+    start:  0
+    end:    3
     
     start:  arr[0] -> first house: 1   (nums[start++])      i.e., start: 1 then increment to 2      houses: [1]         max: 2
             arr[1] -> second house: 1  (the max value in a neighborhood of TWO houses)              houses: [1, 1]      max: 2
