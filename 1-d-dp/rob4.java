@@ -49,7 +49,7 @@ Algorithm:
             if the length of nums is 1 return the value of this house (i.e., nums[0])
         
         return:
-            // RETURN the MAX of all the range EXCLUDING THE LAST HOUSE and the MAX of all the range EXCLUDING THE FIRST HOUSE
+            // RETURN the MAX of the entire range of nums[] from i=0 to i=nums.length-1 (inclusive) 
             rob_helper(nums, 0, nums.length-1)
     
     rob_helper function(int[] nums, int start, int end):
