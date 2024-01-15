@@ -56,16 +56,16 @@ Algorithm:
         nums[nums.length-1]
 
 Visualization of algorithm:
-    start:  two_houses_left -> first house: 2   (nums[2])                                           houses: [2]         max: 2
+    start:  two_houses_left -> first house: 2   (nums[start])                                       houses: [2]         max: 2
             one_house_left -> second house: 7   (the max value in a neighborhood of TWO houses)     houses: [2, 7]      max: 7
-                note: one_house_left -> MAX(nums[0], nums[1])
+                note: one_house_left -> MAX(arr[0], arr[start++])  i.e., start is 1->2
     
     index:   0  1  2  3  4
     nums:   [2, 7, 9, 3, 1]
     two_houses_down = 2
     one_houses_down = 7
     
-            i=2 
+            i=2  (set to value of start)
             
             max = 9 (nums[2]) + 2 (two_houses_left) || 7 (one_house_left)
                                                  11 || 7
