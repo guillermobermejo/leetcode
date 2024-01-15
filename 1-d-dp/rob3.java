@@ -66,8 +66,8 @@ Visualization of algorithm:
     one_houses_down = 7
     
             i=2  (set to value of start)
-            
-            max = 9 (nums[2]) + 2 (two_houses_left) || 7 (one_house_left)
+                      2->3
+            max = 9 (start++) + 2 (two_houses_left) || 7 (one_house_left)
                                                  11 || 7
             = 11                    11 max value from houses 0-2 inclusive                  		houses: [2,7,9]     max: 11
             two_houses_down = 7 (one_house_down)
@@ -80,10 +80,10 @@ Visualization of algorithm:
     one_houses_down = 11
             
             i=3
-            
-            max = 3 (nums[3]) + 7 (two_houses_left) || 11 (one_house_left)
+                      3->4
+            max = 3 (start++) + 7 (two_houses_left) || 11 (one_house_left)
                                                  10 || 11
-            = 11                    11 max value from houses 0-2 inclusive                  		houses: [2,7,9,3]   max: 11
+            = 11                    11 max value from houses 0-3 inclusive                  		houses: [2,7,9,3]   max: 11
             two_houses_down = 11 (one_house_down)
             one_houses_down = 11 (max)
             
@@ -93,14 +93,14 @@ Visualization of algorithm:
     one_houses_down = 11 
             
             i=4
-            
-            max = 1 (nums[4]) + 11 (two_houses_left) || 11 (one_house_left)
+                      4->5
+            max = 1 (start++) + 11 (two_houses_left) || 11 (one_house_left)
                                                   12 || 11
-            = 12                    12 max value from houses 0-2 inclusive                  		houses: [2,7,9,3,1] max: 12
+            = 12                    12 max value from houses 0-4 inclusive                  		houses: [2,7,9,3,1] max: 12
             two_houses_down = 11 (one_house_down)
-            one_houses_down = 11 (max)
+            one_houses_down = 12 (max)
     
-    return max (MAX profit of all houses inclusive)
+    return max (MAX profit of all houses 0-4 inclusive)
 */
 
 
