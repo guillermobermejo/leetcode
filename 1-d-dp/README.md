@@ -22,6 +22,6 @@
 |---|---|---|---|---|---|---|---|
 |House Robber II<br/>*(modular)*|robCircular2.java|Medium|Java|O(n)|O(n)|0ms (Beats 100%)|40.6mb (Beats 51.77%)|
 |---|---|---|---|---|---|---|---|
-|House Robber II<br/>*(modular +)*|robCircular2.java|Medium|Java|O(n)|O(1)|0ms (Beats 100%)|40.8mb (Beats 43.49%)|
+|House Robber II<br/>*(modular +)*|robCircular3.java|Medium|Java|O(n)|O(1)|0ms (Beats 100%)|40.8mb (Beats 43.49%)|
 |---|---|---|---|---|---|---|---|
 |Min Cost Climbing Stairs|minCostClimbingStairs.java|Easy|Java|O(n)|O(n)|0ms (Beats 100%)|43mb (Beats 64.67%)|
