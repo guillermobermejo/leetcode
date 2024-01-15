@@ -112,6 +112,8 @@ Visualization of algorithm (rob_helper(nums, 0, nums.length-1)):
             arr[4] = 1 (nums[start++]) + 11 (arr[i-2]) || 11 (arr[i-1])
                                                     12 || 11
             = 12                    11 max value from houses 0-4 inclusive                  houses: [2,7,9,3,1] max: 12
+
+    arr:    [2, 7,11,11,12]
     
     return arr[arr.length-1] (MAX profit of all houses 0-4 inclusive)
 */
