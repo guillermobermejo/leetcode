@@ -126,7 +126,7 @@ class Solution {
         return rob_helper(nums, 0, nums.length-1);
     }
     
-    // returns calculation of MAX value of nums[] from i=start - i=end(INCLUSIVE)
+    // returns calculation of MAX profit of nums[] from range i=start - i=end (INCLUSIVE)
     public int rob_helper(int[] nums, int start, int end) {
         if (end-start == 0) return nums[start];
         
