@@ -6,6 +6,6 @@
 
 |Problem Name|File Name|Difficulty|Language|Time Complexity|Space Complexity|Runtime|Memory|
 |---|---|---|---|---|---|---|---|
-|Add Two Numbers|addTwoNumbers.java|Medium<br/>*Cracked*|Java|O(n)|O(n)|1ms (Beats 100%)|44.2 (Beats 32.42%)|
+|Add Two Numbers<br/>*(recursive)*|addTwoNumbers.java|Medium<br/>*Cracked*|Java|O(n)|O(n)|1ms (Beats 100%)|44.2 (Beats 32.42%)|
 |---|---|---|---|---|---|---|---|
-|Add Two Numbers|addTwoNumbers2.java|Medium<br/>*Cracked*|Java|O(n)|O(n)|1ms (Beats 100%)|44.3 (Beats 30.97%)|
+|Add Two Numbers<br/>*(iterative)*|addTwoNumbers2.java|Medium<br/>*Cracked*|Java|O(n)|O(n)|1ms (Beats 100%)|44.3 (Beats 30.97%)|
