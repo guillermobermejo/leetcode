@@ -88,15 +88,15 @@
 |---|---|---|---|---|---|---|
 |Min Cost Climbing Stairs|minCostClimbingStairs.java|1-d-dp|Easy|Java|0ms (Beats 100%)|43mb (Beats 64.67%)|
 |---|---|---|---|---|---|---|
-|Min Stack|MinStack.java|stack|Medium|Java|5ms (Beats 63.19%)|45.6mb (Beats 75.27%)|
+|Min Stack<br/>*(minheap)*|MinStack.java|stack|Medium|Java|5ms (Beats 63.19%)|45.6mb (Beats 75.27%)|
 |---|---|---|---|---|---|---|
-|Min Stack|MinStack2.java|stack|Medium|Java|5ms (Beats 63.19%)|44.7mb (Beats 89.64%)|
+|Min Stack<br/>*(stack)*|MinStack2.java|stack|Medium|Java|5ms (Beats 63.19%)|44.7mb (Beats 89.64%)|
 |---|---|---|---|---|---|---|
-|Min Stack|MinStack3.java|stack|Medium<br/>*Cracked*|Java|4ms (Beats 98.12%)|44.86mb (Beats 86.30%)|
+|Min Stack<br/>*(nodes)*|MinStack3.java|stack|Medium<br/>*Cracked*|Java|4ms (Beats 98.12%)|44.86mb (Beats 86.30%)|
 |---|---|---|---|---|---|---|
-|Product of Array Except Self|productExceptSelf.java|arrays-and-hashing|Medium|Java|2ms (Beats 66.87%)|53mb (Beats 51.43%)|
+|Product of Array Except Self<br/>*(in-place)*|productExceptSelf.java|arrays-and-hashing|Medium|Java|2ms (Beats 66.87%)|53mb (Beats 51.43%)|
 |---|---|---|---|---|---|---|
-|Product of Array Except Self|productExceptSelf2.java|arrays-and-hashing|Medium|Java|2ms (Beats 67.37%)|54.6mb (Beats 7.31%)|
+|Product of Array Except Self<br/>*(2 array)*|productExceptSelf2.java|arrays-and-hashing|Medium|Java|2ms (Beats 67.37%)|54.6mb (Beats 7.31%)|
 |---|---|---|---|---|---|---|
 |Search a 2D Matrix|searchMatrix.java|binary-search|Medium|Java|0ms (Beats 100%)|41.7mb (52.13%)|
 |---|---|---|---|---|---|---|
@@ -116,4 +116,4 @@
 |---|---|---|---|---|---|---|
 |Valid Parenthesis|isValid.java|stack|Easy|Java|2ms (Beats 79.10%)|42.9mb (Beats 20.54%)|
 |---|---|---|---|---|---|---|
-|Valid Parenthesis|isValid2.java|stack|Easy<br/>*Cracked*|Java|1ms (Beats 98.54%)|41.5mb (Beats 10.3%)|
+|Valid Parenthesis<br/>*(char-push)*|isValid2.java|stack|Easy<br/>*Cracked*|Java|1ms (Beats 98.54%)|41.5mb (Beats 10.3%)|
