@@ -50,9 +50,9 @@
 
 |Problem Name|File Name|File Location|Difficulty|Language|Runtime|Memory|
 |---|---|---|---|---|---|---|
-|Add Two Numbers <br/>*(recursive)*|addTwoNumbers.java|linked-list|Medium<br/>*Cracked*|Java|1ms (Beats 100%)|44.2 (Beats 32.42%)|
+|Add Two Numbers <br/>*(recursive)*|addTwoNumbers.java|linked-list|Medium<br/>*Cracked*|Java|1ms (Beats 100%)|44.2mb (Beats 32.42%)|
 |---|---|---|---|---|---|---|
-|Add Two Numbers <br/>*(iterative)*|addTwoNumbers2.java|linked-list|Medium<br/>*Cracked*|Java|1ms (Beats 100%)|44.3 (Beats 30.97%)|
+|Add Two Numbers <br/>*(iterative)*|addTwoNumbers2.java|linked-list|Medium<br/>*Cracked*|Java|1ms (Beats 100%)|44.3mb (Beats 30.97%)|
 |---|---|---|---|---|---|---|
 |Best Time to Buy and Sell Stock<br/>*(2 pointer)*|maxProfit.java|sliding-window|Easy<br/>*Cracked*|Java|1ms (Beats 99.92%)|61.6mb (Beats 29.8%)|
 |---|---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 |---|---|---|---|---|---|---|
 |Climbing Stairs|climbStairs.java|1-d-dp|Easy|Java|0ms (Beats 100%)|39.7mb (Beats 49.05%)|
 |---|---|---|---|---|---|---|
-|Contains Duplicate|containsDuplicate.java|arrays-and-hashing|Easy|Java|10ms (Beats 85.11%)|57.8 (Beats 21.49%)|
+|Contains Duplicate|containsDuplicate.java|arrays-and-hashing|Easy|Java|10ms (Beats 85.11%)|57.8mb (Beats 21.49%)|
 |---|---|---|---|---|---|---|
 |House Robber<br/>*(standard)*|rob.java|1-d-dp|Medium|Java|0ms (Beats 100%)|40.8mb (Beats 28.98%)|
 |---|---|---|---|---|---|---|---|
