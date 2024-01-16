@@ -50,9 +50,9 @@
 
 |Problem Name|File Name|File Location|Difficulty|Language|Runtime|Memory|
 |---|---|---|---|---|---|---|
-|Add Two Numbers|addTwoNumbers.java|linked-list|Medium<br/>*Cracked*|Java|1ms (Beats 100%)|44.2 (Beats 32.42%)|
+|Add Two Numbers <br/>*(recursive)*|addTwoNumbers.java|linked-list|Medium<br/>*Cracked*|Java|1ms (Beats 100%)|44.2 (Beats 32.42%)|
 |---|---|---|---|---|---|---|
-|Add Two Numbers|addTwoNumbers2.java|linked-list|Medium<br/>*Cracked*|Java|1ms (Beats 100%)|44.3 (Beats 30.97%)|
+|Add Two Numbers <br/>*(iterative)*|addTwoNumbers2.java|linked-list|Medium<br/>*Cracked*|Java|1ms (Beats 100%)|44.3 (Beats 30.97%)|
 |---|---|---|---|---|---|---|
 |Best Time to Buy and Sell Stock|maxProfit.java|sliding-window|Easy<br/>*Cracked*|Java|1ms (Beats 99.92%)|61.6mb (Beats 29.8%)|
 |---|---|---|---|---|---|---|
@@ -106,9 +106,9 @@
 |---|---|---|---|---|---|---|
 |Two Sum*|twoSum2.java|arrays-and-hashing|Easy|Java|5ms (Beats 57.67%)|42.8mb (Beats 99.86%)|
 |---|---|---|---|---|---|---|
-|Valid Anagram|isAnagram.java|arrays-and-hashing|Easy|Java|20ms (Beats 11.58%)|42.9mb (Beats 71.10%)|
+|Valid Anagram<br/>*(hashmap)*|isAnagram.java|arrays-and-hashing|Easy|Java|20ms (Beats 11.58%)|42.9mb (Beats 71.10%)|
 |---|---|---|---|---|---|---|
-|Valid Anagram|isAnagram2.java|arrays-and-hashing|Easy<br/>*Cracked*|Java|3ms (Beats 83.79%)|42.99mb (Beats 71.33%)|
+|Valid Anagram<br/>*(int[ ] map)*|isAnagram2.java|arrays-and-hashing|Easy<br/>*Cracked*|Java|3ms (Beats 83.79%)|42.99mb (Beats 71.33%)|
 |---|---|---|---|---|---|---|
 |Valid Palindrome|isPalindrome.java|two-pointers|Easy|Java|1ms (Beats 100%)|43.3mb (Beats 54.5%)|
 |---|---|---|---|---|---|---|
