@@ -6,9 +6,9 @@
 
 |Problem Name|File Name|Difficulty|Language|Time Complexity|Space Complexity|Runtime|Memory|
 |---|---|---|---|---|---|---|---|
-|Best Time to Buy and Sell Stock|maxProfit.java|Easy<br/>*Cracked*|Java|O(n)|O(1)|1ms (Beats 99.92%)|61.6mb (Beats 29.08%)|
+|Best Time to Buy and Sell Stock<br/>*(2 pointer)*|maxProfit.java|Easy<br/>*Cracked*|Java|O(n)|O(1)|1ms (Beats 99.92%)|61.6mb (Beats 29.08%)|
 |---|---|---|---|---|---|---|---|
-|Best Time to Buy and Sell Stock|maxProfit2.java|Easy<br/>*Cracked*|Java|O(n)|O(n)|2ms (Beats 78.72%)|56.9mb (Beats 97.49%)|
+|Best Time to Buy and Sell Stock<br/>*(in[ ] array)*|maxProfit2.java|Easy<br/>*Cracked*|Java|O(n)|O(n)|2ms (Beats 78.72%)|56.9mb (Beats 97.49%)|
 |---|---|---|---|---|---|---|---|
 |Longest Repeating Character Replacement|characterReplacement.java|Medium<br/>*Cracked*|Java|O(n)|O(n)|5ms (Beats 99.27%)|45.68mb (Beats 48.22%)|
 |---|---|---|---|---|---|---|---|
