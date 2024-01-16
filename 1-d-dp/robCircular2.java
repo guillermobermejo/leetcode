@@ -172,7 +172,8 @@ class Solution {
         
         return Math.max(rob_helper(nums, 0, nums.length-2), rob_helper(nums, 1, nums.length-1));
     }
-    
+
+    // returns calculation of MAX value of nums[] from i=start - i=end(INCLUSIVE)
     public int rob_helper(int[] nums, int start, int end) {
         if (end-start == 0) return nums[start];
         
