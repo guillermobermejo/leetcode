@@ -54,9 +54,9 @@
 |---|---|---|---|---|---|---|
 |Add Two Numbers <br/>*(iterative)*|addTwoNumbers2.java|linked-list|Medium<br/>*Cracked*|Java|1ms (Beats 100%)|44.3 (Beats 30.97%)|
 |---|---|---|---|---|---|---|
-|Best Time to Buy and Sell Stock|maxProfit.java|sliding-window|Easy<br/>*Cracked*|Java|1ms (Beats 99.92%)|61.6mb (Beats 29.8%)|
+|Best Time to Buy and Sell Stock<br/>*(2 pointer)*|maxProfit.java|sliding-window|Easy<br/>*Cracked*|Java|1ms (Beats 99.92%)|61.6mb (Beats 29.8%)|
 |---|---|---|---|---|---|---|
-|Best Time to Buy and Sell Stock|maxProfit2.java|sliding-window|Easy<br/>*Cracked*|Java|2ms (Beats 78.72%)|56.9mb (Beats 97.49%)|
+|Best Time to Buy and Sell Stock<br/>*(int[ ] array)*|maxProfit2.java|sliding-window|Easy<br/>*Cracked*|Java|2ms (Beats 78.72%)|56.9mb (Beats 97.49%)|
 |---|---|---|---|---|---|---|
 |Binary Search|search.java|binary-search|Easy|Java|0ms (Beats 100%)|45.68mb (19.53%)|
 |---|---|---|---|---|---|---|
