@@ -6,7 +6,13 @@
 
 |Problem Name|File Name|Difficulty|Language|Time Complexity|Space Complexity|Runtime|Memory|
 |---|---|---|---|---|---|---|---|
-|Contains Duplicate|containsDuplicate.java|Easy|Java|O(n)|O(n)|10ms (Beats 85.11%)|57.8 (Beats 21.49%)|
+|Car Fleet<br/>*(variables)*|carFleet.java|Medium|Java|O(n log n)|O(n)|25ms (Beats 85.78%)|57.5mb (Beats 48.97%)|
+|---|---|---|---|---|---|---|---|
+|Car Fleet<br/>*(sort)*|carFleet2.java|Medium|Java|O(n log n)|O(n)|23ms (Beats 86.28%)|58.7mb (Beats 25.70%)|
+|---|---|---|---|---|---|---|---|
+|Car Fleet<br/>*(no sort)*|carFleet3.java|Medium<br/>*cracked*|Java|O(n)|O(n)|14ms (Beats 96.83%)|58.4mb (Beats 30.96%)|
+|---|---|---|---|---|---|---|---|
+|Contains Duplicate|containsDuplicate.java|Easy|Java|O(n)|O(n)|10ms (Beats 85.11%)|57.8mb (Beats 21.49%)|
 |---|---|---|---|---|---|---|---|
 |Longest Consecutive Subsequence|longestConsecutive.java|Medium|Java|O(n)|O(n)|26ms (Beats 72.15%)|67.3mb (Beats 10.54%)|
 |---|---|---|---|---|---|---|---|
