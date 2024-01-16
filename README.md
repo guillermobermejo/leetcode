@@ -64,7 +64,21 @@
 |---|---|---|---|---|---|---|
 |Contains Duplicate|containsDuplicate.java|arrays-and-hashing|Easy|Java|10ms (Beats 85.11%)|57.8 (Beats 21.49%)|
 |---|---|---|---|---|---|---|
-|House Robber|rob.java|1-d-dp|Medium|Java|0ms (Beats 100%)|40.8mb (Beats 28.98%)|
+|House Robber<br/>*(standard)*|rob.java|1-d-dp|Medium|Java|0ms (Beats 100%)|40.8mb (Beats 28.98%)|
+|---|---|---|---|---|---|---|---|
+|House Robber<br/>*(in-place)*|rob2.java|1-d-dp|Medium|Java|0ms (Beats 100%)|40.8mb (Beats 32.40%)|
+|---|---|---|---|---|---|---|---|
+|House Robber<br/>*(variables)*|rob3.java|1-d-dp|Medium|Java|0ms (Beats 100%)|40.4mb (Beats 54.54%)|
+|---|---|---|---|---|---|---|---|
+|House Robber<br/>*(modular)*|rob4.java|1-d-dp|Medium|Java|0ms (Beats 100%)|40.6mb (Beats 46.58%)|
+|---|---|---|---|---|---|---|---|
+|House Robber<br/>*(modular +)*|rob5.java|1-d-dp|Medium|Java|0ms (Beats 100%)|40.8mb (Beats 41.85%)|
+|---|---|---|---|---|---|---|---|
+|House Robber II<br/>*(standard)*|robCircular.java|1-d-dp|Medium|Java|0ms (Beats 100%)|40.8mb (Beats 41.89%)|
+|---|---|---|---|---|---|---|---|
+|House Robber II<br/>*(modular)*|robCircular2.java|1-d-dp|Medium|Java|0ms (Beats 100%)|40.6mb (Beats 51.77%)|
+|---|---|---|---|---|---|---|---|
+|House Robber II<br/>*(modular +)*|robCircular3.java|1-d-dp|Medium|Java|0ms (Beats 100%)|40.6mb (Beats 43.09%)|
 |---|---|---|---|---|---|---|
 |Longest Consecutive Subsequence|longestConsecutive.java|arrays-and-hashing|Medium|Java|26ms (Beats 72.15%)|67.3mb (Beats 10.54%)|
 |---|---|---|---|---|---|---|
