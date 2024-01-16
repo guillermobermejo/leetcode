@@ -22,4 +22,4 @@
 |---|---|---|---|---|---|---|---|
 |Valid Anagram<br/>*(hashmap)*|isAnagram.java|Easy|Java|O(n)|O(n)|20ms (Beats 11.58%)|42.9mb (Beats 71.10%)|
 |---|---|---|---|---|---|---|---|
-|Valid Anagram<br/>*(int[] map)*|isAnagram2.java|Easy<br/>*Cracked*|Java|O(n)|O(n)|3ms (Beats 83.79%)|42.99mb (Beats 71.33%)|
+|Valid Anagram<br/>*(int[ ] map)*|isAnagram2.java|Easy<br/>*Cracked*|Java|O(n)|O(n)|3ms (Beats 83.79%)|42.99mb (Beats 71.33%)|
