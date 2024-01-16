@@ -110,9 +110,9 @@
 |---|---|---|---|---|---|---|
 |Valid Anagram<br/>*(int[ ] map)*|isAnagram2.java|arrays-and-hashing|Easy<br/>*Cracked*|Java|3ms (Beats 83.79%)|42.99mb (Beats 71.33%)|
 |---|---|---|---|---|---|---|
-|Valid Palindrome|isPalindrome.java|two-pointers|Easy|Java|1ms (Beats 100%)|43.3mb (Beats 54.5%)|
+|Valid Palindrome<br/>*(int[ ] map)*|isPalindrome.java|two-pointers|Easy|Java|1ms (Beats 100%)|43.3mb (Beats 54.5%)|
 |---|---|---|---|---|---|---|
-|Valid Palindrome|isPalindrome2.java|two-pointers|Easy|Java|2ms (Beats 99.31%)|42.6mb (Beats 70.2%)|
+|Valid Palindrome<br/>*(built-in)*|isPalindrome2.java|two-pointers|Easy|Java|2ms (Beats 99.31%)|42.6mb (Beats 70.2%)|
 |---|---|---|---|---|---|---|
 |Valid Parenthesis|isValid.java|stack|Easy|Java|2ms (Beats 79.10%)|42.9mb (Beats 20.54%)|
 |---|---|---|---|---|---|---|
