@@ -59,6 +59,12 @@
 |Best Time to Buy and Sell Stock<br/>*(int[ ] array)*|maxProfit2.java|sliding-window|Easy<br/>*Cracked*|Java|2ms (Beats 78.72%)|56.9mb (Beats 97.49%)|
 |---|---|---|---|---|---|---|
 |Binary Search|search.java|binary-search|Easy|Java|0ms (Beats 100%)|45.68mb (19.53%)|
+|---|---|---|---|---|---|---|---|
+|Car Fleet<br/>*(variables)*|carFleet.java|arrays-and-hashing|Medium|Java|25ms (Beats 85.78%)|57.5mb (Beats 48.97%)|
+|---|---|---|---|---|---|---|---|
+|Car Fleet<br/>*(sort)*|carFleet2.java|arrays-and-hashing|Medium|Java|23ms (Beats 86.28%)|58.7mb (Beats 25.70%)|
+|---|---|---|---|---|---|---|---|
+|Car Fleet<br/>*(no sort)*|carFleet3.java|arrays-and-hashing|Medium<br/>*cracked*|Java|14ms (Beats 96.83%)|58.4mb (Beats 30.96%)|
 |---|---|---|---|---|---|---|
 |Climbing Stairs|climbStairs.java|1-d-dp|Easy|Java|0ms (Beats 100%)|39.7mb (Beats 49.05%)|
 |---|---|---|---|---|---|---|
