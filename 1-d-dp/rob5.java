@@ -87,6 +87,8 @@ Visualization of algorithm (rob_helper(nums, 0, nums.length-1)):
                 
     recurence       (custom structure)
     relation: max = Math.max(nums[start++] + two_houses_left, one_house_left);    // where start is incremented by 2 at the point relation is used (two houses registered)
+
+    LOOP UNTIL i > end
     
     index:   0  1  2  3  4
     nums:   [2, 7, 9, 3, 1]
@@ -129,6 +131,8 @@ Visualization of algorithm (rob_helper(nums, 0, nums.length-1)):
             = 12                    12 max value from houses 0-4 inclusive                  		houses: [2,7,9,3,1] max: 12
             two_houses_down = 11 (one_house_down)
             one_houses_down = 12 (max)
+
+            i++ > 4 exit
     
     return max (MAX profit of all houses 0-4 inclusive)
 */
