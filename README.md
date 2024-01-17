@@ -119,6 +119,10 @@
 |Valid Palindrome<br/>*(int[ ] map)*|isPalindrome.java|two-pointers|Easy|Java|1ms (Beats 100%)|43.3mb (Beats 54.5%)|
 |---|---|---|---|---|---|---|
 |Valid Palindrome<br/>*(built-in)*|isPalindrome2.java|two-pointers|Easy|Java|2ms (Beats 99.31%)|42.6mb (Beats 70.2%)|
+|---|---|---|---|---|---|---|---|
+|Valid Sudoku<br/>*(int[ ][ ] quadrants)*|isValidSudoku2.java|arrays-and-hashing|Medium<br/>*Cracked*|Java|1ms (Beats 100%)|44.3mb (Beats 39.61%)|
+|---|---|---|---|---|---|---|---|
+|Valid Sudoku<br/>*(quadrants func)*|isValidSudoku2.java|arrays-and-hashing|Medium<br/>*Cracked*|Java|1ms (Beats 100%)|44.2mb (Beats 52.16%)|
 |---|---|---|---|---|---|---|
 |Valid Parenthesis|isValid.java|stack|Easy|Java|2ms (Beats 79.10%)|42.9mb (Beats 20.54%)|
 |---|---|---|---|---|---|---|
