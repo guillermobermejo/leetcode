@@ -13,6 +13,8 @@
 |Car Fleet<br/>*(no sort)*|carFleet3.java|Medium<br/>*cracked*|Java|O(n)|O(n)|14ms (Beats 96.83%)|58.4mb (Beats 30.96%)|
 |---|---|---|---|---|---|---|---|
 |Contains Duplicate|containsDuplicate.java|Easy|Java|O(n)|O(n)|10ms (Beats 85.11%)|57.8mb (Beats 21.49%)|
+|---|---|---|---|---|---|---|
+|Contains Duplicate<br/>*(Optimized)*|containsDuplicate2.java|Easy<br/>*cracked*|Java|O(n)|O(n)|7ms (Beats 98.46%)|60.7mb (Beats 19.71%)|
 |---|---|---|---|---|---|---|---|
 |Longest Consecutive Subsequence|longestConsecutive.java|Medium|Java|O(n)|O(n)|26ms (Beats 72.15%)|67.3mb (Beats 10.54%)|
 |---|---|---|---|---|---|---|---|
