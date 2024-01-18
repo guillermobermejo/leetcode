@@ -66,7 +66,7 @@
 |---|---|---|---|---|---|---|---|
 |Car Fleet<br/>*(no sort)*|[carFleet3.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/carFleet3.java)|arrays-and-hashing|Medium<br/>*cracked*|Java|14ms (Beats 96.83%)|58.4mb (Beats 30.96%)|
 |---|---|---|---|---|---|---|
-|Climbing Stairs|[climbStairs.java](https://github.com/guillermobermejo/leetcode/blob/main/1-d-dp/climbingStairs.java)|1-d-dp|Easy|Java|0ms (Beats 100%)|39.7mb (Beats 49.05%)|
+|Climbing Stairs|[climbStairs.java](https://github.com/guillermobermejo/leetcode/blob/main/1-d-dp/climbStairs.java)|1-d-dp|Easy|Java|0ms (Beats 100%)|39.7mb (Beats 49.05%)|
 |---|---|---|---|---|---|---|
 |Contains Duplicate|[containsDuplicate.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/containsDuplicate.java)|arrays-and-hashing|Easy|Java|10ms (Beats 85.11%)|57.8mb (Beats 21.49%)|
 |---|---|---|---|---|---|---|
