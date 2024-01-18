@@ -126,6 +126,6 @@
 |---|---|---|---|---|---|---|
 |Valid Parentheses<br/>*(char-push)*|[isValid2.java](https://github.com/guillermobermejo/leetcode/blob/main/stack/isValid2.java)|stack|Easy<br/>*Cracked*|Java|1ms (Beats 98.54%)|41.5mb (Beats 10.3%)|
 |---|---|---|---|---|---|---|---|
-|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)<br/>*(int[ ][ ] quadrants)*|[isValidSudoku2.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/isValidSudoku.java)|arrays-and-hashing|Medium<br/>*Cracked*|Java|1ms (Beats 100%)|44.3mb (Beats 39.61%)|
+|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)<br/>*(int[ ][ ] quadrants)*|[isValidSudoku.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/isValidSudoku.java)|arrays-and-hashing|Medium<br/>*Cracked*|Java|1ms (Beats 100%)|44.3mb (Beats 39.61%)|
 |---|---|---|---|---|---|---|---|
 |Valid Sudoku<br/>*(quadrants func)*|[isValidSudoku2.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/isValidSudoku2.java)|arrays-and-hashing|Medium<br/>*Cracked*|Java|1ms (Beats 100%)|44.2mb (Beats 52.16%)|
