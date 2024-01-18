@@ -10,6 +10,6 @@
 |---|---|---|---|---|---|---|---|
 |Best Time to Buy and Sell Stock<br/>*(int[ ] array)*|[maxProfit2.java](https://github.com/guillermobermejo/leetcode/blob/main/sliding-window/maxProfit2.java)|Easy<br/>*Cracked*|Java|O(n)|O(n)|2ms (Beats 78.72%)|56.9mb (Beats 97.49%)|
 |---|---|---|---|---|---|---|---|
-|[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)|[characterReplacement.java](https://github.com/guillermobermejo/leetcode/blob/main/sliding-window/characterReplacement.java)|sliding-window|Medium<br/>*Cracked*|Java|O(n)|O(n)|5ms (Beats 99.27%)|45.68mb (Beats 48.22%)|
+|[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)|[characterReplacement.java](https://github.com/guillermobermejo/leetcode/blob/main/sliding-window/characterReplacement.java)|Medium<br/>*Cracked*|Java|O(n)|O(n)|5ms (Beats 99.27%)|45.68mb (Beats 48.22%)|
 |---|---|---|---|---|---|---|---|
 |[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[lengthOfLongestSubstring.java](https://github.com/guillermobermejo/leetcode/blob/main/sliding-window/lengthOfLongestSubstring.java)|Medium<br/>*Cracked*|Java|O(n)|O(n)|2ms (Beats 99.52%)|42.8mb (Beats 92.48%)|
