@@ -88,7 +88,7 @@
 |---|---|---|---|---|---|---|---|
 |House Robber II<br/>*(modular +)*|[robCircular3.java](https://github.com/guillermobermejo/leetcode/blob/main/1-d-dp/robCircular3.java)|[1-d-dp](https://github.com/guillermobermejo/leetcode/tree/main/1-d-dp)|Medium|Java|0ms (Beats 100%)|40.6mb (Beats 43.09%)|
 |---|---|---|---|---|---|---|
-|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)|[minEatingSpeed.java](https://github.com/guillermobermejo/leetcode/blob/main/binary-search/minEatingSpeed.java)|[binary-search](https://github.com/guillermobermejo/leetcode/tree/main/binary-search)|Medium|Java|27ms (Beats 36.15%)|44.9mb (50.27%)|
+|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)|[minEatingSpeed.java](https://github.com/guillermobermejo/leetcode/blob/main/binary-search/minEatingSpeed.java)|[binary-search](https://github.com/guillermobermejo/leetcode/tree/main/binary-search)|Medium|Java|27ms (Beats 36.15%)|44.9mb (Beats 50.27%)|
 |---|---|---|---|---|---|---|
 |[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[longestConsecutive.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/longestConsecutive.java)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Medium|Java|26ms (Beats 72.15%)|67.3mb (Beats 10.54%)|
 |---|---|---|---|---|---|---|
