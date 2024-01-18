@@ -1,5 +1,5 @@
 /**
-Programmer: Guillermo       M       (quad func)
+Programmer: Guillermo       M       (int[][][]quad)
 Time Complexity: O(n^2) 
 Space Complexity: O(n^2)
 Runtime: 1ms (beats 100%)
