@@ -1,5 +1,5 @@
 /**
-Programmer: CRACKED person *sadge*
+Programmer: Guillermo       *cracked*E
 Time Complexity: O(n)
 Space Complexity: O(n)
 Runtime: 3ms (beats 83.79%)
@@ -65,10 +65,8 @@ class Solution {
         for(char c : t.toCharArray())
             ascii_map[c-'a']--;
 
-        for(int i : ascii_map) {
-            if (i != 0)
-                return false;
-        }
+        for(int i : ascii_map)
+            if (i != 0) return false;
 
         return true;
     }
