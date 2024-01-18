@@ -58,7 +58,7 @@
 |---|---|---|---|---|---|---|
 |Best Time to Buy and Sell Stock<br/>*(int[ ] array)*|[maxProfit2.java](https://github.com/guillermobermejo/leetcode/blob/main/sliding-window/maxProfit2.java)|[sliding-window](https://github.com/guillermobermejo/leetcode/tree/main/sliding-window)|Easy<br/>*Cracked*|Java|2ms (Beats 78.72%)|56.9mb (Beats 97.49%)|
 |---|---|---|---|---|---|---|
-|[Binary Search](https://leetcode.com/problems/binary-search/)|[search.java](https://github.com/guillermobermejo/leetcode/blob/main/binary-search/search.java)|[binary-search](https://github.com/guillermobermejo/leetcode/tree/main/binary-search)|Easy|Java|0ms (Beats 100%)|45.68mb (19.53%)|
+|[Binary Search](https://leetcode.com/problems/binary-search/)|[search.java](https://github.com/guillermobermejo/leetcode/blob/main/binary-search/search.java)|[binary-search](https://github.com/guillermobermejo/leetcode/tree/main/binary-search)|Easy|Java|0ms (Beats 100%)|45.68mb (Beats 19.53%)|
 |---|---|---|---|---|---|---|---|
 |[Car Fleet](https://leetcode.com/problems/car-fleet/)<br/>*(variables)*|[carFleet.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/carFleet.java)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Medium|Java|25ms (Beats 85.78%)|57.5mb (Beats 48.97%)|
 |---|---|---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 |---|---|---|---|---|---|---|
 |Product of Array Except Self<br/>*(2 array)*|[productExceptSelf2.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/productExceptSelf2.java)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Medium|Java|2ms (Beats 67.37%)|54.6mb (Beats 7.31%)|
 |---|---|---|---|---|---|---|
-|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[searchMatrix.java](https://github.com/guillermobermejo/leetcode/blob/main/binary-search/searchMatrix.java)|[binary-search](https://github.com/guillermobermejo/leetcode/tree/main/binary-search)|Medium|Java|0ms (Beats 100%)|41.7mb (52.13%)|
+|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[searchMatrix.java](https://github.com/guillermobermejo/leetcode/blob/main/binary-search/searchMatrix.java)|[binary-search](https://github.com/guillermobermejo/leetcode/tree/main/binary-search)|Medium|Java|0ms (Beats 100%)|41.7mb (Beats 52.13%)|
 |---|---|---|---|---|---|---|
 |[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[topKFrequent.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/topKFrequent.java)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Medium<br/>*Cracked*|Java|3ms (Beats 99.99%)|48.3mb (Beats 35.43%)|
 |---|---|---|---|---|---|---|
