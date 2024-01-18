@@ -70,7 +70,7 @@
 |---|---|---|---|---|---|---|
 |[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[containsDuplicate.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/containsDuplicate.java)|arrays-and-hashing|Easy|Java|10ms (Beats 85.11%)|57.8mb (Beats 21.49%)|
 |---|---|---|---|---|---|---|
-|Contains Duplicate<br/>*(Optimized)*|[containsDuplicate2.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/containsDuplicate2.java)|arrays-and-hashing|Easy<br/>*cracked*|Java|10ms (Beats 85.11%)|57.8mb (Beats 21.49%)|
+|Contains Duplicate<br/>*(Optimized)*|[containsDuplicate2.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/containsDuplicate2.java)|arrays-and-hashing|Easy<br/>*cracked*|Java|7ms (Beats 98.46%)|60.7mb (Beats 19.71%)|
 |---|---|---|---|---|---|---|
 |[House Robber](https://leetcode.com/problems/house-robber/)<br/>*(standard)*|[rob.java](https://github.com/guillermobermejo/leetcode/blob/main/1-d-dp/rob.java)|1-d-dp|Medium|Java|0ms (Beats 100%)|40.8mb (Beats 28.98%)|
 |---|---|---|---|---|---|---|---|
