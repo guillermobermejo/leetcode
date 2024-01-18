@@ -88,7 +88,7 @@
 |---|---|---|---|---|---|---|---|
 |House Robber II<br/>*(modular +)*|[robCircular3.java](https://github.com/guillermobermejo/leetcode/blob/main/1-d-dp/robCircular3.java)|1-d-dp|Medium|Java|0ms (Beats 100%)|40.6mb (Beats 43.09%)|
 |---|---|---|---|---|---|---|
-|[Longest Consecutive Subsequence](https://leetcode.com/problems/longest-consecutive-subsequence/)|[longestConsecutive.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/longestConsecutive.java)|arrays-and-hashing|Medium|Java|26ms (Beats 72.15%)|67.3mb (Beats 10.54%)|
+|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[longestConsecutive.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/longestConsecutive.java)|arrays-and-hashing|Medium|Java|26ms (Beats 72.15%)|67.3mb (Beats 10.54%)|
 |---|---|---|---|---|---|---|
 |[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)|[characterReplacement.java](https://github.com/guillermobermejo/leetcode/blob/main/sliding-window/characterReplacement.java)|sliding-window|Medium<br/>*Cracked*|Java|5ms (Beats 99.27%)|45.68mb (Beats 48.22%)|
 |---|---|---|---|---|---|---|
