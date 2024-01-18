@@ -16,7 +16,7 @@
 |---|---|---|---|---|---|---|
 |Contains Duplicate<br/>*(Optimized)*|containsDuplicate2.java|Easy<br/>*cracked*|Java|O(n)|O(n)|7ms (Beats 98.46%)|60.7mb (Beats 19.71%)|
 |---|---|---|---|---|---|---|---|
-|Longest Consecutive Subsequence|longestConsecutive.java|Medium|Java|O(n)|O(n)|26ms (Beats 72.15%)|67.3mb (Beats 10.54%)|
+|Longest Consecutive Sequence|longestConsecutive.java|Medium|Java|O(n)|O(n)|26ms (Beats 72.15%)|67.3mb (Beats 10.54%)|
 |---|---|---|---|---|---|---|---|
 |Product of Array Except Self<br/>*(in-place)*|productExceptSelf.java|Medium|Java|O(n)|O(1)|2ms (Beats 66.87%)|53mb (Beats 51.43%)|
 |---|---|---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 |---|---|---|---|---|---|---|---|
 |Valid Anagram<br/>*(hashmap)*|isAnagram.java|Easy|Java|O(n)|O(n)|20ms (Beats 11.58%)|42.9mb (Beats 71.10%)|
 |---|---|---|---|---|---|---|---|
-|Valid Anagram<br/>*(int[ ] map)*|isAnagram2.java|Easy<br/>*Cracked*|Java|O(n)|O(n)|3ms (Beats 83.79%)|42.99mb (Beats 71.33%)|
+|Valid Anagram<br/>*(int[ ] map)*|isAnagram2.java|Easy<br/>*Cracked*|Java|O(n)|O(n)|2ms (Beats 97.02%)|42.99mb (Beats 63.68%)|
 |---|---|---|---|---|---|---|---|
 |Valid Sudoku<br/>*(int[ ][ ] quadrants)*|isValidSudoku.java|Medium<br/>*Cracked*|Java|O(n^2)|O(n^2)|1ms (Beats 100%)|44.3mb (Beats 39.61%)|
 |---|---|---|---|---|---|---|---|
