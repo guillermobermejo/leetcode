@@ -1,5 +1,5 @@
 /**
-Programmer: Guillermo            E
+Programmer: Guillermo       E
 Time Complexity: O(n)
 Space Complexity: O(n)
 Runtime: 10ms (beats 85.11%)
@@ -17,7 +17,7 @@ Approach:
 
 Algorithm:
     declare:
-        hashset<integer>   name: hashset 
+        1 hashset<integer>     name: hashset        value: new HashSet<Integer>
 
     for loop:
         traverse nums[] array from i=0 to i=nums.length-1 
