@@ -6,6 +6,6 @@
 
 |Problem Name|File Name|Difficulty|Language|Time Complexity|Space Complexity|Runtime|Memory|
 |---|---|---|---|---|---|---|---|
-|Binary Search|search.java|Easy|Java|O(log n)|O(1)|0ms (Beats 100%)|45.68mb (19.53%)|
+|[Binary Search](https://leetcode.com/problems/binary-search/)|[search.java](https://github.com/guillermobermejo/leetcode/blob/main/binary-search/search.java)|Easy|Java|O(log n)|O(1)|0ms (Beats 100%)|45.68mb (19.53%)|
 |---|---|---|---|---|---|---|---|
-|Search a 2D Matrix|searchMatrix.java|Medium|Java|O(log n)|O(1)|0ms (Beats 100%)|41.7mb (52.13%)|
+|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[searchMatrix.java](https://github.com/guillermobermejo/leetcode/blob/main/binary-search/searchMatrix.java)|Medium|Java|O(log n)|O(1)|0ms (Beats 100%)|41.7mb (52.13%)|
