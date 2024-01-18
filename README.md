@@ -122,9 +122,9 @@
 |---|---|---|---|---|---|---|
 |Valid Palindrome<br/>*(built-in)*|[isPalindrome2.java](https://github.com/guillermobermejo/leetcode/blob/main/two-pointers/isPalindrome2.java)|two-pointers|Easy|Java|2ms (Beats 99.31%)|42.6mb (Beats 70.2%)|
 |---|---|---|---|---|---|---|
-|[Valid Parenthesis](https://leetcode.com/problems/valid-parenthesis/)|[isValid.java](https://github.com/guillermobermejo/leetcode/blob/main/stack/isValid.java)|stack|Easy|Java|2ms (Beats 79.10%)|42.9mb (Beats 20.54%)|
+|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[isValid.java](https://github.com/guillermobermejo/leetcode/blob/main/stack/isValid.java)|stack|Easy|Java|2ms (Beats 79.10%)|42.9mb (Beats 20.54%)|
 |---|---|---|---|---|---|---|
-|Valid Parenthesis<br/>*(char-push)*|[isValid2.java](https://github.com/guillermobermejo/leetcode/blob/main/stack/isValid2.java)|stack|Easy<br/>*Cracked*|Java|1ms (Beats 98.54%)|41.5mb (Beats 10.3%)|
+|Valid Parentheses<br/>*(char-push)*|[isValid2.java](https://github.com/guillermobermejo/leetcode/blob/main/stack/isValid2.java)|stack|Easy<br/>*Cracked*|Java|1ms (Beats 98.54%)|41.5mb (Beats 10.3%)|
 |---|---|---|---|---|---|---|---|
 |[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)<br/>*(int[ ][ ] quadrants)*|[isValidSudoku2.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/isValidSudoku.java)|arrays-and-hashing|Medium<br/>*Cracked*|Java|1ms (Beats 100%)|44.3mb (Beats 39.61%)|
 |---|---|---|---|---|---|---|---|
