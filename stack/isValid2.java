@@ -1,5 +1,5 @@
 /**
-Programmer: CRACKED person *sadge*
+Programmer: Guillermo       *cracked*E
 Time Complexity: O(n)
 Space Complexity: O(n)
 Runtime: 1ms (beats 98.54%)
