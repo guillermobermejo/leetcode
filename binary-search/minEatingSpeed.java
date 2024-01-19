@@ -133,10 +133,7 @@ class Solution {
 
             for (int i : piles)
                 t += Math.ceil((double) i / m);
-            
-            System.out.println("m: " + m);
-            System.out.println("t: " + t);
-               
+ 
             if (t <= h) {
                 k = m;
                 r = m-1;
