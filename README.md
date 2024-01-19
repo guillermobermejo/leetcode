@@ -118,7 +118,7 @@
 |---|---|---|---|---|---|---|
 |Two Sum*|[twoSum2.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/twoSum2.java)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Easy|Java|5ms (Beats 57.67%)|42.8mb (Beats 99.86%)|
 |---|---|---|---|---|---|---|
-|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[twoSum.java](https://github.com/guillermobermejo/leetcode/blob/main/two-pointers/twoSum.java)|[two-pointers](https://github.com/guillermobermejo/leetcode/tree/main/two-pointers)|Easy|Java|2ms (Beats 89.86%)|47mb (Beats 37.88%)|
+|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[twoSum.java](https://github.com/guillermobermejo/leetcode/blob/main/two-pointers/twoSum.java)|[two-pointers](https://github.com/guillermobermejo/leetcode/tree/main/two-pointers)|Medium|Java|2ms (Beats 89.86%)|47mb (Beats 37.88%)|
 |---|---|---|---|---|---|---|
 |[Valid Anagram](https://leetcode.com/problems/valid-anagram/)<br/>*(hashmap)*|[isAnagram.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/isAnagram.java)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Easy|Java|20ms (Beats 11.58%)|42.9mb (Beats 71.10%)|
 |---|---|---|---|---|---|---|
