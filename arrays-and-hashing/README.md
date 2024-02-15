@@ -10,13 +10,15 @@
 |---|---|---|---|---|---|---|---|
 |Car Fleet<br/>*(sort)*|[carFleet2.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/carFleet2.java)|Medium|Java|O(n log n)|O(n)|23ms (Beats 86.28%)|58.7mb (Beats 25.70%)|
 |---|---|---|---|---|---|---|---|
-|Car Fleet<br/>*(no sort)*|[carFleet3.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/carFleet3.java)|Medium<br/>*cracked*|Java|O(n)|O(n)|14ms (Beats 96.83%)|58.4mb (Beats 30.96%)|
+|Car Fleet<br/>*(no sort)*|[carFleet3.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/carFleet3.java)|Medium<br/>*Cracked*|Java|O(n)|O(n)|14ms (Beats 96.83%)|58.4mb (Beats 30.96%)|
 |---|---|---|---|---|---|---|---|
 |[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[containsDuplicate.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/containsDuplicate.java)|Easy|Java|O(n)|O(n)|10ms (Beats 85.11%)|57.8mb (Beats 21.49%)|
 |---|---|---|---|---|---|---|
-|Contains Duplicate<br/>*(Optimized)*|[containsDuplicate2.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/containsDuplicate2.java)|Easy<br/>*cracked*|Java|O(n)|O(n)|7ms (Beats 98.46%)|60.7mb (Beats 19.71%)|
+|Contains Duplicate<br/>*(Optimized)*|[containsDuplicate2.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/containsDuplicate2.java)|Easy<br/>*Cracked*|Java|O(n)|O(n)|7ms (Beats 98.46%)|60.7mb (Beats 19.71%)|
 |---|---|---|---|---|---|---|---|
 |[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[longestConsecutive.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/longestConsecutive.java)|Medium|Java|O(n)|O(n)|26ms (Beats 72.15%)|67.3mb (Beats 10.54%)|
+|---|---|---|---|---|---|---|---|
+|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[maxProduct.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/maxProduct.java)|Medium<br/>*Cracked*|Java|O(n)|O(n)|0ms (Beats 100%)|44.9mb (Beats 33.12%)|
 |---|---|---|---|---|---|---|---|
 |[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)<br/>*(in-place)*|[productExceptSelf.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/productExceptSelf.java)|Medium|Java|O(n)|O(1)|2ms (Beats 66.87%)|53mb (Beats 51.43%)|
 |---|---|---|---|---|---|---|---|
