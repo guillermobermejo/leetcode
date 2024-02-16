@@ -14,4 +14,4 @@
 |---|---|---|---|---|---|---|---|
 |[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[isValid.java](https://github.com/guillermobermejo/leetcode/blob/main/stack/isValid.java)|Easy|Java|O(n)|O(n)|2ms<br/>(Beats 79.10%)|42.9mb<br/>(Beats 20.54%)|
 |---|---|---|---|---|---|---|---|
-|Valid Parentheses<br/>*(char-push)*|[isValid2.java](https://github.com/guillermobermejo/leetcode/blob/main/stack/isValid2.java)|Easy<br/>*Cracked*|Java|O(n)|O(n)|1ms<br/>(Beats 98.54%)|41.5mb<br/>(Beats 10.3%)|
+|Valid Parentheses<br/>*(char-push)*|[isValid2.java](https://github.com/guillermobermejo/leetcode/blob/main/stack/isValid2.java)|Easy<br/>*Cracked*|Java|O(n)|O(n)|1ms<br/>(Beats 98.54%)|41.5mb<br/>(Beats 10.30%)|
