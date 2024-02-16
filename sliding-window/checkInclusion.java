@@ -1,5 +1,5 @@
  /**
-Programmer: Guillermo       M   *CRACKED +*
+Programmer: Guillermo       M   *CRACKED*
 Time Complexity: O(n)
 Space Complexity: O(1)
 Runtime: 5ms (beats 96.67%)
