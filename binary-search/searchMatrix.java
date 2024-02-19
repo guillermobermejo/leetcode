@@ -80,7 +80,7 @@ Visualization of algorithm:
 
     Tree Visualzation for parent nodes:
       0  1  2  3  4  5  6
-    [ 1,10,23,61,65,69,73]
+     [1,10,23,61,65,69,73]
 
         i Tree:
                     1[.]                [ 1, 3, 5, 7]   i = 0
