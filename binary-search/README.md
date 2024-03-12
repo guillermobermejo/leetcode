@@ -11,3 +11,5 @@
 |[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)|[minEatingSpeed.java](https://github.com/guillermobermejo/leetcode/blob/main/binary-search/minEatingSpeed.java)|Medium|Java|O(n log n)|O(1)|27ms<br/>(Beats 36.15%)|44.9mb<br/>(Beats 50.27%)|
 |---|---|---|---|---|---|---|---|
 |[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[searchMatrix.java](https://github.com/guillermobermejo/leetcode/blob/main/binary-search/searchMatrix.java)|Medium|Java|O(log n)|O(1)|0ms<br/>(Beats 100%)|41.7mb<br/>(Beats 52.13%)|
+|---|---|---|---|---|---|---|---|
+|[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)|[TimeMap.java](https://github.com/guillermobermejo/leetcode/blob/main/binary-search/TimeMap.java)|Medium|Java|O(log n)|O(n)|131ms<br/>(Beats 91.78%)|119.9mb<br/>(Beats 46.87%)|
