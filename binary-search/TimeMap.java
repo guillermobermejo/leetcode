@@ -62,7 +62,7 @@ Algorithm:
                         r = timestamp < lst.get(m).getKey() ? m-1 : r  // if timestamp is less than the middle value, r = m
 
             return:
-                timestamp < lst.get(0).getKey() ? "" : 									// covers 2 elements in lst (timestamp less)
+                timestamp < lst.get(0).getKey() ? "" : 				// covers 2 elements in lst (timestamp less)
                     timestamp < lst.get(m).getKey() ? lst.get(m-1).getValue() : 		// covers immediate middle > timestamp (left)
                     lst.get(m).getValue(); // if outside the loop, target NOT in nums	// covers everything else
                 
