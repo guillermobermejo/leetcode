@@ -22,7 +22,7 @@ Algorithm:
         1 int value     name: l     value: 0                notes: left pointer
         1 int value     name: r     value: nums.length-1    notes: right pointer
         
-    while loop (l < r):
+    while loop (l <= r):
         declare and initialize:
             1 int value     name: m     value: (l+r)/2      notes: middle value (the return)
         
