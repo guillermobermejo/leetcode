@@ -115,8 +115,10 @@
 |Product of Array Except Self<br/>*(2 array)*|[productExceptSelf2.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/productExceptSelf2.java)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Medium|Java|2ms<br/>(Beats 67.37%)|54.6mb<br/>(Beats 7.31%)|
 |---|---|---|---|---|---|---|
 |[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[searchMatrix.java](https://github.com/guillermobermejo/leetcode/blob/main/binary-search/searchMatrix.java)|[binary-search](https://github.com/guillermobermejo/leetcode/tree/main/binary-search)|Medium|Java|0ms<br/>(Beats 100%)|41.7mb<br/>(Beats 52.13%)|
+|---|---|---|---|---|---|---|---|
+|[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)|[TimeMap.java](https://github.com/guillermobermejo/leetcode/blob/main/binary-search/TimeMap.java)|[binary-search](https://github.com/guillermobermejo/leetcode/tree/main/binary-search)|Medium|Java|131ms<br/>(Beats 91.78%)|119.9mb<br/>(Beats 46.87%)|
 |---|---|---|---|---|---|---|
-|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[topKFrequent.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/topKFrequent.java)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Medium<br/>**|Java|3ms<br/>(Beats 99.99%)|48.3mb<br/>(Beats 35.43%)|
+|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[topKFrequent.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/topKFrequent.java)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Medium<br/>*Cracked*|Java|3ms<br/>(Beats 99.99%)|48.3mb<br/>(Beats 35.43%)|
 |---|---|---|---|---|---|---|
 |[Two Sum](https://leetcode.com/problems/two-sum/)|[twoSum.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/twoSum.java)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Easy|Java|2ms<br/>(Beats 84.68%)|45.4mb<br/>(Beats 6.21%)|
 |---|---|---|---|---|---|---|
