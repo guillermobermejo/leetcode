@@ -74,7 +74,7 @@ using namespace std;
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-		vector<int> sol(2);
+	vector<int> sol(2);
         unordered_map<int, int> hashmap;
         int remainder = 0;
 		
