@@ -97,6 +97,8 @@
 |[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)|[characterReplacement.java](https://github.com/guillermobermejo/leetcode/blob/main/sliding-window/characterReplacement.java)|[sliding-window](https://github.com/guillermobermejo/leetcode/tree/main/sliding-window)|Medium<br/>*Cracked*|Java|5ms<br/>(Beats 99.27%)|45.68mb<br/>(Beats 48.22%)|
 |---|---|---|---|---|---|---|
 |[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[lengthOfLongestSubstring.java](https://github.com/guillermobermejo/leetcode/blob/main/sliding-window/lengthOfLongestSubstring.java)|[sliding-window](https://github.com/guillermobermejo/leetcode/tree/main/sliding-window)|Medium<br/>*Cracked*|Java|2ms<br/>(Beats 99.52%)|42.8mb<br/>(Beats 92.48%)|
+|---|---|---|---|---|---|---|---|
+|Longest Substring Without Repeating Characters|[lengthOfLongestSubstring.cpp](https://github.com/guillermobermejo/leetcode/blob/main/sliding-window/lengthOfLongestSubstring.cpp)|[sliding-window](https://github.com/guillermobermejo/leetcode/tree/main/sliding-window)|Medium<br/>*Cracked*|C++|0ms<br/>(Beats 100%)|9.2mb<br/>(Beats 90.17%)|
 |---|---|---|---|---|---|---|
 |[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[maxProduct.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/maxProduct.java)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Medium<br/>*Cracked*|Java|0ms<br/>(Beats 100%)|44.9mb<br/>(Beats 33.12%)|
 |---|---|---|---|---|---|---|
