@@ -26,9 +26,11 @@
 |---|---|---|---|---|---|---|---|
 |[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[topKFrequent.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/topKFrequent.java)|Medium<br/>*Cracked*|Java|O(n)|O(n)|3ms<br/>(Beats 99.99%)|48.3mb<br/>(Beats 35.43%)|
 |---|---|---|---|---|---|---|---|
-|[Two Sum](https://leetcode.com/problems/two-sum/)|[twoSum.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/twoSum.java)|Easy|Java|O(n)|O(n)|2ms<br/>(Beats 84.68%)|45.4mb<br/>(Beats 6.21%)|
+|[Two Sum](https://leetcode.com/problems/two-sum/)|[twoSum.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/twoSum.java)|Easy<br/>*Cracked*|Java|O(n)|O(n)|2ms<br/>(Beats 84.68%)|45.4mb<br/>(Beats 6.21%)|
 |---|---|---|---|---|---|---|---|
 |Two Sum*|[twoSum2.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/twoSum2.java)|Easy|Java|O(n)|O(n)|5ms<br/>(Beats 57.67%)|42.8mb<br/>(Beats 99.86%)|
+|---|---|---|---|---|---|---|---|
+|Two Sum|[twoSum.cpp](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/twoSum.cpp)|Easy<br/>*Cracked*|C++|O(n)|O(n)|4ms<br/>(Beats 94.69%)|14.1mb<br/>(Beats 25.67%)|
 |---|---|---|---|---|---|---|---|
 |[Valid Anagram](https://leetcode.com/problems/valid-anagram/)<br/>*(hashmap)*|[isAnagram.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/isAnagram.java)|Easy|Java|O(n)|O(n)|20ms<br/>(Beats 11.58%)|42.9mb<br/>(Beats 71.10%)|
 |---|---|---|---|---|---|---|---|
