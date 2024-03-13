@@ -125,6 +125,8 @@
 |[Two Sum](https://leetcode.com/problems/two-sum/)|[twoSum.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/twoSum.java)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Easy|Java|2ms<br/>(Beats 84.68%)|45.4mb<br/>(Beats 6.21%)|
 |---|---|---|---|---|---|---|
 |Two Sum*|[twoSum2.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/twoSum2.java)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Easy|Java|5ms<br/>(Beats 57.67%)|42.8mb<br/>(Beats 99.86%)|
+|---|---|---|---|---|---|---|---|
+|Two Sum|[twoSum.cpp](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/twoSum.cpp)|arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Easy<br/>*Cracked*|C++|4ms<br/>(Beats 94.69%)|14.1mb<br/>(Beats 25.67%)|
 |---|---|---|---|---|---|---|
 |[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[twoSum.java](https://github.com/guillermobermejo/leetcode/blob/main/two-pointers/twoSum.java)|[two-pointers](https://github.com/guillermobermejo/leetcode/tree/main/two-pointers)|Medium|Java|2ms<br/>(Beats 89.86%)|47mb<br/>(Beats 37.88%)|
 |---|---|---|---|---|---|---|
