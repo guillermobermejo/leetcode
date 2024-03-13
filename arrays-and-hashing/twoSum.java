@@ -1,6 +1,6 @@
 /**
-Version: 1 (most recent)         E
-Programmer: Guillermo
+Programmer: Guillermo            E
+Language: Java
 Time Complexity: O(n)
 Space Complexity: O(n)
 Runtime: 2ms (beats 84.68%)
