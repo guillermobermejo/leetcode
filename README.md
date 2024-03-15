@@ -92,6 +92,10 @@
 |---|---|---|---|---|---|---|
 |[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)|[minEatingSpeed.java](https://github.com/guillermobermejo/leetcode/blob/main/binary-search/minEatingSpeed.java)|[binary-search](https://github.com/guillermobermejo/leetcode/tree/main/binary-search)|Medium|Java|27ms<br/>(Beats 36.15%)|44.9mb<br/>(Beats 50.27%)|
 |---|---|---|---|---|---|---|
+|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)<br/>*(1 while condition)*|[hasCycle.java](https://github.com/guillermobermejo/leetcode/blob/main/linked-list/hasCycle.java)|[linked-list](https://github.com/guillermobermejo/leetcode/tree/main/linked-list)|Easy<br/>*Cracked*|Java|0ms<br/>(Beats 100%)|43.7mb<br/>(Beats 97.74%)|
+|---|---|---|---|---|---|---|
+|Linked List Cycle<br/>*(2 while condition)*|[hasCycle2.java](https://github.com/guillermobermejo/leetcode/blob/main/linked-list/hasCycle2.java)|[linked-list](https://github.com/guillermobermejo/leetcode/tree/main/linked-list)|Easy<br/>*Cracked*|Java|0ms<br/>(Beats 100%)|43.8mb<br/>(Beats 95.80%)|
+|---|---|---|---|---|---|---|
 |[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[longestConsecutive.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/longestConsecutive.java)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Medium|Java|26ms<br/>(Beats 72.15%)|67.3mb<br/>(Beats 10.54%)|
 |---|---|---|---|---|---|---|
 |[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)|[characterReplacement.java](https://github.com/guillermobermejo/leetcode/blob/main/sliding-window/characterReplacement.java)|[sliding-window](https://github.com/guillermobermejo/leetcode/tree/main/sliding-window)|Medium<br/>*Cracked*|Java|5ms<br/>(Beats 99.27%)|45.68mb<br/>(Beats 48.22%)|
