@@ -174,8 +174,8 @@
 
 |Problem Name|File Name|File Location|Difficulty|Language|Runtime|Memory|
 |---|---|---|---|---|---|---|
-|[BracketMatcher.java](https://coderbyte.com/information/Bracket%20Matcher/)|[BracketMatcher.java](https://github.com/guillermobermejo/leetcode/blob/main/x-coderbyte/BracketMatcher.java)|[x-coderbyte](https://github.com/guillermobermejo/leetcode/tree/main/x-coderbyte)|Medium<br/>*Cracked*|Java|Score: 42.3% higher|N/A|
+|[BracketMatcher.java](https://coderbyte.com/information/Bracket%20Matcher/)|[BracketMatcher.java](https://github.com/guillermobermejo/leetcode/blob/main/x-coderbyte/BracketMatcher.java)|[x-coderbyte](https://github.com/guillermobermejo/leetcode/tree/main/x-coderbyte)|Medium<br/>*Cracked*|Java|42.3% higher|N/A|
 |---|---|---|---|---|---|---|
 |[Codeland Username Validation](https://coderbyte.com/information/Codeland%20Username%20Validation/)<br/>*(HashSet<Character>)*|[CodelandUsernameValidation.java](https://github.com/guillermobermejo/leetcode/blob/main/x-coderbyte/CodelandUsernameValidation.java)|[x-coderbyte](https://github.com/guillermobermejo/leetcode/tree/main/x-coderbyte)|Easy|Java|Score: 42.3% higher|N/A|
 |---|---|---|---|---|---|---|
-|Codeland Username Validation<br/>*(Ascii Manipulation)*|[CodelandUsernameValidation2.java](https://github.com/guillermobermejo/leetcode/blob/main/x-coderbyte/CodelandUsernameValidation2.java)|[x-coderbyte](https://github.com/guillermobermejo/leetcode/tree/main/x-coderbyte)|Easy<br/>*Cracked*|Java|Score: 50.8% higher|N/A|
+|Codeland Username Validation<br/>*(Ascii Manipulation)*|[CodelandUsernameValidation2.java](https://github.com/guillermobermejo/leetcode/blob/main/x-coderbyte/CodelandUsernameValidation2.java)|[x-coderbyte](https://github.com/guillermobermejo/leetcode/tree/main/x-coderbyte)|Easy<br/>*Cracked*|Java|50.8% higher|N/A|
