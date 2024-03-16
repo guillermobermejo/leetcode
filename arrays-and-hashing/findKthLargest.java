@@ -3,8 +3,8 @@ Programmer: Guillermo       M	*Cracked*
 Language: Java
 Time Complexity: O(n) 
 Space Complexity: O(n)
-Runtime: 4ms (beats 97.39%)
-Memory: 54.5mb (beats 99.87%)
+Runtime: 4ms (beats 97.34%)
+Memory: 54.5mb (beats 99.88%)
 
 DS: int[]   as number map where value at index i is a value in nums[]
 Advantage:  O(1) number times encountered search
@@ -124,8 +124,7 @@ Visualization of Algorithm:
 						RETURN i*-1		// index i == 2
 	
 	returns: 5th largest value in nums: [-3,-2,-2, 5, 4, 4]
-	returns: -2
-	
+	returns: -2	
 */
 
 class Solution {
