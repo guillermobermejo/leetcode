@@ -40,7 +40,9 @@
     │   └── ...
     ├── trees/
     │   └── ...
-    └── two-pointers/
+    ├── two-pointers/
+    │   └── ...
+    └── x-coderbyte/
         └── ...
   ```
 
@@ -162,13 +164,15 @@
 |---|---|---|---|---|---|---|---|
 |Valid Sudoku<br/>*(quadrants func)*|[isValidSudoku2.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/isValidSudoku2.java)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Medium<br/>*Cracked*|Java|1ms<br/>(Beats 100%)|44.2mb<br/>(Beats 52.16%)|
 
+<br/>
+<br/>
 
-### All file locations: :space_invader: :space_invader: :space_invader:
+### Extra Coderbyte Questions: :space_invader: :space_invader: :space_invader:
 - Table Structure: :flying_saucer: :flying_saucer:
   - Problem Name | File Name | File Location | Difficulty | Language | Runtime | Memory
 
 |Problem Name|File Name|File Location|Difficulty|Language|Runtime|Memory|
 |---|---|---|---|---|---|---|
-|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)<br/>*(recursive)*|[addTwoNumbers.java](https://github.com/guillermobermejo/leetcode/blob/main/linked-list/addTwoNumbers.java)|[linked-list](https://github.com/guillermobermejo/leetcode/tree/main/linked-list)|Medium<br/>*Cracked*|Java|1ms<br/>(Beats 100%)|44.2mb<br/>(Beats 32.42%)|
+|[Codeland Username Validation](https://coderbyte.com/information/Codeland%20Username%20Validation/)<br/>*(HashSet<Character>)*|[CodelandUsernameValidation.java](https://github.com/guillermobermejo/leetcode/blob/main/x-coderbyte/CodelandUsernameValidation.java)|[x-coderbyte](https://github.com/guillermobermejo/leetcode/tree/main/x-coderbyte)|Easy<br/>*Cracked*|Java|Score: 42.3% higher|N/A|
 |---|---|---|---|---|---|---|
-|Add Two Numbers<br/>*(iterative)*|[addTwoNumbers2.java](https://github.com/guillermobermejo/leetcode/blob/main/linked-list/addTwoNumbers2.java)|[linked-list](https://github.com/guillermobermejo/leetcode/tree/main/linked-list)|Medium<br/>*Cracked*|Java|1ms<br/>(Beats 100%)|44.3mb<br/>(Beats 30.97%)|
+|Codeland Username Validation<br/>*(Ascii Manipulation)*|[CodelandUsernameValidation2.java](https://github.com/guillermobermejo/leetcode/blob/main/x-coderbyte/CodelandUsernameValidation2.java)|[x-coderbyte](https://github.com/guillermobermejo/leetcode/tree/main/x-coderbyte)|Easy<br/>*Cracked*|Java|Score: 50.8% higher|N/A|
