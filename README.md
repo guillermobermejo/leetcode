@@ -74,6 +74,8 @@
 |---|---|---|---|---|---|---|
 |Contains Duplicate<br/>*(Optimized)*|[containsDuplicate2.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/containsDuplicate2.java)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Easy<br/>*Cracked*|Java|7ms<br/>(Beats 98.46%)|60.7mb<br/>(Beats 19.71%)|
 |---|---|---|---|---|---|---|
+|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[findKthLargest.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/findKthLargest.java)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Medium<br/>*Cracked*|Java|4ms<br/>(Beats 97.39%)|54.5mb<br/>(Beats 99.87%)|
+|---|---|---|---|---|---|---|
 |[House Robber](https://leetcode.com/problems/house-robber/)<br/>*(standard)*|[rob.java](https://github.com/guillermobermejo/leetcode/blob/main/1-d-dp/rob.java)|[1-d-dp](https://github.com/guillermobermejo/leetcode/tree/main/1-d-dp)|Medium|Java|0ms<br/>(Beats 100%)|40.8mb<br/>(Beats 28.98%)|
 |---|---|---|---|---|---|---|---|
 |House Robber<br/>*(in-place)*|[rob2.java](https://github.com/guillermobermejo/leetcode/blob/main/1-d-dp/rob2.java)|[1-d-dp](https://github.com/guillermobermejo/leetcode/tree/main/1-d-dp)|Medium|Java|0ms<br/>(Beats 100%)|40.8mb<br/>(Beats 32.40%)|
