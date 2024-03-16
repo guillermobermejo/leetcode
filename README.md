@@ -186,6 +186,6 @@
 |---|---|---|---|---|---|---|
 |Longest Word<br/>*(Regex)*|[LongestWord2.java](https://github.com/guillermobermejo/leetcode/blob/main/x-coderbyte/LongestWord2.java)|[x-coderbyte](https://github.com/guillermobermejo/leetcode/tree/main/x-coderbyte)|Easy|Java|42.3% higher|N/A|
 |---|---|---|---|---|---|---|
-|Longest Word<br/>*(Regex Simplify)*|[LongestWord3.java](https://github.com/guillermobermejo/leetcode/blob/main/x-coderbyte/LongestWord3.java)|[x-coderbyte](https://github.com/guillermobermejo/leetcode/tree/main/x-coderbyte)|Easy|Java|42.3% higher|N/A|
+|Longest Word<br/>*(Regex+)*|[LongestWord3.java](https://github.com/guillermobermejo/leetcode/blob/main/x-coderbyte/LongestWord3.java)|[x-coderbyte](https://github.com/guillermobermejo/leetcode/tree/main/x-coderbyte)|Easy|Java|42.3% higher|N/A|
 |---|---|---|---|---|---|---|
-|Longest Word<br/>*(Regex Simplify+)*|[LongestWord4.java](https://github.com/guillermobermejo/leetcode/blob/main/x-coderbyte/LongestWord4.java)|[x-coderbyte](https://github.com/guillermobermejo/leetcode/tree/main/x-coderbyte)|Easy|Java|42.3% higher|N/A|
+|Longest Word<br/>*(Regex++)*|[LongestWord4.java](https://github.com/guillermobermejo/leetcode/blob/main/x-coderbyte/LongestWord4.java)|[x-coderbyte](https://github.com/guillermobermejo/leetcode/tree/main/x-coderbyte)|Easy|Java|42.3% higher|N/A|
