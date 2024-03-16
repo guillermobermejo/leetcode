@@ -3,18 +3,17 @@ Programmer: Guillermo
 Score: 42.3% higher
 
 Question:
-Bracket Matcher
-Have the function BracketMatcher(str) take the str parameter being passed and return 1 if the brackets are 
-correctly matched and each one is accounted for. Otherwise return 0. For example: if str is "(hello (world))", 
-then the output should be 1, but if str is "((hello (world))" the the output should be 0 because the brackets 
-do not correctly match up. Only "(" and ")" will be used as brackets. If str contains no brackets return 1.
+First Factorial
+Have the function FirstFactorial(num) take the num parameter being passed and return the factorial of it. 
+For example: if num = 4, then your program should return (4 * 3 * 2 * 1) = 24. For the test cases, the range 
+will be between 1 and 18 and the input will always be an integer.
 
 Examples:
-Input: "(coder)(byte))"
-Output: 0
+Input: 4
+Output: 24
 
-Input: "(c(oder)) b(yte)"
-Output: 1
+Input: 8
+Output: 40320
 */
 
 class Main {
