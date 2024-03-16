@@ -161,3 +161,14 @@
 |[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)<br/>*(int[ ][ ] quadrants)*|[isValidSudoku.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/isValidSudoku.java)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Medium<br/>*Cracked*|Java|1ms<br/>(Beats 100%)|44.3mb<br/>(Beats 39.61%)|
 |---|---|---|---|---|---|---|---|
 |Valid Sudoku<br/>*(quadrants func)*|[isValidSudoku2.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/isValidSudoku2.java)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Medium<br/>*Cracked*|Java|1ms<br/>(Beats 100%)|44.2mb<br/>(Beats 52.16%)|
+
+
+### All file locations: :space_invader: :space_invader: :space_invader:
+- Table Structure: :flying_saucer: :flying_saucer:
+  - Problem Name | File Name | File Location | Difficulty | Language | Runtime | Memory
+
+|Problem Name|File Name|File Location|Difficulty|Language|Runtime|Memory|
+|---|---|---|---|---|---|---|
+|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)<br/>*(recursive)*|[addTwoNumbers.java](https://github.com/guillermobermejo/leetcode/blob/main/linked-list/addTwoNumbers.java)|[linked-list](https://github.com/guillermobermejo/leetcode/tree/main/linked-list)|Medium<br/>*Cracked*|Java|1ms<br/>(Beats 100%)|44.2mb<br/>(Beats 32.42%)|
+|---|---|---|---|---|---|---|
+|Add Two Numbers<br/>*(iterative)*|[addTwoNumbers2.java](https://github.com/guillermobermejo/leetcode/blob/main/linked-list/addTwoNumbers2.java)|[linked-list](https://github.com/guillermobermejo/leetcode/tree/main/linked-list)|Medium<br/>*Cracked*|Java|1ms<br/>(Beats 100%)|44.3mb<br/>(Beats 30.97%)|
