@@ -2,19 +2,17 @@
 Programmer: Guillermo
 Score: 42.3% higher
 
-Question:
-Bracket Matcher
-Have the function BracketMatcher(str) take the str parameter being passed and return 1 if the brackets are 
-correctly matched and each one is accounted for. Otherwise return 0. For example: if str is "(hello (world))", 
-then the output should be 1, but if str is "((hello (world))" the the output should be 0 because the brackets 
-do not correctly match up. Only "(" and ")" will be used as brackets. If str contains no brackets return 1.
+Longest Word
+Have the function LongestWord(sen) take the sen parameter being passed and return the longest word in the string. 
+If there are two or more words that are the same length, return the first word from the string with that length. 
+Ignore punctuation and assume sen will not be empty. Words may also contain numbers, for example "Hello world123 567"
 
 Examples:
-Input: "(coder)(byte))"
-Output: 0
+Input: "fun&!! time"
+Output: time
 
-Input: "(c(oder)) b(yte)"
-Output: 1
+Input: "I love dogs"
+Output: love
 */
 
 import java.util.*; 
