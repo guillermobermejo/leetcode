@@ -116,6 +116,10 @@
 |---|---|---|---|---|---|---|
 |Min Stack<br/>*(nodes)*|[MinStack3.java](https://github.com/guillermobermejo/leetcode/blob/main/stack/MinStack3.java)|[stack](https://github.com/guillermobermejo/leetcode/tree/main/stack)|Medium<br/>*Cracked*|Java|4ms<br/>(Beats 98.12%)|44.86mb<br/>(Beats 86.30%)|
 |---|---|---|---|---|---|---|
+|[Number of Islands](https://leetcode.com/problems/number-of-islands/)<br/>*(visited[ ][ ])*|[numIslands.java](https://github.com/guillermobermejo/leetcode/blob/main/graphs/numIslands.java)|[graphs](https://github.com/guillermobermejo/leetcode/tree/main/graphs)|Medium|Java|4ms<br/>(Beats 48.62%)|48.1mb<br/>(Beats 99.82%)|
+|---|---|---|---|---|---|---|
+|Number of Islands<br/>*(in-place)*|[numIslands2.java](https://github.com/guillermobermejo/leetcode/blob/main/graphs/numIslands2.java)|[graphs](https://github.com/guillermobermejo/leetcode/tree/main/graphs)|Medium<br/>*Cracked*|Java|3ms<br/>(Beats 87.08%)|48.1mb<br/>(Beats 79.09%)|
+|---|---|---|---|---|---|---|
 |[Permutation In String](https://leetcode.com/problems/permutation-in-string/)|[checkInclusion.java](https://github.com/guillermobermejo/leetcode/blob/main/sliding-window/checkInclusion.java)|[sliding-window](https://github.com/guillermobermejo/leetcode/tree/main/sliding-window)|Medium<br/>*Cracked*|Java|5ms<br/>(Beats 96.67%)|42.1mb<br/>(Beats 95.22%)|
 |---|---|---|---|---|---|---|
 |[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)<br/>*(in-place)*|[productExceptSelf.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/productExceptSelf.java)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Medium|Java|2ms<br/>(Beats 66.87%)|53mb<br/>(Beats 51.43%)|
