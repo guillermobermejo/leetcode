@@ -176,9 +176,9 @@
 |---|---|---|---|---|---|---|
 |[Bracket Matcher](https://coderbyte.com/information/Bracket%20Matcher/)|[BracketMatcher.java](https://github.com/guillermobermejo/leetcode/blob/main/x-coderbyte/BracketMatcher.java)|[x-coderbyte](https://github.com/guillermobermejo/leetcode/tree/main/x-coderbyte)|Medium<br/>*Cracked*|Java|42.3% higher|N/A|
 |---|---|---|---|---|---|---|
-|[Codeland Username Validation](https://coderbyte.com/information/Codeland%20Username%20Validation/)<br/>*(HashSet<Character>)*|[CodelandUsernameValidation.java](https://github.com/guillermobermejo/leetcode/blob/main/x-coderbyte/CodelandUsernameValidation.java)|[x-coderbyte](https://github.com/guillermobermejo/leetcode/tree/main/x-coderbyte)|Easy|Java|42.3% higher|N/A|
+|[Codeland Username Validation](https://coderbyte.com/information/Codeland%20Username%20Validation/)<br/>*(HashSet)*|[CodelandUsernameValidation.java](https://github.com/guillermobermejo/leetcode/blob/main/x-coderbyte/CodelandUsernameValidation.java)|[x-coderbyte](https://github.com/guillermobermejo/leetcode/tree/main/x-coderbyte)|Easy|Java|42.3% higher|N/A|
 |---|---|---|---|---|---|---|
-|Codeland Username Validation<br/>*(Ascii Manipulation)*|[CodelandUsernameValidation2.java](https://github.com/guillermobermejo/leetcode/blob/main/x-coderbyte/CodelandUsernameValidation2.java)|[x-coderbyte](https://github.com/guillermobermejo/leetcode/tree/main/x-coderbyte)|Easy<br/>*Cracked*|Java|50.8% higher|N/A|
+|Codeland Username Validation<br/>*(Ascii)*|[CodelandUsernameValidation2.java](https://github.com/guillermobermejo/leetcode/blob/main/x-coderbyte/CodelandUsernameValidation2.java)|[x-coderbyte](https://github.com/guillermobermejo/leetcode/tree/main/x-coderbyte)|Easy<br/>*Cracked*|Java|50.8% higher|N/A|
 |---|---|---|---|---|---|---|
 |[First Factorial](https://coderbyte.com/information/First%20Factorial/)|[FirstFactorial.java](https://github.com/guillermobermejo/leetcode/blob/main/x-coderbyte/FirstFactorial.java)|[x-coderbyte](https://github.com/guillermobermejo/leetcode/tree/main/x-coderbyte)|Medium<br/>*Cracked*|Java|42.3% higher|N/A|
 |---|---|---|---|---|---|---|
