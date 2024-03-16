@@ -116,7 +116,7 @@
 |---|---|---|---|---|---|---|
 |Min Stack<br/>*(nodes)*|[MinStack3.java](https://github.com/guillermobermejo/leetcode/blob/main/stack/MinStack3.java)|[stack](https://github.com/guillermobermejo/leetcode/tree/main/stack)|Medium<br/>*Cracked*|Java|4ms<br/>(Beats 98.12%)|44.86mb<br/>(Beats 86.30%)|
 |---|---|---|---|---|---|---|
-|[Number of Islands](https://leetcode.com/problems/number-of-islands/)<br/>*(visited[ ][ ])*|[numIslands.java](https://github.com/guillermobermejo/leetcode/blob/main/graphs/numIslands.java)|[graphs](https://github.com/guillermobermejo/leetcode/tree/main/graphs)|Medium|Java|4ms<br/>(Beats 48.62%)|48.1mb<br/>(Beats 99.82%)|
+|[Number of Islands](https://leetcode.com/problems/number-of-islands/)<br/>*(int[ ][ ] visited)*|[numIslands.java](https://github.com/guillermobermejo/leetcode/blob/main/graphs/numIslands.java)|[graphs](https://github.com/guillermobermejo/leetcode/tree/main/graphs)|Medium|Java|4ms<br/>(Beats 48.62%)|48.1mb<br/>(Beats 99.82%)|
 |---|---|---|---|---|---|---|
 |Number of Islands<br/>*(in-place)*|[numIslands2.java](https://github.com/guillermobermejo/leetcode/blob/main/graphs/numIslands2.java)|[graphs](https://github.com/guillermobermejo/leetcode/tree/main/graphs)|Medium<br/>*Cracked*|Java|3ms<br/>(Beats 87.08%)|48.1mb<br/>(Beats 79.09%)|
 |---|---|---|---|---|---|---|
