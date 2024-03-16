@@ -61,13 +61,13 @@
 |Best Time to Buy and Sell Stock<br/>*(int[ ] array)*|[maxProfit2.java](https://github.com/guillermobermejo/leetcode/blob/main/sliding-window/maxProfit2.java)|[sliding-window](https://github.com/guillermobermejo/leetcode/tree/main/sliding-window)|Easy<br/>*Cracked*|Java|2ms<br/>(Beats 78.72%)|56.9mb<br/>(Beats 97.49%)|
 |---|---|---|---|---|---|---|
 |[Binary Search](https://leetcode.com/problems/binary-search/)|[search.java](https://github.com/guillermobermejo/leetcode/blob/main/binary-search/search.java)|[binary-search](https://github.com/guillermobermejo/leetcode/tree/main/binary-search)|Easy|Java|0ms<br/>(Beats 100%)|45.68mb<br/>(Beats 19.53%)|
-|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|
 |[Car Fleet](https://leetcode.com/problems/car-fleet/)<br/>*(variables)*|[carFleet.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/carFleet.java)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Medium|Java|25ms<br/>(Beats 85.78%)|57.5mb<br/>(Beats 48.97%)|
-|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|
 |Car Fleet<br/>*(sort)*|[carFleet2.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/carFleet2.java)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Medium|Java|23ms<br/>(Beats 86.28%)|58.7mb<br/>(Beats 25.70%)|
-|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|
 |Car Fleet<br/>*(no sort)*|[carFleet3.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/carFleet3.java)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Medium<br/>*Cracked*|Java|14ms<br/>(Beats 96.83%)|58.4mb<br/>(Beats 30.96%)|
-|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|
 |[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[maxArea.java](https://github.com/guillermobermejo/leetcode/blob/main/two-pointers/maxArea.java)|[two-pointers](https://github.com/guillermobermejo/leetcode/tree/main/two-pointers)|Medium|Java|4ms<br/>(Beats 88.28%)|57.1mb<br/>(Beats 47.91%)|
 |---|---|---|---|---|---|---|
 |[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[climbStairs.java](https://github.com/guillermobermejo/leetcode/blob/main/1-d-dp/climbStairs.java)|[1-d-dp](https://github.com/guillermobermejo/leetcode/tree/main/1-d-dp)|Easy|Java|0ms<br/>(Beats 100%)|39.7mb<br/>(Beats 49.05%)|
@@ -79,19 +79,19 @@
 |[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[findKthLargest.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/findKthLargest.java)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Medium<br/>*Cracked*|Java|4ms<br/>(Beats 97.39%)|54.5mb<br/>(Beats 99.87%)|
 |---|---|---|---|---|---|---|
 |[House Robber](https://leetcode.com/problems/house-robber/)<br/>*(standard)*|[rob.java](https://github.com/guillermobermejo/leetcode/blob/main/1-d-dp/rob.java)|[1-d-dp](https://github.com/guillermobermejo/leetcode/tree/main/1-d-dp)|Medium|Java|0ms<br/>(Beats 100%)|40.8mb<br/>(Beats 28.98%)|
-|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|
 |House Robber<br/>*(in-place)*|[rob2.java](https://github.com/guillermobermejo/leetcode/blob/main/1-d-dp/rob2.java)|[1-d-dp](https://github.com/guillermobermejo/leetcode/tree/main/1-d-dp)|Medium|Java|0ms<br/>(Beats 100%)|40.8mb<br/>(Beats 32.40%)|
-|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|
 |House Robber<br/>*(variables)*|[rob3.java](https://github.com/guillermobermejo/leetcode/blob/main/1-d-dp/rob3.java)|[1-d-dp](https://github.com/guillermobermejo/leetcode/tree/main/1-d-dp)|Medium|Java|0ms<br/>(Beats 100%)|40.4mb<br/>(Beats 54.54%)|
-|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|
 |House Robber<br/>*(modular)*|[rob4.java](https://github.com/guillermobermejo/leetcode/blob/main/1-d-dp/rob4.java)|[1-d-dp](https://github.com/guillermobermejo/leetcode/tree/main/1-d-dp)|Medium|Java|0ms<br/>(Beats 100%)|40.6mb<br/>(Beats 46.58%)|
-|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|
 |House Robber<br/>*(modular +)*|[rob5.java](https://github.com/guillermobermejo/leetcode/blob/main/1-d-dp/rob5.java)|[1-d-dp](https://github.com/guillermobermejo/leetcode/tree/main/1-d-dp)|Medium|Java|0ms<br/>(Beats 100%)|40.8mb<br/>(Beats 41.85%)|
-|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|
 |[House Robber II](https://leetcode.com/problems/house-robber-ii/)<br/>*(standard)*|[robCircular.java](https://github.com/guillermobermejo/leetcode/blob/main/1-d-dp/robCircular.java)|[1-d-dp](https://github.com/guillermobermejo/leetcode/tree/main/1-d-dp)|Medium|Java|0ms<br/>(Beats 100%)|40.8mb<br/>(Beats 41.89%)|
-|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|
 |House Robber II<br/>*(modular)*|[robCircular2.java](https://github.com/guillermobermejo/leetcode/blob/main/1-d-dp/robCircular2.java)|[1-d-dp](https://github.com/guillermobermejo/leetcode/tree/main/1-d-dp)|Medium|Java|0ms<br/>(Beats 100%)|40.6mb<br/>(Beats 51.77%)|
-|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|
 |House Robber II<br/>*(modular +)*|[robCircular3.java](https://github.com/guillermobermejo/leetcode/blob/main/1-d-dp/robCircular3.java)|[1-d-dp](https://github.com/guillermobermejo/leetcode/tree/main/1-d-dp)|Medium|Java|0ms<br/>(Beats 100%)|40.6mb<br/>(Beats 43.09%)|
 |---|---|---|---|---|---|---|
 |[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)|[minEatingSpeed.java](https://github.com/guillermobermejo/leetcode/blob/main/binary-search/minEatingSpeed.java)|[binary-search](https://github.com/guillermobermejo/leetcode/tree/main/binary-search)|Medium|Java|27ms<br/>(Beats 36.15%)|44.9mb<br/>(Beats 50.27%)|
@@ -143,7 +143,7 @@
 |[Two Sum](https://leetcode.com/problems/two-sum/)|[twoSum.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/twoSum.java)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Easy|Java|2ms<br/>(Beats 84.68%)|45.4mb<br/>(Beats 6.21%)|
 |---|---|---|---|---|---|---|
 |Two Sum*|[twoSum2.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/twoSum2.java)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Easy|Java|5ms<br/>(Beats 57.67%)|42.8mb<br/>(Beats 99.86%)|
-|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|
 |Two Sum|[twoSum.cpp](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/twoSum.cpp)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Easy<br/>*Cracked*|C++|4ms<br/>(Beats 94.69%)|14.1mb<br/>(Beats 25.67%)|
 |---|---|---|---|---|---|---|
 |[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[twoSum.java](https://github.com/guillermobermejo/leetcode/blob/main/two-pointers/twoSum.java)|[two-pointers](https://github.com/guillermobermejo/leetcode/tree/main/two-pointers)|Medium|Java|2ms<br/>(Beats 89.86%)|47mb<br/>(Beats 37.88%)|
@@ -159,11 +159,12 @@
 |[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[isValid.java](https://github.com/guillermobermejo/leetcode/blob/main/stack/isValid.java)|[stack](https://github.com/guillermobermejo/leetcode/tree/main/stack)|Easy|Java|2ms<br/>(Beats 79.10%)|42.9mb<br/>(Beats 20.54%)|
 |---|---|---|---|---|---|---|
 |Valid Parentheses<br/>*(char-push)*|[isValid2.java](https://github.com/guillermobermejo/leetcode/blob/main/stack/isValid2.java)|[stack](https://github.com/guillermobermejo/leetcode/tree/main/stack)|Easy<br/>*Cracked*|Java|1ms<br/>(Beats 98.54%)|41.5mb<br/>(Beats 10.3%)|
-|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|
 |[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)<br/>*(int[ ][ ] quadrants)*|[isValidSudoku.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/isValidSudoku.java)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Medium<br/>*Cracked*|Java|1ms<br/>(Beats 100%)|44.3mb<br/>(Beats 39.61%)|
-|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|
 |Valid Sudoku<br/>*(quadrants func)*|[isValidSudoku2.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/isValidSudoku2.java)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Medium<br/>*Cracked*|Java|1ms<br/>(Beats 100%)|44.2mb<br/>(Beats 52.16%)|
 
+<br/>
 <br/>
 <br/>
 
@@ -173,6 +174,8 @@
 
 |Problem Name|File Name|File Location|Difficulty|Language|Runtime|Memory|
 |---|---|---|---|---|---|---|
-|[Codeland Username Validation](https://coderbyte.com/information/Codeland%20Username%20Validation/)<br/>*(HashSet<Character>)*|[CodelandUsernameValidation.java](https://github.com/guillermobermejo/leetcode/blob/main/x-coderbyte/CodelandUsernameValidation.java)|[x-coderbyte](https://github.com/guillermobermejo/leetcode/tree/main/x-coderbyte)|Easy<br/>*Cracked*|Java|Score: 42.3% higher|N/A|
+|[BracketMatcher.java](https://coderbyte.com/information/Bracket%20Matcher/)|[BracketMatcher.java](https://github.com/guillermobermejo/leetcode/blob/main/x-coderbyte/BracketMatcher.java)|[x-coderbyte](https://github.com/guillermobermejo/leetcode/tree/main/x-coderbyte)|Medium<br/>*Cracked*|Java|Score: 42.3% higher|N/A|
+|---|---|---|---|---|---|---|
+|[Codeland Username Validation](https://coderbyte.com/information/Codeland%20Username%20Validation/)<br/>*(HashSet<Character>)*|[CodelandUsernameValidation.java](https://github.com/guillermobermejo/leetcode/blob/main/x-coderbyte/CodelandUsernameValidation.java)|[x-coderbyte](https://github.com/guillermobermejo/leetcode/tree/main/x-coderbyte)|Easy|Java|Score: 42.3% higher|N/A|
 |---|---|---|---|---|---|---|
 |Codeland Username Validation<br/>*(Ascii Manipulation)*|[CodelandUsernameValidation2.java](https://github.com/guillermobermejo/leetcode/blob/main/x-coderbyte/CodelandUsernameValidation2.java)|[x-coderbyte](https://github.com/guillermobermejo/leetcode/tree/main/x-coderbyte)|Easy<br/>*Cracked*|Java|Score: 50.8% higher|N/A|
