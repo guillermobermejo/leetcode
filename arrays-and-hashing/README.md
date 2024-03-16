@@ -16,6 +16,8 @@
 |---|---|---|---|---|---|---|
 |Contains Duplicate<br/>*(Optimized)*|[containsDuplicate2.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/containsDuplicate2.java)|Easy<br/>*Cracked*|Java|O(n)|O(n)|7ms<br/>(Beats 98.46%)|60.7mb<br/>(Beats 19.71%)|
 |---|---|---|---|---|---|---|---|
+|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[findKthLargest.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/findKthLargest.java)|Medium<br/>*Cracked*|Java|O(n)|O(n)|4ms<br/>(Beats 97.39%)|54.5mb<br/>(Beats 99.87%)|
+|---|---|---|---|---|---|---|---|
 |[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[longestConsecutive.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/longestConsecutive.java)|Medium|Java|O(n)|O(n)|26ms<br/>(Beats 72.15%)|67.3mb<br/>(Beats 10.54%)|
 |---|---|---|---|---|---|---|---|
 |[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[maxProduct.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/maxProduct.java)|Medium<br/>*Cracked*|Java|O(n)|O(1)|0ms<br/>(Beats 100%)|44.9mb<br/>(Beats 33.12%)|
