@@ -28,8 +28,8 @@ Approach:
 
 Algorithm:
     declare int[] and dict(): 
-        1 int[]                           size: 2             name: result
-        1 dict()                	      		  name: hashmap
+        1 int[]                           size: 2            name: result
+        1 dict()                	      		 name: hashmap
         int remainder
         
     initialize:
