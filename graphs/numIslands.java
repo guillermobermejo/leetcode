@@ -4,7 +4,7 @@ Language: Java
 Time Complexity: O(n*m)
 Space Complexity: O(n*m)
 Runtime: 4ms (beats 48.62%)
-Memory: 48.1mb (beats 79.08%)
+Memory: 48.1mb (beats 99.80%)
 
 DS: int[][]	a visited map for the land that has been previously visited
 Advantage:  O(1) Insertion
