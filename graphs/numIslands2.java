@@ -1,3 +1,76 @@
+/**
+Programmer: Guillermo       M	(in-place)
+Language: Java
+Time Complexity: O(n*m)
+Space Complexity: O(n*m)
+Runtime: 3ms (beats 87.08%)
+Memory: 49.1mb (beats 79.09%)
+
+
+
+
+DS: none
+
+Approach:
+    use backtracking approach to traverse the current land the moment it has been encountered
+	function will be named traverseLand() that will take 3 inputs, the grid, and current row / col
+	
+	main function: 
+		set variable to track current number of islands, grid will be manipulated to keep track of visited land with '2'
+		traverse all of grid in a standard for loop
+			if a row col position in grid is '1' TRAVERSE
+				increment number of islands after traversal
+			(if a row col position in grid is '1' it has not yet been traversed as the position at [row][col] is not '2')
+		
+		return number of islands
+	
+	traverseLand() function: void
+		check that the current row / col position is not out of bounds of the grid
+			if true return 
+		
+		check if the current row / col position is on water or has previously been visited
+			if true return
+		
+		// at this point the current row / col position is a new unvisited piece of land that must be traversed 
+		backtracking...
+		set the current row / col position in grid to '2'
+		recursively call the function on the right side of the current position
+		recursively call the function on the lower side of the current position
+		recursively call the function on the left side of the current position
+		recursively call the function on the upper side of the current position
+
+Algorithm:
+    main function: 
+		declare & initialize: 
+		
+			1 int variable		name: numIslands	value: 0	notes: keeps track of all traversed pieces of land
+			
+		for loop: (int row = 0; row < grid.length; row++)			// traverse all rows of grid
+			for loop: (int col = 0; col < grid[0].length; col++)	// traverse all colums of grid
+				if check: 
+					if grid[row][col] == '1'							// if current position is land and UNVISITED
+						traverseLand(grid, row, col)			// traverse all land connected with UNVISITED land
+						numIslands++									// register new island found
+		
+		return:
+			numIslands
+		
+	traverseLand() function: void
+		if check: 
+			if grid[row][col] out of bounds	// out of bounds is row >= grid.length || row < 0 || col >= grid[0].length || col < 0
+				true ? return 
+			
+			if grid[row][col] == '0' || visited[row][col] == '2' // if on water or land has been visited return to previous state
+				true ? return
+	
+		// at this point the current row / col position is a new unvisited piece of land that must be traversed 
+		visited[row][col] == '2' 				// mark visited
+		traverseLand(grid, row, col+1)			// traverse newly registered visited land rightward
+		traverseLand(grid, row+1, col)			// traverse newly registered visited land downward
+		traverseLand(grid, row, col-1)			// traverse newly registered visited land leftward
+		traverseLand(grid, row-1, col)			// traverse newly registered visited land upward
+*/
+
 class Solution {
     public int numIslands(char[][] grid) {
 		
