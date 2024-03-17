@@ -170,22 +170,22 @@
 
 ### Extra Coderbyte Questions: :space_invader: :space_invader: :space_invader:
 - Table Structure: :flying_saucer: :flying_saucer:
-  - Problem Name | File Name | File Location | Difficulty | Language | Runtime | Memory
+  - Problem Name | File Name | File Location | Difficulty | Language | Runtime
 
-|Problem Name|File Name|File Location|Difficulty|Language|Runtime|Memory|
-|---|---|---|---|---|---|---|
-|[Bracket Matcher](https://coderbyte.com/information/Bracket%20Matcher/)|[BracketMatcher.java](https://github.com/guillermobermejo/leetcode/blob/main/x-coderbyte/BracketMatcher.java)|[x-coderbyte](https://github.com/guillermobermejo/leetcode/tree/main/x-coderbyte)|Medium<br/>*Cracked*|Java|42.3%|N/A|
-|---|---|---|---|---|---|---|
-|[Codeland Username Validation](https://coderbyte.com/information/Codeland%20Username%20Validation/)<br/>*(HashSet)*|[CodelandUsernameValidation.java](https://github.com/guillermobermejo/leetcode/blob/main/x-coderbyte/CodelandUsernameValidation.java)|[x-coderbyte](https://github.com/guillermobermejo/leetcode/tree/main/x-coderbyte)|Easy|Java|42.3%|N/A|
-|---|---|---|---|---|---|---|
-|Codeland Username Validation<br/>*(Ascii)*|[CodelandUsernameValidation2.java](https://github.com/guillermobermejo/leetcode/blob/main/x-coderbyte/CodelandUsernameValidation2.java)|[x-coderbyte](https://github.com/guillermobermejo/leetcode/tree/main/x-coderbyte)|Easy<br/>*Cracked*|Java|50.8%|N/A|
-|---|---|---|---|---|---|---|
-|[First Factorial](https://coderbyte.com/information/First%20Factorial/)|[FirstFactorial.java](https://github.com/guillermobermejo/leetcode/blob/main/x-coderbyte/FirstFactorial.java)|[x-coderbyte](https://github.com/guillermobermejo/leetcode/tree/main/x-coderbyte)|Medium<br/>*Cracked*|Java|42.3%|N/A|
-|---|---|---|---|---|---|---|
-|[Longest Word](https://coderbyte.com/information/Longest%20Word)<br/>*(Verbose)*|[LongestWord.java](https://github.com/guillermobermejo/leetcode/blob/main/x-coderbyte/LongestWord.java)|[x-coderbyte](https://github.com/guillermobermejo/leetcode/tree/main/x-coderbyte)|Easy|Java|42.3%|N/A|
-|---|---|---|---|---|---|---|
-|Longest Word<br/>*(Regex)*|[LongestWord2.java](https://github.com/guillermobermejo/leetcode/blob/main/x-coderbyte/LongestWord2.java)|[x-coderbyte](https://github.com/guillermobermejo/leetcode/tree/main/x-coderbyte)|Easy|Java|42.3%|N/A|
-|---|---|---|---|---|---|---|
-|Longest Word<br/>*(Regex+)*|[LongestWord3.java](https://github.com/guillermobermejo/leetcode/blob/main/x-coderbyte/LongestWord3.java)|[x-coderbyte](https://github.com/guillermobermejo/leetcode/tree/main/x-coderbyte)|Easy|Java|42.3%|N/A|
-|---|---|---|---|---|---|---|
-|Longest Word<br/>*(Regex++)*|[LongestWord4.java](https://github.com/guillermobermejo/leetcode/blob/main/x-coderbyte/LongestWord4.java)|[x-coderbyte](https://github.com/guillermobermejo/leetcode/tree/main/x-coderbyte)|Easy|Java|42.3%|N/A|
+|Problem Name|File Name|File Location|Difficulty|Language|Runtime|
+|---|---|---|---|---|---|
+|[Bracket Matcher](https://coderbyte.com/information/Bracket%20Matcher/)|[BracketMatcher.java](https://github.com/guillermobermejo/leetcode/blob/main/x-coderbyte/BracketMatcher.java)|[x-coderbyte](https://github.com/guillermobermejo/leetcode/tree/main/x-coderbyte)|Medium<br/>*Cracked*|Java|42.3%|
+|---|---|---|---|---|---|
+|[Codeland Username Validation](https://coderbyte.com/information/Codeland%20Username%20Validation/)<br/>*(HashSet)*|[CodelandUsernameValidation.java](https://github.com/guillermobermejo/leetcode/blob/main/x-coderbyte/CodelandUsernameValidation.java)|[x-coderbyte](https://github.com/guillermobermejo/leetcode/tree/main/x-coderbyte)|Easy|Java|42.3%|
+|---|---|---|---|---|---|
+|Codeland Username Validation<br/>*(Ascii)*|[CodelandUsernameValidation2.java](https://github.com/guillermobermejo/leetcode/blob/main/x-coderbyte/CodelandUsernameValidation2.java)|[x-coderbyte](https://github.com/guillermobermejo/leetcode/tree/main/x-coderbyte)|Easy<br/>*Cracked*|Java|50.8%|
+|---|---|---|---|---|---|
+|[First Factorial](https://coderbyte.com/information/First%20Factorial/)|[FirstFactorial.java](https://github.com/guillermobermejo/leetcode/blob/main/x-coderbyte/FirstFactorial.java)|[x-coderbyte](https://github.com/guillermobermejo/leetcode/tree/main/x-coderbyte)|Medium<br/>*Cracked*|Java|42.3%|
+|---|---|---|---|---|---|
+|[Longest Word](https://coderbyte.com/information/Longest%20Word)<br/>*(Verbose)*|[LongestWord.java](https://github.com/guillermobermejo/leetcode/blob/main/x-coderbyte/LongestWord.java)|[x-coderbyte](https://github.com/guillermobermejo/leetcode/tree/main/x-coderbyte)|Easy|Java|42.3%|
+|---|---|---|---|---|---|
+|Longest Word<br/>*(Regex)*|[LongestWord2.java](https://github.com/guillermobermejo/leetcode/blob/main/x-coderbyte/LongestWord2.java)|[x-coderbyte](https://github.com/guillermobermejo/leetcode/tree/main/x-coderbyte)|Easy|Java|42.3%|
+|---|---|---|---|---|---|
+|Longest Word<br/>*(Regex+)*|[LongestWord3.java](https://github.com/guillermobermejo/leetcode/blob/main/x-coderbyte/LongestWord3.java)|[x-coderbyte](https://github.com/guillermobermejo/leetcode/tree/main/x-coderbyte)|Easy|Java|42.3%|
+|---|---|---|---|---|---|
+|Longest Word<br/>*(Regex++)*|[LongestWord4.java](https://github.com/guillermobermejo/leetcode/blob/main/x-coderbyte/LongestWord4.java)|[x-coderbyte](https://github.com/guillermobermejo/leetcode/tree/main/x-coderbyte)|Easy|Java|42.3%|
