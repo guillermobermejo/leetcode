@@ -32,6 +32,8 @@
 |---|---|---|---|---|---|---|---|
 |Two Sum*|[twoSum2.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/twoSum2.java)|Easy|Java|O(n)|O(n)|5ms<br/>(Beats 57.67%)|42.8mb<br/>(Beats 99.86%)|
 |---|---|---|---|---|---|---|---|
+|Two Sum|[twoSum.py](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/twoSum.py)|Easy<br/>*Cracked*|Python3|O(n)|O(n)|47ms<br/>(Beats 97.86%)|17.8mb<br/>(Beats 19.69%)|
+|---|---|---|---|---|---|---|---|
 |Two Sum|[twoSum.cpp](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/twoSum.cpp)|Easy<br/>*Cracked*|C++|O(n)|O(n)|4ms<br/>(Beats 94.69%)|14.1mb<br/>(Beats 25.67%)|
 |---|---|---|---|---|---|---|---|
 |[Valid Anagram](https://leetcode.com/problems/valid-anagram/)<br/>*(hashmap)*|[isAnagram.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/isAnagram.java)|Easy|Java|O(n)|O(n)|20ms<br/>(Beats 11.58%)|42.9mb<br/>(Beats 71.10%)|
