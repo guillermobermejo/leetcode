@@ -8,6 +8,10 @@
 |---|---|---|---|---|---|---|---|
 |[Binary Search](https://leetcode.com/problems/binary-search/)|[search.java](https://github.com/guillermobermejo/leetcode/blob/main/binary-search/search.java)|Easy|Java|O(log n)|O(1)|0ms<br/>(Beats 100%)|45.68mb<br/>(Beats 19.53%)|
 |---|---|---|---|---|---|---|---|
+|Binary Search|[search.py](https://github.com/guillermobermejo/leetcode/blob/main/binary-search/search.py)|Easy|Java|O(log n)|O(1)|183ms<br/>(Beats 92.58%)|18.1mb<br/>(Beats 83.90%)|
+|---|---|---|---|---|---|---|---|
+|Binary Search|[search.cpp](https://github.com/guillermobermejo/leetcode/blob/main/binary-search/search.cpp)|Easy|Java|O(log n)|O(1)|14ms<br/>(Beats 98.93%)|30mb<br/>(Beats 22.84%)|
+|---|---|---|---|---|---|---|---|
 |[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)|[minEatingSpeed.java](https://github.com/guillermobermejo/leetcode/blob/main/binary-search/minEatingSpeed.java)|Medium|Java|O(n log n)|O(1)|27ms<br/>(Beats 36.15%)|44.9mb<br/>(Beats 50.27%)|
 |---|---|---|---|---|---|---|---|
 |[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[searchMatrix.java](https://github.com/guillermobermejo/leetcode/blob/main/binary-search/searchMatrix.java)|Medium|Java|O(log n)|O(1)|0ms<br/>(Beats 100%)|41.7mb<br/>(Beats 52.13%)|
