@@ -73,7 +73,7 @@ Visualization of algorithm:
         input = 8
         rem = 1
         
-        return helperfunction(input, helperfunction(l1, l2, rem))
+        return ListNode(input, helperfunction(l1, l2, rem))
         [8] ->                                                          // humans see
         [8] -> [9] -> [9] -> [9] -> [0] -> [0] -> [0] -> [1] -> null    // reality (recursive call collapse FINAL)
         
@@ -92,7 +92,7 @@ Visualization of algorithm:
         input = 9
         rem = 1
         
-        return helperfunction(input, helperfunction(l1, l2, rem))
+        return ListNode(input, helperfunction(l1, l2, rem))
         [8] -> [9] ->                                                   // humans see
                [9] -> [9] -> [9] -> [0] -> [0] -> [0] -> [1] -> null    // reality (recursive call collapse)
         
@@ -111,7 +111,7 @@ Visualization of algorithm:
         input = 9
         rem = 1
         
-        return helperfunction(input, helperfunction(l1, l2, rem))
+        return ListNode(input, helperfunction(l1, l2, rem))
         [8] -> [9] -> [9] ->                                            // humans see
                       [9] -> [9] -> [0] -> [0] -> [0] -> [1] -> null    // reality (recursive call collapse)
         
@@ -130,7 +130,7 @@ Visualization of algorithm:
         input = 9
         rem = 1
         
-        return helperfunction(input, helperfunction(l1, l2, rem))
+        return ListNode(input, helperfunction(l1, l2, rem))
         [8] -> [9] -> [9] -> [9] ->                                     // humans see
                              [9] -> [0] -> [0] -> [0] -> [1] -> null    // reality (recursive call collapse)
         
@@ -146,7 +146,7 @@ Visualization of algorithm:
         input = 0
         rem = 1
         
-        return helperfunction(input, helperfunction(l1, l2, rem))
+        return ListNode(input, helperfunction(l1, l2, rem))
         [8] -> [9] -> [9] -> [9] -> [0] ->                              // humans see
                                     [0] -> [0] -> [0] -> [1] -> null    // reality (recursive call collapse)
         
@@ -162,7 +162,7 @@ Visualization of algorithm:
         input = 0
         rem = 1
         
-        return helperfunction(input, helperfunction(l1, l2, rem))
+        return ListNode(input, helperfunction(l1, l2, rem))
         [8] -> [9] -> [9] -> [9] -> [0] -> [0] ->                       // humans see
                                            [0] -> [0] -> [1] -> null    // reality (recursive call collapse)
         
@@ -178,7 +178,7 @@ Visualization of algorithm:
         input = 0
         rem = 1
         
-        return helperfunction(input, helperfunction(l1, l2, rem))
+        return ListNode(input, helperfunction(l1, l2, rem))
         [8] -> [9] -> [9] -> [9] -> [0] -> [0] -> [0] ->                // humans see
                                                   [0] -> [1] -> null    // reality (recursive call collapse)
         
@@ -187,7 +187,7 @@ Visualization of algorithm:
         l2: []
         rem: 1
         
-        return helperfunction(input, helperfunction(l1, l2, rem))
+        return ListNode(input, helperfunction(l1, l2, rem))
         [8] -> [9] -> [9] -> [9] -> [0] -> [0] -> [0] -> [1] -> null    // humans see
                                                          [1] -> null    // reality (recursive call collapse INITIAL)    
 */
