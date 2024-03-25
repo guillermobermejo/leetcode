@@ -62,6 +62,10 @@
 |---|---|---|---|---|---|---|
 |[Binary Search](https://leetcode.com/problems/binary-search/)|[search.java](https://github.com/guillermobermejo/leetcode/blob/main/binary-search/search.java)|[binary-search](https://github.com/guillermobermejo/leetcode/tree/main/binary-search)|Easy|Java|0ms<br/>(Beats 100%)|45.68mb<br/>(Beats 19.53%)|
 |---|---|---|---|---|---|---|
+|Binary Search|[search.py](https://github.com/guillermobermejo/leetcode/blob/main/binary-search/search.py)|[binary-search](https://github.com/guillermobermejo/leetcode/tree/main/binary-search)|Easy|Python3|183ms<br/>(Beats 92.58%)|18.1mb<br/>(Beats 83.90%)|
+|---|---|---|---|---|---|---|
+|Binary Search|[search.cpp](https://github.com/guillermobermejo/leetcode/blob/main/binary-search/search.cpp)|[binary-search](https://github.com/guillermobermejo/leetcode/tree/main/binary-search)|Easy|C++|14ms<br/>(Beats 100%)|22.84mb<br/>(Beats 22.86%)|
+|---|---|---|---|---|---|---|
 |[Car Fleet](https://leetcode.com/problems/car-fleet/)<br/>*(variables)*|[carFleet.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/carFleet.java)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Medium|Java|25ms<br/>(Beats 85.78%)|57.5mb<br/>(Beats 48.97%)|
 |---|---|---|---|---|---|---|
 |Car Fleet<br/>*(sort)*|[carFleet2.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/carFleet2.java)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Medium|Java|23ms<br/>(Beats 86.28%)|58.7mb<br/>(Beats 25.70%)|
