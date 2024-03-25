@@ -4,7 +4,7 @@ Language: Java
 Time Complexity: O(n)
 Space Complexity: O(1)
 Runtime: 1ms (beats 100%)
-Memory: 44.2 (beats 32.42%)
+Memory: 44.2mb (beats 32.42%)
 
 DS: none
 
