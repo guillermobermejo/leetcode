@@ -1,5 +1,6 @@
 /*
 Programmer: Guillermo
+Language: Java
 Score: 42.3% higher
 
 Longest Word

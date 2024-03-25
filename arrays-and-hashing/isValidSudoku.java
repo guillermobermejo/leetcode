@@ -1,5 +1,6 @@
 /**
-Programmer: Guillermo       M       (int[][][] quad)
+Programmer: Guillermo           M       (int[][][] quad)
+Language: Java
 Time Complexity: O(n^2) 
 Space Complexity: O(n^2)
 Runtime: 1ms (beats 100%)

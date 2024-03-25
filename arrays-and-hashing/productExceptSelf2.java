@@ -1,6 +1,6 @@
 /**
-Version: 2 (2 arrays)            M
-Programmer: Guillermo
+Programmer: Guillermo           M   (2 arrays)
+Language: Java
 Time Complexity: O(n)
 Space Complexity: O(n)
 Runtime: 2ms (beats 67.37%)

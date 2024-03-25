@@ -1,5 +1,5 @@
 /**
-Programmer: Guillermo       E
+Programmer: Guillermo           E
 Language: Java
 Time Complexity: O(n) 
 Space Complexity: O(1)

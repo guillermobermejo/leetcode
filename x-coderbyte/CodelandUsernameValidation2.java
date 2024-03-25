@@ -1,5 +1,6 @@
 /*
 Programmer: Guillermo
+Language: Java
 Score: 50.8% higher
 
 Question:

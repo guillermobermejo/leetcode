@@ -1,5 +1,6 @@
 /**
-Programmer: Guillermo       M       (MODULAR + VARIABLES - O(1) space)
+Programmer: Guillermo           M       (MODULAR + VARIABLES - O(1) space)
+Language: Java
 Time Complexity: O(n)
 Space Complexity: O(1)
 Runtime: 0ms (beats 100%)

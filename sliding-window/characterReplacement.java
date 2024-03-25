@@ -1,5 +1,6 @@
 /**
-Programmer: Guillermo           *cracked*E
+Programmer: Guillermo           E       *CRACKED*
+Language: Java
 Time Complexity: O(log n)
 Space Complexity: O(1)
 Runtime: 5ms (beats 99.27%)

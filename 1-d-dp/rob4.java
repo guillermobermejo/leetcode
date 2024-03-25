@@ -1,5 +1,6 @@
 /**
-Programmer: Guillermo       M       (MODULAR)       ! CAN BE IMPROVED (i.e., O(1) space with variables)
+Programmer: Guillermo           M       (MODULAR)       ! CAN BE IMPROVED (i.e., O(1) space with variables)
+Language: Java
 Time Complexity: O(n)
 Space Complexity: O(1)
 Runtime: 0ms (beats 100%)
