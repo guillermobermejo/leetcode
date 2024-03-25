@@ -110,6 +110,10 @@
 |---|---|---|---|---|---|---|
 |[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[maxProduct.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/maxProduct.java)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Medium<br/>*Cracked*|Java|0ms<br/>(Beats 100%)|44.9mb<br/>(Beats 33.12%)|
 |---|---|---|---|---|---|---|
+|Maximum Product Subarray|[maxProduct.py](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/maxProduct.py)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Medium<br/>*Cracked*|Python3|41ms<br/>(Beats 100%)|16.9mb<br/>(Beats 86.19%)|
+|---|---|---|---|---|---|---|
+|Maximum Product Subarray|[maxProduct.cpp](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/maxProduct.cpp)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Medium<br/>*Cracked*|C++|0ms<br/>(Beats 100%)|16.4mb<br/>(Beats 12.38%)|
+|---|---|---|---|---|---|---|
 |[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[minCostClimbingStairs.java](https://github.com/guillermobermejo/leetcode/blob/main/1-d-dp/minCostClimbingStairs.java)|[1-d-dp](https://github.com/guillermobermejo/leetcode/tree/main/1-d-dp)|Easy|Java|0ms<br/>(Beats 100%)|43mb<br/>(Beats 64.67%)|
 |---|---|---|---|---|---|---|
 |[Min Stack](https://leetcode.com/problems/min-stack/)<br/>*(minheap)*|[MinStack.java](https://github.com/guillermobermejo/leetcode/blob/main/stack/MinStack.java)|[stack](https://github.com/guillermobermejo/leetcode/tree/main/stack)|Medium|Java|5ms<br/>(Beats 63.19%)|45.6mb<br/>(Beats 75.27%)|
