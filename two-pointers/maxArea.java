@@ -20,9 +20,9 @@ Approach:
 
 Algorithm:
     declare:
-        1 int value     name: max_area      value: -1       notes: 
-        1 int value     name: l             value: 0        notes: 
-        1 int value     name: r             value: 0        notes: 
+        1 int value     name: max_area      value: -1               notes: max area overall
+        1 int value     name: l             value: 0                notes: left pointer
+        1 int value     name: r             value: nums.length-1    notes: right pointer
         
         while loop (l < r):
             declare: 
