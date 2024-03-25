@@ -15,6 +15,8 @@
 |[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[containsDuplicate.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/containsDuplicate.java)|Easy|Java|O(n)|O(n)|10ms<br/>(Beats 85.11%)|57.8mb<br/>(Beats 21.49%)|
 |---|---|---|---|---|---|---|
 |Contains Duplicate<br/>*(Optimized)*|[containsDuplicate2.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/containsDuplicate2.java)|Easy<br/>*Cracked*|Java|O(n)|O(n)|7ms<br/>(Beats 98.46%)|60.7mb<br/>(Beats 19.71%)|
+|Contains Duplicate|[containsDuplicate.py](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/containsDuplicate.py)|Easy|Python3|O(n)|O(n)|411ms<br/>(Beats 80.69%)|32.1mb<br/>(Beats 32.15%)|
+|Contains Duplicate|[containsDuplicate.cpp](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/containsDuplicate.cpp)|Easy|C++|O(n)|O(n)|72ms<br/>(Beats 97.72%)|73.2mb<br/>(Beats 45.84%)|
 |---|---|---|---|---|---|---|---|
 |[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[findKthLargest.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/findKthLargest.java)|Medium<br/>*Cracked*|Java|O(n)|O(n)|4ms<br/>(Beats 97.39%)|54.5mb<br/>(Beats 99.87%)|
 |---|---|---|---|---|---|---|---|
