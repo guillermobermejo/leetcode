@@ -4,7 +4,7 @@ Language: Python3
 Time Complexity: O(log n)
 Space Complexity: O(1)
 Runtime: 183ms (beats 92.58%)
-Memory: 18.1 (beats 83.90%)
+Memory: 18.1mb (beats 83.90%)
 
 DS: none
 

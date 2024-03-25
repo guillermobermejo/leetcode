@@ -4,7 +4,7 @@ Language: C++
 Time Complexity: O(log n)
 Space Complexity: O(1)
 Runtime: 14ms (beats 98.93%)
-Memory: 30 (beats 22.84%)
+Memory: 30mb (beats 22.84%)
 
 DS: none
 
