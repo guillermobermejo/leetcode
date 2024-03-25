@@ -18,7 +18,7 @@ Approach:
 
 Algorithm:
     declare:
-        1 hashset<int>     name: hashset        value:
+        1 unordered_set<int>	name: hashset        value:
 
     for loop:
         traverse nums[] array from i=0 to i=nums.size()-1 
