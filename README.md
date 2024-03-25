@@ -74,6 +74,7 @@
 |---|---|---|---|---|---|---|
 |[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[maxArea.java](https://github.com/guillermobermejo/leetcode/blob/main/two-pointers/maxArea.java)|[two-pointers](https://github.com/guillermobermejo/leetcode/tree/main/two-pointers)|Medium|Java|4ms<br/>(Beats 88.28%)|57.1mb<br/>(Beats 47.91%)|
 |Container With Most Water|[maxArea.py](https://github.com/guillermobermejo/leetcode/blob/main/two-pointers/maxArea.py)|[two-pointers](https://github.com/guillermobermejo/leetcode/tree/main/two-pointers)|Medium|Python3|502ms<br/>(Beats 92.93%)|30.1mb<br/>(Beats 42.56%)|
+|---|---|---|---|---|---|---|
 |Container With Most Water|[maxArea.cpp](https://github.com/guillermobermejo/leetcode/blob/main/two-pointers/maxArea.cpp)|[two-pointers](https://github.com/guillermobermejo/leetcode/tree/main/two-pointers)|Medium|C++|51ms<br/>(Beats 93.41%)|61.4mb<br/>(Beats 65.44%)|
 |---|---|---|---|---|---|---|
 |[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[climbStairs.java](https://github.com/guillermobermejo/leetcode/blob/main/1-d-dp/climbStairs.java)|[1-d-dp](https://github.com/guillermobermejo/leetcode/tree/main/1-d-dp)|Easy|Java|0ms<br/>(Beats 100%)|39.7mb<br/>(Beats 49.05%)|
@@ -81,6 +82,10 @@
 |[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[containsDuplicate.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/containsDuplicate.java)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Easy|Java|10ms<br/>(Beats 85.11%)|57.8mb<br/>(Beats 21.49%)|
 |---|---|---|---|---|---|---|
 |Contains Duplicate<br/>*(Optimized)*|[containsDuplicate2.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/containsDuplicate2.java)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Easy<br/>*Cracked*|Java|7ms<br/>(Beats 98.46%)|60.7mb<br/>(Beats 19.71%)|
+|---|---|---|---|---|---|---|
+|Contains Duplicate|[containsDuplicate.py](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/containsDuplicate.py)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Easy|Python3|411ms<br/>(Beats 80.69%)|32.1mb<br/>(Beats 32.15%)|
+|---|---|---|---|---|---|---|
+|Contains Duplicate|[containsDuplicate.cpp](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/containsDuplicate.cpp)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Easy|C++|72ms<br/>(Beats 97.72%)|57.8mb<br/>(Beats 45.84%)|
 |---|---|---|---|---|---|---|
 |[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[findKthLargest.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/findKthLargest.java)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Medium<br/>*Cracked*|Java|4ms<br/>(Beats 97.39%)|54.5mb<br/>(Beats 99.87%)|
 |---|---|---|---|---|---|---|
