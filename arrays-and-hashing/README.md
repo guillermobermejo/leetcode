@@ -22,6 +22,10 @@
 |---|---|---|---|---|---|---|---|
 |[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[maxProduct.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/maxProduct.java)|Medium<br/>*Cracked*|Java|O(n)|O(1)|0ms<br/>(Beats 100%)|44.9mb<br/>(Beats 33.12%)|
 |---|---|---|---|---|---|---|---|
+|Maximum Product Subarray|[maxProduct.py](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/maxProduct.py)|Medium<br/>*Cracked*|Java|O(n)|O(1)|41ms<br/>(Beats 100%)|16.9mb<br/>(Beats 86.19%)|
+|---|---|---|---|---|---|---|---|
+|Maximum Product Subarray|[maxProduct.cpp](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/maxProduct.cpp)|Medium<br/>*Cracked*|Java|O(n)|O(1)|0ms<br/>(Beats 100%)|44.9mb<br/>(Beats 12.38%)|
+|---|---|---|---|---|---|---|---|
 |[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)<br/>*(in-place)*|[productExceptSelf.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/productExceptSelf.java)|Medium|Java|O(n)|O(1)|2ms<br/>(Beats 66.87%)|53mb<br/>(Beats 51.43%)|
 |---|---|---|---|---|---|---|---|
 |Product of Array Except Self<br/>*(2 array)*|[productExceptSelf2.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/productExceptSelf2.java)|Medium|Java|O(n)|O(n)|2ms<br/>(Beats 67.37%)|54.6mb<br/>(Beats 7.31%)|
