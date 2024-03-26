@@ -1,5 +1,5 @@
 /**
-Programmer: Guillermo           E       *cracked*
+Programmer: Guillermo           E       *cracked*       (2-pointer)
 Language: Java
 Time Complexity: O(n)
 Space Complexity: O(1)
@@ -16,10 +16,7 @@ Approach:
     if we rise (left point -> right point goes up) means valid profit, prices[i+1] - prices[i] > 0
     traverse position[] in O(n) time sliding two pointers l and r
 
-Algorithm:
-    if check:
-        prices.length is 1 ? return 0;
-    
+Algorithm:    
     declare:
         1 int value     name: max
         1 int value     name: t
