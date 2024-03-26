@@ -67,6 +67,14 @@
 |[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)<br/>*(2 pointer)*|[maxProfit.java](https://github.com/guillermobermejo/leetcode/blob/main/sliding-window/maxProfit.java)|[sliding-window](https://github.com/guillermobermejo/leetcode/tree/main/sliding-window)|Easy<br/>*Cracked*|Java|1ms<br/>(Beats 99.92%)|61.6mb<br/>(Beats 29.8%)|
 |---|---|---|---|---|---|---|
 |Best Time to Buy and Sell Stock<br/>*(int[ ] array)*|[maxProfit2.java](https://github.com/guillermobermejo/leetcode/blob/main/sliding-window/maxProfit2.java)|[sliding-window](https://github.com/guillermobermejo/leetcode/tree/main/sliding-window)|Easy<br/>*Cracked*|Java|2ms<br/>(Beats 78.72%)|56.9mb<br/>(Beats 97.49%)|
+|---|---|---|---|---|---|---|---|
+|Best Time to Buy and Sell Stock<br/>*(2 pointer)*|[maxProfit.py](https://github.com/guillermobermejo/leetcode/blob/main/sliding-window/maxProfit.py)|[sliding-window](https://github.com/guillermobermejo/leetcode/tree/main/sliding-window)|Easy<br/>*Cracked*|Python3|719ms<br/>(Beats 78.38%)|27.3mb<br/>(Beats 90.61%)|
+|---|---|---|---|---|---|---|---|
+|Best Time to Buy and Sell Stock<br/>*(int[ ] array)*|[maxProfit2.py](https://github.com/guillermobermejo/leetcode/blob/main/sliding-window/maxProfit2.py)|[sliding-window](https://github.com/guillermobermejo/leetcode/tree/main/sliding-window)|Easy<br/>*Deprecated*|Python3|861ms<br/>(Beats 5.02%)|28.5mb<br/>(Beats 11.65%)|
+|---|---|---|---|---|---|---|---|
+|Best Time to Buy and Sell Stock<br/>*(2 pointer)*|[maxProfit.cpp](https://github.com/guillermobermejo/leetcode/blob/main/sliding-window/maxProfit.cpp)|[sliding-window](https://github.com/guillermobermejo/leetcode/tree/main/sliding-window)|Easy<br/>*Cracked*|C++|77ms<br/>(Beats 88.53%)|95.7mb<br/>(Beats 94.38%)|
+|---|---|---|---|---|---|---|---|
+|Best Time to Buy and Sell Stock<br/>*(int[ ] array)*|[maxProfit2.cpp](https://github.com/guillermobermejo/leetcode/blob/main/sliding-window/maxProfit2.cpp)|[sliding-window](https://github.com/guillermobermejo/leetcode/tree/main/sliding-window)|Easy<br/>*Cracked*|C++|75ms<br/>(Beats 92.04%)|96.4mb<br/>(Beats 5.90%)|
 |---|---|---|---|---|---|---|
 |[Binary Search](https://leetcode.com/problems/binary-search/)|[search.java](https://github.com/guillermobermejo/leetcode/blob/main/binary-search/search.java)|[binary-search](https://github.com/guillermobermejo/leetcode/tree/main/binary-search)|Easy|Java|0ms<br/>(Beats 100%)|45.68mb<br/>(Beats 19.53%)|
 |---|---|---|---|---|---|---|
