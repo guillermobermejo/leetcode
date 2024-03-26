@@ -56,6 +56,14 @@
 |---|---|---|---|---|---|---|
 |Add Two Numbers<br/>*(iterative)*|[addTwoNumbers2.java](https://github.com/guillermobermejo/leetcode/blob/main/linked-list/addTwoNumbers2.java)|[linked-list](https://github.com/guillermobermejo/leetcode/tree/main/linked-list)|Medium<br/>*Cracked*|Java|1ms<br/>(Beats 100%)|44.3mb<br/>(Beats 30.97%)|
 |---|---|---|---|---|---|---|
+|Add Two Numbers<br/>*(recursive)*|[addTwoNumbers.py](https://github.com/guillermobermejo/leetcode/blob/main/linked-list/addTwoNumbers.py)|[linked-list](https://github.com/guillermobermejo/leetcode/tree/main/linked-list)|Medium<br/>*Cracked*|Python3|48ms<br/>(Beats 88.55%)|16.6mb<br/>(Beats 90.94%)|
+|---|---|---|---|---|---|---|
+|Add Two Numbers<br/>*(iterative)*|[addTwoNumbers2.py](https://github.com/guillermobermejo/leetcode/blob/main/linked-list/addTwoNumbers2.py)|[linked-list](https://github.com/guillermobermejo/leetcode/tree/main/linked-list)|Medium<br/>*Cracked*|Python3|47ms<br/>(Beats 91.07%)|16.7mb<br/>(Beats 48.84%)|
+|---|---|---|---|---|---|---|
+|Add Two Numbers<br/>*(recursive)*|[addTwoNumbers.cpp](https://github.com/guillermobermejo/leetcode/blob/main/linked-list/addTwoNumbers.cpp)|[linked-list](https://github.com/guillermobermejo/leetcode/tree/main/linked-list)|Medium<br/>*Cracked*|C++|12ms<br/>(Beats 93.15%)|76.1mb<br/>(Beats 16.56%)|
+|---|---|---|---|---|---|---|
+|Add Two Numbers<br/>*(iterative)*|[addTwoNumbers2.cpp](https://github.com/guillermobermejo/leetcode/blob/main/linked-list/addTwoNumbers2.cpp)|[linked-list](https://github.com/guillermobermejo/leetcode/tree/main/linked-list)|Medium<br/>*Cracked*|C++|15ms<br/>(Beats 87.84%)|76.1mb<br/>(Beats 51.52%)|
+|---|---|---|---|---|---|---|
 |[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)<br/>*(2 pointer)*|[maxProfit.java](https://github.com/guillermobermejo/leetcode/blob/main/sliding-window/maxProfit.java)|[sliding-window](https://github.com/guillermobermejo/leetcode/tree/main/sliding-window)|Easy<br/>*Cracked*|Java|1ms<br/>(Beats 99.92%)|61.6mb<br/>(Beats 29.8%)|
 |---|---|---|---|---|---|---|
 |Best Time to Buy and Sell Stock<br/>*(int[ ] array)*|[maxProfit2.java](https://github.com/guillermobermejo/leetcode/blob/main/sliding-window/maxProfit2.java)|[sliding-window](https://github.com/guillermobermejo/leetcode/tree/main/sliding-window)|Easy<br/>*Cracked*|Java|2ms<br/>(Beats 78.72%)|56.9mb<br/>(Beats 97.49%)|
