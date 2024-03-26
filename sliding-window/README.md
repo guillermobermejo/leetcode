@@ -10,6 +10,14 @@
 |---|---|---|---|---|---|---|---|
 |Best Time to Buy and Sell Stock<br/>*(int[ ] array)*|[maxProfit2.java](https://github.com/guillermobermejo/leetcode/blob/main/sliding-window/maxProfit2.java)|Easy<br/>*Cracked*|Java|O(n)|O(n)|2ms<br/>(Beats 78.72%)|56.9mb<br/>(Beats 97.49%)|
 |---|---|---|---|---|---|---|---|
+|Best Time to Buy and Sell Stock<br/>*(2 pointer)*|[maxProfit.py](https://github.com/guillermobermejo/leetcode/blob/main/sliding-window/maxProfit.py)|Easy<br/>*Cracked*|Python3|O(n)|O(1)|719ms<br/>(Beats 78.38%)|27.3mb<br/>(Beats 90.61%)|
+|---|---|---|---|---|---|---|---|
+|Best Time to Buy and Sell Stock<br/>*(int[ ] array)*|[maxProfit2.py](https://github.com/guillermobermejo/leetcode/blob/main/sliding-window/maxProfit2.py)|Easy<br/>*Deprecated*|Python3|O(n)|O(n)|861ms<br/>(Beats 5.02%)|28.5mb<br/>(Beats 11.65%)|
+|---|---|---|---|---|---|---|---|
+|Best Time to Buy and Sell Stock<br/>*(2 pointer)*|[maxProfit.cpp](https://github.com/guillermobermejo/leetcode/blob/main/sliding-window/maxProfit.cpp)|Easy<br/>*Cracked*|C++|O(n)|O(1)|77ms<br/>(Beats 88.53%)|95.7mb<br/>(Beats 94.38%)|
+|---|---|---|---|---|---|---|---|
+|Best Time to Buy and Sell Stock<br/>*(int[ ] array)*|[maxProfit2.cpp](https://github.com/guillermobermejo/leetcode/blob/main/sliding-window/maxProfit2.cpp)|Easy<br/>*Cracked*|C++|O(n)|O(n)|75ms<br/>(Beats 92.04%)|96.4mb<br/>(Beats 5.90%)|
+|---|---|---|---|---|---|---|---|
 |[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)|[characterReplacement.java](https://github.com/guillermobermejo/leetcode/blob/main/sliding-window/characterReplacement.java)|Medium<br/>*Cracked*|Java|O(n)|O(n)|5ms<br/>(Beats 99.27%)|45.68mb<br/>(Beats 48.22%)|
 |---|---|---|---|---|---|---|---|
 |[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[lengthOfLongestSubstring.java](https://github.com/guillermobermejo/leetcode/blob/main/sliding-window/lengthOfLongestSubstring.java)|Medium<br/>*Cracked*|Java|O(n)|O(n)|2ms<br/>(Beats 99.52%)|42.8mb<br/>(Beats 92.48%)|
