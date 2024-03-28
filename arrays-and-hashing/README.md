@@ -26,6 +26,10 @@
 |---|---|---|---|---|---|---|---|
 |[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[longestConsecutive.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/longestConsecutive.java)|Medium|Java|O(n)|O(n)|26ms<br/>(Beats 72.15%)|67.3mb<br/>(Beats 10.54%)|
 |---|---|---|---|---|---|---|---|
+|Longest Consecutive Sequence|[longestConsecutive.py](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/longestConsecutive.py)|Medium|Python3|O(n)|O(n)|26ms<br/>(Beats 94.43%)|67.3mb<br/>(Beats 79.93%)|
+|---|---|---|---|---|---|---|---|
+|Longest Consecutive Sequence|[longestConsecutive.cpp](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/longestConsecutive.cpp)|Medium|C++|O(n)|O(n)|109ms<br/>(Beats 72.17%)|67.3mb<br/>(Beats 65.24%)|
+|---|---|---|---|---|---|---|---|
 |[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[maxProduct.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/maxProduct.java)|Medium<br/>*Cracked*|Java|O(n)|O(1)|0ms<br/>(Beats 100%)|44.9mb<br/>(Beats 33.12%)|
 |---|---|---|---|---|---|---|---|
 |Maximum Product Subarray|[maxProduct.py](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/maxProduct.py)|Medium<br/>*Cracked*|Python3|O(n)|O(1)|41ms<br/>(Beats 100%)|16.9mb<br/>(Beats 86.19%)|
