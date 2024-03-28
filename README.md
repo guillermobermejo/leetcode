@@ -67,13 +67,13 @@
 |[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)<br/>*(2 pointer)*|[maxProfit.java](https://github.com/guillermobermejo/leetcode/blob/main/sliding-window/maxProfit.java)|[sliding-window](https://github.com/guillermobermejo/leetcode/tree/main/sliding-window)|Easy<br/>*Cracked*|Java|1ms<br/>(Beats 99.92%)|61.6mb<br/>(Beats 29.8%)|
 |---|---|---|---|---|---|---|
 |Best Time to Buy and Sell Stock<br/>*(int[ ] array)*|[maxProfit2.java](https://github.com/guillermobermejo/leetcode/blob/main/sliding-window/maxProfit2.java)|[sliding-window](https://github.com/guillermobermejo/leetcode/tree/main/sliding-window)|Easy<br/>*Cracked*|Java|2ms<br/>(Beats 78.72%)|56.9mb<br/>(Beats 97.49%)|
-|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|
 |Best Time to Buy and Sell Stock<br/>*(2 pointer)*|[maxProfit.py](https://github.com/guillermobermejo/leetcode/blob/main/sliding-window/maxProfit.py)|[sliding-window](https://github.com/guillermobermejo/leetcode/tree/main/sliding-window)|Easy<br/>*Cracked*|Python3|719ms<br/>(Beats 78.38%)|27.3mb<br/>(Beats 90.61%)|
-|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|
 |Best Time to Buy and Sell Stock<br/>*(int[ ] array)*|[maxProfit2.py](https://github.com/guillermobermejo/leetcode/blob/main/sliding-window/maxProfit2.py)|[sliding-window](https://github.com/guillermobermejo/leetcode/tree/main/sliding-window)|Easy<br/>*Outdated*|Python3|861ms<br/>(Beats 5.02%)|28.5mb<br/>(Beats 11.65%)|
-|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|
 |Best Time to Buy and Sell Stock<br/>*(2 pointer)*|[maxProfit.cpp](https://github.com/guillermobermejo/leetcode/blob/main/sliding-window/maxProfit.cpp)|[sliding-window](https://github.com/guillermobermejo/leetcode/tree/main/sliding-window)|Easy<br/>*Cracked*|C++|77ms<br/>(Beats 88.53%)|95.7mb<br/>(Beats 94.38%)|
-|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|
 |Best Time to Buy and Sell Stock<br/>*(int[ ] array)*|[maxProfit2.cpp](https://github.com/guillermobermejo/leetcode/blob/main/sliding-window/maxProfit2.cpp)|[sliding-window](https://github.com/guillermobermejo/leetcode/tree/main/sliding-window)|Easy<br/>*Cracked*|C++|75ms<br/>(Beats 92.04%)|96.4mb<br/>(Beats 5.90%)|
 |---|---|---|---|---|---|---|
 |[Binary Search](https://leetcode.com/problems/binary-search/)|[search.java](https://github.com/guillermobermejo/leetcode/blob/main/binary-search/search.java)|[binary-search](https://github.com/guillermobermejo/leetcode/tree/main/binary-search)|Easy|Java|0ms<br/>(Beats 100%)|45.68mb<br/>(Beats 19.53%)|
@@ -95,9 +95,9 @@
 |Container With Most Water|[maxArea.cpp](https://github.com/guillermobermejo/leetcode/blob/main/two-pointers/maxArea.cpp)|[two-pointers](https://github.com/guillermobermejo/leetcode/tree/main/two-pointers)|Medium|C++|51ms<br/>(Beats 93.41%)|61.4mb<br/>(Beats 65.44%)|
 |---|---|---|---|---|---|---|
 |[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[climbStairs.java](https://github.com/guillermobermejo/leetcode/blob/main/1-d-dp/climbStairs.java)|[1-d-dp](https://github.com/guillermobermejo/leetcode/tree/main/1-d-dp)|Easy|Java|0ms<br/>(Beats 100%)|39.7mb<br/>(Beats 49.05%)|
-|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|
 |Climbing Stairs|[climbStairs.py](https://github.com/guillermobermejo/leetcode/blob/main/1-d-dp/climbStairs.py)|[1-d-dp](https://github.com/guillermobermejo/leetcode/tree/main/1-d-dp)|Easy|Python3|26ms<br/>(Beats 95.35%)|16.6mb<br/>(Beats 31.43%)|
-|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|
 |Climbing Stairs|[climbStairs.cpp](https://github.com/guillermobermejo/leetcode/blob/main/1-d-dp/climbStairs.cpp)|[1-d-dp](https://github.com/guillermobermejo/leetcode/tree/main/1-d-dp)|Easy|C++|0ms<br/>(Beats 100%)|7.1mb<br/>(Beats 85.32%)|
 |---|---|---|---|---|---|---|
 |[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[containsDuplicate.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/containsDuplicate.java)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Easy|Java|10ms<br/>(Beats 85.11%)|57.8mb<br/>(Beats 21.49%)|
@@ -109,9 +109,9 @@
 |Contains Duplicate|[containsDuplicate.cpp](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/containsDuplicate.cpp)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Easy|C++|72ms<br/>(Beats 97.72%)|57.8mb<br/>(Beats 45.84%)|
 |---|---|---|---|---|---|---|
 |[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[findKthLargest.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/findKthLargest.java)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Medium<br/>*Cracked*|Java|4ms<br/>(Beats 97.39%)|54.5mb<br/>(Beats 99.87%)|
-|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|
 |Kth Largest Element in an Array|[findKthLargest.py](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/findKthLargest.py)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Medium<br/>*Cracked*|Python3|428ms<br/>(Beats 96.06%)|30mb<br/>(Beats 35.62%)|
-|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|
 |Kth Largest Element in an Array|[findKthLargest.cpp](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/findKthLargest.cpp)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Medium<br/>*Cracked*|C++|54ms<br/>(Beats 99.01%)|57.6mb<br/>(Beats 93.68%)|
 |---|---|---|---|---|---|---|
 |[House Robber](https://leetcode.com/problems/house-robber/)<br/>*(standard)*|[rob.java](https://github.com/guillermobermejo/leetcode/blob/main/1-d-dp/rob.java)|[1-d-dp](https://github.com/guillermobermejo/leetcode/tree/main/1-d-dp)|Medium|Java|0ms<br/>(Beats 100%)|40.8mb<br/>(Beats 28.98%)|
@@ -137,6 +137,10 @@
 |Linked List Cycle<br/>*(2 while condition)*|[hasCycle2.java](https://github.com/guillermobermejo/leetcode/blob/main/linked-list/hasCycle2.java)|[linked-list](https://github.com/guillermobermejo/leetcode/tree/main/linked-list)|Easy<br/>*Cracked*|Java|0ms<br/>(Beats 100%)|43.8mb<br/>(Beats 95.80%)|
 |---|---|---|---|---|---|---|
 |[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[longestConsecutive.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/longestConsecutive.java)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Medium|Java|26ms<br/>(Beats 72.15%)|67.3mb<br/>(Beats 10.54%)|
+|---|---|---|---|---|---|---|
+|Longest Consecutive Sequence|[longestConsecutive.py](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/longestConsecutive.py)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Medium|Python3|26ms<br/>(Beats 94.43%)|67.3mb<br/>(Beats 79.93%)|
+|---|---|---|---|---|---|---|
+|Longest Consecutive Sequence|[longestConsecutive.cpp](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/longestConsecutive.cpp)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Medium|C++|109ms<br/>(Beats 72.17%)|67.3mb<br/>(Beats 65.24%)|
 |---|---|---|---|---|---|---|
 |[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)|[characterReplacement.java](https://github.com/guillermobermejo/leetcode/blob/main/sliding-window/characterReplacement.java)|[sliding-window](https://github.com/guillermobermejo/leetcode/tree/main/sliding-window)|Medium<br/>*Cracked*|Java|5ms<br/>(Beats 99.27%)|45.68mb<br/>(Beats 48.22%)|
 |---|---|---|---|---|---|---|
