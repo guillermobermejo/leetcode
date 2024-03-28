@@ -70,7 +70,7 @@
 |---|---|---|---|---|---|---|---|
 |Best Time to Buy and Sell Stock<br/>*(2 pointer)*|[maxProfit.py](https://github.com/guillermobermejo/leetcode/blob/main/sliding-window/maxProfit.py)|[sliding-window](https://github.com/guillermobermejo/leetcode/tree/main/sliding-window)|Easy<br/>*Cracked*|Python3|719ms<br/>(Beats 78.38%)|27.3mb<br/>(Beats 90.61%)|
 |---|---|---|---|---|---|---|---|
-|Best Time to Buy and Sell Stock<br/>*(int[ ] array)*|[maxProfit2.py](https://github.com/guillermobermejo/leetcode/blob/main/sliding-window/maxProfit2.py)|[sliding-window](https://github.com/guillermobermejo/leetcode/tree/main/sliding-window)|Easy<br/>*Deprecated*|Python3|861ms<br/>(Beats 5.02%)|28.5mb<br/>(Beats 11.65%)|
+|Best Time to Buy and Sell Stock<br/>*(int[ ] array)*|[maxProfit2.py](https://github.com/guillermobermejo/leetcode/blob/main/sliding-window/maxProfit2.py)|[sliding-window](https://github.com/guillermobermejo/leetcode/tree/main/sliding-window)|Easy<br/>*Outdated*|Python3|861ms<br/>(Beats 5.02%)|28.5mb<br/>(Beats 11.65%)|
 |---|---|---|---|---|---|---|---|
 |Best Time to Buy and Sell Stock<br/>*(2 pointer)*|[maxProfit.cpp](https://github.com/guillermobermejo/leetcode/blob/main/sliding-window/maxProfit.cpp)|[sliding-window](https://github.com/guillermobermejo/leetcode/tree/main/sliding-window)|Easy<br/>*Cracked*|C++|77ms<br/>(Beats 88.53%)|95.7mb<br/>(Beats 94.38%)|
 |---|---|---|---|---|---|---|---|
