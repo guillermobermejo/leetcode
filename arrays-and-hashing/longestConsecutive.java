@@ -92,7 +92,6 @@ Visualization of algorithm:
                 count stay: 4 (4 greater update max_count)
                 max_count:  4
     return max_count
-            
 */
 
 class Solution {
