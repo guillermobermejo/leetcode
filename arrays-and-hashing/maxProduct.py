@@ -226,12 +226,14 @@ class Solution:
         product = 1
         
         for i in range(len(nums)):
-            if nums[len(nums)-i-1] == 0:
+            j = len(nums)-i-1        # adjust value j to reverse index (1 -> size-2)
+            if nums[j] == 0:
                 product = 1
                 continue
             
-            product *= nums[len(nums)-i-1]
+            product *= nums[j]
             if product > maxProduct:
                 maxProduct = product
         
         return maxProduct
+ 
