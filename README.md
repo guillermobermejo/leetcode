@@ -95,6 +95,10 @@
 |Container With Most Water|[maxArea.cpp](https://github.com/guillermobermejo/leetcode/blob/main/two-pointers/maxArea.cpp)|[two-pointers](https://github.com/guillermobermejo/leetcode/tree/main/two-pointers)|Medium|C++|51ms<br/>(Beats 93.41%)|61.4mb<br/>(Beats 65.44%)|
 |---|---|---|---|---|---|---|
 |[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[climbStairs.java](https://github.com/guillermobermejo/leetcode/blob/main/1-d-dp/climbStairs.java)|[1-d-dp](https://github.com/guillermobermejo/leetcode/tree/main/1-d-dp)|Easy|Java|0ms<br/>(Beats 100%)|39.7mb<br/>(Beats 49.05%)|
+|---|---|---|---|---|---|---|---|
+|Climbing Stairs|[climbStairs.py](https://github.com/guillermobermejo/leetcode/blob/main/1-d-dp/climbStairs.py)|[1-d-dp](https://github.com/guillermobermejo/leetcode/tree/main/1-d-dp)|Easy|Python3|26ms<br/>(Beats 95.35%)|16.6mb<br/>(Beats 31.43%)|
+|---|---|---|---|---|---|---|---|
+|Climbing Stairs|[climbStairs.cpp](https://github.com/guillermobermejo/leetcode/blob/main/1-d-dp/climbStairs.cpp)|[1-d-dp](https://github.com/guillermobermejo/leetcode/tree/main/1-d-dp)|Easy|C++|0ms<br/>(Beats 100%)|7.1mb<br/>(Beats 85.32%)|
 |---|---|---|---|---|---|---|
 |[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[containsDuplicate.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/containsDuplicate.java)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Easy|Java|10ms<br/>(Beats 85.11%)|57.8mb<br/>(Beats 21.49%)|
 |---|---|---|---|---|---|---|
