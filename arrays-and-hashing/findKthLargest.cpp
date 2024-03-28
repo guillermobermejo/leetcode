@@ -145,7 +145,7 @@ public:
             if (pos_map[i] != 0) {
                 while (pos_map[i]-- != 0)
                     if (k-- == 1) return i;
-			}
+            }
         }
         
         for (int i = 1; i < (sizeof(neg_map) / sizeof(int)); i++) {
