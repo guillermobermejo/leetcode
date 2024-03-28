@@ -20,6 +20,10 @@
 |---|---|---|---|---|---|---|---|
 |[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[findKthLargest.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/findKthLargest.java)|Medium<br/>*Cracked*|Java|O(n)|O(n)|4ms<br/>(Beats 97.39%)|54.5mb<br/>(Beats 99.87%)|
 |---|---|---|---|---|---|---|---|
+|Kth Largest Element in an Array|[findKthLargest.py](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/findKthLargest.py)|Medium<br/>*Cracked*|Python3|O(n)|O(n)|428ms<br/>(Beats 96.06%)|30mb<br/>(Beats 35.62%)|
+|---|---|---|---|---|---|---|---|
+|Kth Largest Element in an Array|[findKthLargest.cpp](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/findKthLargest.cpp)|Medium<br/>*Cracked*|C++|O(n)|O(n)|54ms<br/>(Beats 99.01%)|57.6mb<br/>(Beats 93.68%)|
+|---|---|---|---|---|---|---|---|
 |[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[longestConsecutive.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/longestConsecutive.java)|Medium|Java|O(n)|O(n)|26ms<br/>(Beats 72.15%)|67.3mb<br/>(Beats 10.54%)|
 |---|---|---|---|---|---|---|---|
 |[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[maxProduct.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/maxProduct.java)|Medium<br/>*Cracked*|Java|O(n)|O(1)|0ms<br/>(Beats 100%)|44.9mb<br/>(Beats 33.12%)|
