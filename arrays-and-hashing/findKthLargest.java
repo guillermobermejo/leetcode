@@ -137,7 +137,6 @@ class Solution {
                 neg_map[i*-1]++;
             else 
                 pos_map[i]++;
-                
         }
         
         for (int i = pos_map.length-1; i > -1; i--) {
