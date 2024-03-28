@@ -16,7 +16,7 @@ Approach:
 	traverse all of nums[] array and store every value nums[i] in either neg_map if negative and pos_map if positive
 	value nums[i] treated as index in neg_map[] such that neg_map[nums[i]]++ counts specific occurence of negative nums[i]
 	value nums[i] treated as index in pos_map[] such that pos_map[nums[i]]++ counts specific occurence of positive nums[i]
-    neg_map[10000+1] will hold all negative values (* -1 to work with indexes) all index numbers > 0 && <= 10000
+	neg_map[10000+1] will hold all negative values (* -1 to work with indexes) all index numbers > 0 && <= 10000
 	pos_map[10000+1] will hold all positive values (includes 0) all indexe numbers >= 0 && <= 10000
 	
 	traverse nums[] array increment nums[i] as index in either neg_map if nums[i] < 0 else pos_map[] as occurrences
