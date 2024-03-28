@@ -109,6 +109,10 @@
 |Contains Duplicate|[containsDuplicate.cpp](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/containsDuplicate.cpp)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Easy|C++|72ms<br/>(Beats 97.72%)|57.8mb<br/>(Beats 45.84%)|
 |---|---|---|---|---|---|---|
 |[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[findKthLargest.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/findKthLargest.java)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Medium<br/>*Cracked*|Java|4ms<br/>(Beats 97.39%)|54.5mb<br/>(Beats 99.87%)|
+|---|---|---|---|---|---|---|---|
+|Kth Largest Element in an Array|[findKthLargest.py](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/findKthLargest.py)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Medium<br/>*Cracked*|Python3|428ms<br/>(Beats 96.06%)|30mb<br/>(Beats 35.62%)|
+|---|---|---|---|---|---|---|---|
+|Kth Largest Element in an Array|[findKthLargest.cpp](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/findKthLargest.cpp)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Medium<br/>*Cracked*|C++|54ms<br/>(Beats 99.01%)|57.6mb<br/>(Beats 93.68%)|
 |---|---|---|---|---|---|---|
 |[House Robber](https://leetcode.com/problems/house-robber/)<br/>*(standard)*|[rob.java](https://github.com/guillermobermejo/leetcode/blob/main/1-d-dp/rob.java)|[1-d-dp](https://github.com/guillermobermejo/leetcode/tree/main/1-d-dp)|Medium|Java|0ms<br/>(Beats 100%)|40.8mb<br/>(Beats 28.98%)|
 |---|---|---|---|---|---|---|
