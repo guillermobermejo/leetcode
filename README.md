@@ -46,7 +46,7 @@
         └── ...
   ```
 ### All file locations: :space_invader: :space_invader: :space_invader:
-- Table Structure: :flying_saucer: :flying_saucer:*!
+- Table Structure: :flying_saucer: :flying_saucer:
   - Problem Name | File Name | File Location | Difficulty | Language | Runtime | Memory
 
 |Problem Name|File Name|File Location|Difficulty|Language|Runtime|Memory|
