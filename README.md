@@ -177,7 +177,7 @@
 |---|---|---|---|---|---|---|
 |[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[removeDuplicates.py](https://github.com/guillermobermejo/leetcode/blob/main/two-pointers/removeDuplicates.py)|[two-pointers](https://github.com/guillermobermejo/leetcode/tree/main/two-pointers)|Easy<br/>*Cracked*|Python|0ms<br/>(Beats 100%)|19.11mb<br/>(Beats 8.09%)|
 |---|---|---|---|---|---|---|
-|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)(in-place)|[rotate.py](https://github.com/guillermobermejo/leetcode/blob/main/linked-list/reverseList.py)|[linked-list](https://github.com/guillermobermejo/leetcode/tree/main/linked-list)|Easy|Python|0ms<br/>(Beats 100%)|18.72mb<br/>(Beats 37.99%)|
+|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)<br/>(in-place)|[rotate.py](https://github.com/guillermobermejo/leetcode/blob/main/linked-list/reverseList.py)|[linked-list](https://github.com/guillermobermejo/leetcode/tree/main/linked-list)|Easy|Python|0ms<br/>(Beats 100%)|18.72mb<br/>(Beats 37.99%)|
 |---|---|---|---|---|---|---|
 |[Rotate Array](https://leetcode.com/problems/rotate-array/)|[rotate.py](https://github.com/guillermobermejo/leetcode/blob/main/two-pointers/rotate.py)|[two-pointers](https://github.com/guillermobermejo/leetcode/tree/main/two-pointers)|Medium<br/>*Cracked*|Python|3ms<br/>(Beats 73.97%)|25.70mb<br/>(Beats 20.41%)|
 |---|---|---|---|---|---|---|
