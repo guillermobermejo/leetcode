@@ -137,6 +137,8 @@
 |---|---|---|---|---|---|---|
 |Linked List Cycle<br/>*(2 while condition)*|[hasCycle2.java](https://github.com/guillermobermejo/leetcode/blob/main/linked-list/hasCycle2.java)|[linked-list](https://github.com/guillermobermejo/leetcode/tree/main/linked-list)|Easy<br/>*Cracked*|Java|0ms<br/>(Beats 100%)|43.8mb<br/>(Beats 95.80%)|
 |---|---|---|---|---|---|---|
+|Linked List Cycle<br/>*(2 while condition)*|[hasCycle.py](https://github.com/guillermobermejo/leetcode/blob/main/linked-list/hasCycle.py)|[linked-list](https://github.com/guillermobermejo/leetcode/tree/main/linked-list)|Easy|Python|36ms<br/>(Beats 97.77%)|19.77mb<br/>(Beats 85.98%)|
+|---|---|---|---|---|---|---|
 |[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[longestConsecutive.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/longestConsecutive.java)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Medium|Java|26ms<br/>(Beats 72.15%)|67.3mb<br/>(Beats 10.54%)|
 |---|---|---|---|---|---|---|
 |Longest Consecutive Sequence|[longestConsecutive.py](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/longestConsecutive.py)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Medium|Python3|26ms<br/>(Beats 94.43%)|67.3mb<br/>(Beats 79.93%)|
