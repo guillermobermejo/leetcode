@@ -22,6 +22,8 @@
 |---|---|---|---|---|---|---|---|
 |[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[lengthOfLongestSubstring.java](https://github.com/guillermobermejo/leetcode/blob/main/sliding-window/lengthOfLongestSubstring.java)|Medium<br/>*Cracked*|Java|O(n)|O(n)|2ms<br/>(Beats 99.52%)|42.8mb<br/>(Beats 92.48%)|
 |---|---|---|---|---|---|---|---|
+|Longest Substring Without Repeating Characters|[lengthOfLongestSubstring.py](https://github.com/guillermobermejo/leetcode/blob/main/sliding-window/lengthOfLongestSubstring.py)|Medium<br/>*Cracked*|Python|O(n)|O(n)|11ms<br/>(Beats 94.97%)|17.76mb<br/>(Beats 81.88%)|
+|---|---|---|---|---|---|---|---|
 |Longest Substring Without Repeating Characters|[lengthOfLongestSubstring.cpp](https://github.com/guillermobermejo/leetcode/blob/main/sliding-window/lengthOfLongestSubstring.cpp)|Medium<br/>*Cracked*|C++|O(n)|O(n)|0ms<br/>(Beats 100%)|9.2mb<br/>(Beats 90.17%)|
 |---|---|---|---|---|---|---|---|
 |[Permutation In String](https://leetcode.com/problems/permutation-in-string/)|[checkInclusion.java](https://github.com/guillermobermejo/leetcode/blob/main/sliding-window/checkInclusion.java)|Medium<br/>*Cracked*|Java|O(n)|O(1)|5ms<br/>(Beats 96.67%)|42.1mb<br/>(Beats 95.22%)|
