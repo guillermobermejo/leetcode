@@ -24,4 +24,6 @@
 |---|---|---|---|---|---|---|---|
 |Linked List Cycle<br/>*(standard)*|[hasCycle.py](https://github.com/guillermobermejo/leetcode/blob/main/linked-list/mergeTwoLists.py)|Easy|Python|O(n)|O(1)|36ms<br/>(Beats 97.77%)|19.77mb<br/>(Beats 85.98%)|
 |---|---|---|---|---|---|---|---|
+|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)|[mergeTwoLists.py](https://github.com/guillermobermejo/leetcode/blob/main/linked-list/mergeTwoLists.py)|Easy|Python|O(n)|O(1)|0ms<br/>(Beats 100%)|17.90mb<br/>(Beats 37.79%)|
+|---|---|---|---|---|---|---|---|
 |[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)<br/>(in-place)|[rotate.py](https://github.com/guillermobermejo/leetcode/blob/main/linked-list/reverseList.py)|Easy|Python|O(n)|O(1)|0ms<br/>(Beats 100%)|18.72mb<br/>(Beats 37.99%)|
