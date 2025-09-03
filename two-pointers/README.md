@@ -14,6 +14,8 @@
 |---|---|---|---|---|---|---|---|
 |[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[removeDuplicates.py](https://github.com/guillermobermejo/leetcode/blob/main/two-pointers/removeDuplicates.py)|Easy<br/>*Cracked*|Python|O(n)|O(n)|0ms<br/>(Beats 100%)|19.11mb<br/>(Beats 8.09%)|
 |---|---|---|---|---|---|---|---|
+|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[rotate.py](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/rotate.py)|Medium<br/>*Cracked*|Python|O(n)|O(n)|3ms<br/>(Beats 73.97%)|25.70mb<br/>(Beats 20.41%)|
+|---|---|---|---|---|---|---|---|
 |[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[twoSum.java](https://github.com/guillermobermejo/leetcode/blob/main/two-pointers/twoSum.java)|Medium|Java|O(n)|O(1)|2ms<br/>(Beats 89.86%)|47mb<br/>(Beats 37.88%)|
 |---|---|---|---|---|---|---|---|
 |[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)<br/>*(int[ ] map)*|[isPalindrome.java](https://github.com/guillermobermejo/leetcode/blob/main/two-pointers/isPalindrome.java)|Easy|Java|O(n)|O(n)|1ms<br/>(Beats 100%)|43.3mb<br/>(Beats 54.5%)|
