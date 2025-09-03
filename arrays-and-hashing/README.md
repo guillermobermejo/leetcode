@@ -20,6 +20,8 @@
 |---|---|---|---|---|---|---|---|
 |[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[findKthLargest.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/findKthLargest.java)|Medium<br/>*Cracked*|Java|O(n)|O(n)|4ms<br/>(Beats 97.39%)|54.5mb<br/>(Beats 99.87%)|
 |---|---|---|---|---|---|---|---|
+|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[groupAnagrams.py](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/groupAnagrams.py)|Medium|Python|O(n)|O(n)|14ms<br/>(Beats 51.70%)|22.54mb<br/>(Beats 32.06%)|
+|---|---|---|---|---|---|---|---|
 |Kth Largest Element in an Array|[findKthLargest.py](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/findKthLargest.py)|Medium<br/>*Cracked*|Python3|O(n)|O(n)|428ms<br/>(Beats 96.06%)|30mb<br/>(Beats 35.62%)|
 |---|---|---|---|---|---|---|---|
 |Kth Largest Element in an Array|[findKthLargest.cpp](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/findKthLargest.cpp)|Medium<br/>*Cracked*|C++|O(n)|O(n)|54ms<br/>(Beats 99.01%)|57.6mb<br/>(Beats 93.68%)|
