@@ -191,6 +191,8 @@
 |---|---|---|---|---|---|---|
 |[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[searchMatrix.java](https://github.com/guillermobermejo/leetcode/blob/main/binary-search/searchMatrix.java)|[binary-search](https://github.com/guillermobermejo/leetcode/tree/main/binary-search)|Medium|Java|0ms<br/>(Beats 100%)|41.7mb<br/>(Beats 52.13%)|
 |---|---|---|---|---|---|---|
+|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[search.py](https://github.com/guillermobermejo/leetcode/blob/main/binary-search/search.py)|[binary-search](https://github.com/guillermobermejo/leetcode/tree/main/binary-search)|Medium<br/>*Cracked*|Python|0ms<br/>(Beats 100%)|18.10mb<br/>(Beats 66.56%)|
+|---|---|---|---|---|---|---|
 |[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[subarraySum.py](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/subarraySum.py)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Medium<br/>*Cracked*|Python|22ms<br/>(Beats 96.94%)|20.36mb<br/>(Beats 71.43%)|
 |---|---|---|---|---|---|---|
 |[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)|[isSubtree.java](https://github.com/guillermobermejo/leetcode/blob/main/trees/isSubtree.java)|[trees](https://github.com/guillermobermejo/leetcode/tree/main/trees)|Easy|Java|2ms<br/>(Beats 95.65%)|43.8mb<br/>(Beats 94.83%)|
