@@ -159,6 +159,8 @@
 |---|---|---|---|---|---|---|
 |[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[merge.py](https://github.com/guillermobermejo/leetcode/blob/main/two-pointers/merge.py)|[two-pointers](https://github.com/guillermobermejo/leetcode/tree/main/two-pointers)|Medium<br/>*Cracked*|Python|3ms<br/>(Beats 93.21%)|21.00mb<br/>(Beats 63.22%)|
 |---|---|---|---|---|---|---|
+|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)|[mergeTwoLists.py](https://github.com/guillermobermejo/leetcode/blob/main/linked-list/mergeTwoLists.py)|[linked-list](https://github.com/guillermobermejo/leetcode/tree/main/linked-list)|Easy|Python|0ms<br/>(Beats 100%)|17.90mb<br/>(Beats 37.79%)|
+|---|---|---|---|---|---|---|
 |[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[minCostClimbingStairs.java](https://github.com/guillermobermejo/leetcode/blob/main/1-d-dp/minCostClimbingStairs.java)|[1-d-dp](https://github.com/guillermobermejo/leetcode/tree/main/1-d-dp)|Easy|Java|0ms<br/>(Beats 100%)|43mb<br/>(Beats 64.67%)|
 |---|---|---|---|---|---|---|
 |[Min Stack](https://leetcode.com/problems/min-stack/)<br/>*(minheap)*|[MinStack.java](https://github.com/guillermobermejo/leetcode/blob/main/stack/MinStack.java)|[stack](https://github.com/guillermobermejo/leetcode/tree/main/stack)|Medium|Java|5ms<br/>(Beats 63.19%)|45.6mb<br/>(Beats 75.27%)|
