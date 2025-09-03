@@ -215,6 +215,8 @@
 |---|---|---|---|---|---|---|
 |Valid Anagram<br/>*(int[ ] map)*|[isAnagram2.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/isAnagram2.java)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Easy<br/>*Cracked*|Java|2ms<br/>(Beats 97.02%)|42.99mb<br/>(Beats 63.68%)|
 |---|---|---|---|---|---|---|
+|Valid Anagram<br/>*(int[ ] map)*|[isAnagram2.py](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/isAnagram2.py)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Easy<br/>*Cracked*|Python3|7ms<br/>(Beats 89.11%)|18.02mb<br/>(Beats 34.08%)|
+|---|---|---|---|---|---|---|
 |[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)<br/>*(int[ ] map)*|[isPalindrome.java](https://github.com/guillermobermejo/leetcode/blob/main/two-pointers/isPalindrome.java)|[two-pointers](https://github.com/guillermobermejo/leetcode/tree/main/two-pointers)|Easy|Java|1ms<br/>(Beats 100%)|43.3mb<br/>(Beats 54.5%)|
 |---|---|---|---|---|---|---|
 |Valid Palindrome<br/>*(built-in)*|[isPalindrome2.java](https://github.com/guillermobermejo/leetcode/blob/main/two-pointers/isPalindrome2.java)|[two-pointers](https://github.com/guillermobermejo/leetcode/tree/main/two-pointers)|Easy|Java|2ms<br/>(Beats 99.31%)|42.6mb<br/>(Beats 70.2%)|
