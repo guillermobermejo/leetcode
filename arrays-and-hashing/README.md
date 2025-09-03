@@ -40,6 +40,8 @@
 |---|---|---|---|---|---|---|---|
 |Product of Array Except Self<br/>*(2 array)*|[productExceptSelf2.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/productExceptSelf2.java)|Medium|Java|O(n)|O(n)|2ms<br/>(Beats 67.37%)|54.6mb<br/>(Beats 7.31%)|
 |---|---|---|---|---|---|---|---|
+|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[subarraySum.py](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/subarraySum.py)|Medium<br/>*Cracked*|Python|O(n)|O(n)|22ms<br/>(Beats 96.94%)|20.36mb<br/>(Beats 71.43%)|
+|---|---|---|---|---|---|---|---|
 |[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[topKFrequent.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/topKFrequent.java)|Medium<br/>*Cracked*|Java|O(n)|O(n)|3ms<br/>(Beats 99.99%)|48.3mb<br/>(Beats 35.43%)|
 |---|---|---|---|---|---|---|---|
 |[Two Sum](https://leetcode.com/problems/two-sum/)|[twoSum.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/twoSum.java)|Easy<br/>*Cracked*|Java|O(n)|O(n)|2ms<br/>(Beats 84.68%)|45.4mb<br/>(Beats 6.21%)|
