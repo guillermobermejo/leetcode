@@ -177,6 +177,8 @@
 |---|---|---|---|---|---|---|
 |[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[removeDuplicates.py](https://github.com/guillermobermejo/leetcode/blob/main/two-pointers/removeDuplicates.py)|[two-pointers](https://github.com/guillermobermejo/leetcode/tree/main/two-pointers)|Easy<br/>*Cracked*|Python|0ms<br/>(Beats 100%)|19.11mb<br/>(Beats 8.09%)|
 |---|---|---|---|---|---|---|
+|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[rotate.py](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/rotate.py)|[two-pointers](https://github.com/guillermobermejo/leetcode/tree/main/two-pointers)|Medium<br/>*Cracked*|Python|3ms<br/>(Beats 73.97%)|25.70mb<br/>(Beats 20.41%)|
+|---|---|---|---|---|---|---|
 |[Same Tree](https://leetcode.com/problems/same-tree/)<br/>*(verbose)*|[isSameTree.java](https://github.com/guillermobermejo/leetcode/blob/main/trees/isSameTree.java)|[trees](https://github.com/guillermobermejo/leetcode/tree/main/trees)|Easy|Java|0ms<br/>(Beats 100%)|40.8mb<br/>(Beats 73.77%)|
 |---|---|---|---|---|---|---|
 |Same Tree<br/>*(simplified)*|[isSameTree2.java](https://github.com/guillermobermejo/leetcode/blob/main/trees/isSameTree2.java)|[trees](https://github.com/guillermobermejo/leetcode/tree/main/trees)|Easy|Java|0ms<br/>(Beats 100%)|40.7mb<br/>(Beats 73.83%)|
