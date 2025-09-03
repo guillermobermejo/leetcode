@@ -58,6 +58,8 @@
 |---|---|---|---|---|---|---|---|
 |Valid Anagram<br/>*(int[ ] map)*|[isAnagram2.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/isAnagram2.java)|Easy<br/>*Cracked*|Java|O(n)|O(n)|2ms<br/>(Beats 97.02%)|42.99mb<br/>(Beats 63.68%)|
 |---|---|---|---|---|---|---|---|
+|Valid Anagram<br/>*(int[ ] map)*|[isAnagram2.py](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/isAnagram2.py)|Easy<br/>*Cracked*|Python3|O(n)|O(n)|7ms<br/>(Beats 89.11%)|18.02mb<br/>(Beats 34.08%)|
+|---|---|---|---|---|---|---|---|
 |[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)<br/>*(int[ ][ ] quadrants)*|[isValidSudoku.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/isValidSudoku.java)|Medium<br/>*Cracked*|Java|O(n^2)|O(n^2)|1ms<br/>(Beats 100%)|44.3mb<br/>(Beats 39.61%)|
 |---|---|---|---|---|---|---|---|
 |Valid Sudoku<br/>*(quadrants func)*|[isValidSudoku2.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/isValidSudoku2.java)|Medium<br/>*Cracked*|Java|O(n^2)|O(n^2)|1ms<br/>(Beats 100%)|44.2mb<br/>(Beats 52.16%)|
