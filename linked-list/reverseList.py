@@ -11,15 +11,15 @@ class Solution:
         dummy = ListNode(-1, None)
 
         while head is not None:
-            temp = ListNode(head.val, dummy.next)
-            dummy.next = temp
-
+            temp = head
             head = head.next
+            temp.next = dummy.next
+            dummy.next = temp
             
         return dummy.next
 
 '''
-No extra space
+Extra space but more intuitive
 
         if head == None:
             return head
@@ -27,10 +27,10 @@ No extra space
         dummy = ListNode(-1, None)
 
         while head is not None:
-            temp = head
-            head = head.next
-            temp.next = dummy.next
+            temp = ListNode(head.val, dummy.next)
             dummy.next = temp
+
+            head = head.next
             
         return dummy.next
 '''
