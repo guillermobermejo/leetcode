@@ -2,7 +2,7 @@
 Programmer: Guillermo			E
 Language: Java
 Time Complexity: O(n)
-Space Complexity: O(n)
+Space Complexity: O(1)
 Runtime: 0ms (beats 100%)
 Memory: 43.7mb (beats 97.74%)
 
@@ -77,3 +77,4 @@ public class Solution {
         return false;
     }
 }
+
