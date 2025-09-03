@@ -22,4 +22,4 @@
 |---|---|---|---|---|---|---|---|
 |Linked List Cycle<br/>*(2 while condition)*|[hasCycle2.java](https://github.com/guillermobermejo/leetcode/blob/main/linked-list/hasCycle2.java)|Easy<br/>*Cracked*|Java|O(n)|O(1)|0ms<br/>(Beats 100%)|43.8mb<br/>(Beats 95.80%)|
 |---|---|---|---|---|---|---|---|
-|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)<br/>(in-place)|[rotate.py](https://github.com/guillermobermejo/leetcode/blob/main/linked-list/reverseList.py)|Easy|Python|O(n)|O(n)|0ms<br/>(Beats 100%)|18.72mb<br/>(Beats 37.99%)|
+|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)<br/>(in-place)|[rotate.py](https://github.com/guillermobermejo/leetcode/blob/main/linked-list/reverseList.py)|Easy|Python|O(n)|O(1)|0ms<br/>(Beats 100%)|18.72mb<br/>(Beats 37.99%)|
