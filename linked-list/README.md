@@ -22,6 +22,6 @@
 |---|---|---|---|---|---|---|---|
 |Linked List Cycle<br/>*(2 while condition)*|[hasCycle2.java](https://github.com/guillermobermejo/leetcode/blob/main/linked-list/hasCycle2.java)|Easy<br/>*Cracked*|Java|O(n)|O(1)|0ms<br/>(Beats 100%)|43.8mb<br/>(Beats 95.80%)|
 |---|---|---|---|---|---|---|---|
-|Linked List Cycle<br/>*(standard)*|[hasCycle.py](https://github.com/guillermobermejo/leetcode/blob/main/linked-list/mergeTwoLists.py)|[linked-list](https://github.com/guillermobermejo/leetcode/tree/main/linked-list)|Easy|Python|36ms<br/>(Beats 97.77%)|19.77mb<br/>(Beats 85.98%)|
+|Linked List Cycle<br/>*(standard)*|[hasCycle.py](https://github.com/guillermobermejo/leetcode/blob/main/linked-list/mergeTwoLists.py)|Easy|Python|O(n)|O(1)|36ms<br/>(Beats 97.77%)|19.77mb<br/>(Beats 85.98%)|
 |---|---|---|---|---|---|---|---|
 |[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)<br/>(in-place)|[rotate.py](https://github.com/guillermobermejo/leetcode/blob/main/linked-list/reverseList.py)|Easy|Python|O(n)|O(1)|0ms<br/>(Beats 100%)|18.72mb<br/>(Beats 37.99%)|
