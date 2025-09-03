@@ -16,6 +16,6 @@
 |---|---|---|---|---|---|---|---|
 |[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[searchMatrix.java](https://github.com/guillermobermejo/leetcode/blob/main/binary-search/searchMatrix.java)|Medium|Java|O(log n)|O(1)|0ms<br/>(Beats 100%)|41.7mb<br/>(Beats 52.13%)|
 |---|---|---|---|---|---|---|---|
-|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[search.py](https://github.com/guillermobermejo/leetcode/blob/main/binary-search/search.py)|Medium<br/>*Cracked*|Python|O(n)|O(1)|0ms<br/>(Beats 100%)|0ms<br/>(Beats 100%)|18.10mb<br/>(Beats 66.56%)|
+|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[searchRotated.py](https://github.com/guillermobermejo/leetcode/blob/main/binary-search/search.py)|Medium<br/>*Cracked*|Python|O(log n)|O(1)|0ms<br/>(Beats 100%)|0ms<br/>(Beats 100%)|18.10mb<br/>(Beats 66.56%)|
 |---|---|---|---|---|---|---|---|
 |[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)|[TimeMap.java](https://github.com/guillermobermejo/leetcode/blob/main/binary-search/TimeMap.java)|Medium|Java|O(log n)|O(n)|131ms<br/>(Beats 91.78%)|119.9mb<br/>(Beats 46.87%)|
