@@ -46,6 +46,8 @@
 |---|---|---|---|---|---|---|---|
 |[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[topKFrequent.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/topKFrequent.java)|Medium<br/>*Cracked*|Java|O(n)|O(n)|3ms<br/>(Beats 99.99%)|48.3mb<br/>(Beats 35.43%)|
 |---|---|---|---|---|---|---|---|
+|Top K Frequent Elements|[topKFrequent.py](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/topKFrequent.py)|Medium<br/>*Cracked*|Python3|O(n)|O(n)|7ms<br/>(Beats 50.46%)|24.14mb<br/>(Beats 20.11%)|
+|---|---|---|---|---|---|---|---|
 |[Two Sum](https://leetcode.com/problems/two-sum/)|[twoSum.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/twoSum.java)|Easy<br/>*Cracked*|Java|O(n)|O(n)|2ms<br/>(Beats 84.68%)|45.4mb<br/>(Beats 6.21%)|
 |---|---|---|---|---|---|---|---|
 |Two Sum*|[twoSum2.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/twoSum2.java)|Easy|Java|O(n)|O(n)|5ms<br/>(Beats 57.67%)|42.8mb<br/>(Beats 99.86%)|
