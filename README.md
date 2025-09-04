@@ -179,6 +179,8 @@
 |---|---|---|---|---|---|---|
 |Product of Array Except Self<br/>*(2 array)*|[productExceptSelf2.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/productExceptSelf2.java)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Medium|Java|2ms<br/>(Beats 67.37%)|54.6mb<br/>(Beats 7.31%)|
 |---|---|---|---|---|---|---|
+|Product of Array Except Self<br/>*(in-place)*|[productExceptSelf.py](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/productExceptSelf.py)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Medium|Python3|7ms<br/>(Beats 50.46%)|24.14mb<br/>(Beats 20.11%)|
+|---|---|---|---|---|---|---|
 |[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[removeDuplicates.py](https://github.com/guillermobermejo/leetcode/blob/main/two-pointers/removeDuplicates.py)|[two-pointers](https://github.com/guillermobermejo/leetcode/tree/main/two-pointers)|Easy<br/>*Cracked*|Python3|0ms<br/>(Beats 100%)|19.11mb<br/>(Beats 8.09%)|
 |---|---|---|---|---|---|---|
 |[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)<br/>(in-place)|[rotate.py](https://github.com/guillermobermejo/leetcode/blob/main/linked-list/reverseList.py)|[linked-list](https://github.com/guillermobermejo/leetcode/tree/main/linked-list)|Easy|Python3|0ms<br/>(Beats 100%)|18.72mb<br/>(Beats 37.99%)|
