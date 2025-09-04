@@ -137,7 +137,7 @@
 |---|---|---|---|---|---|---|
 |Linked List Cycle<br/>*(2 while condition)*|[hasCycle2.java](https://github.com/guillermobermejo/leetcode/blob/main/linked-list/hasCycle2.java)|[linked-list](https://github.com/guillermobermejo/leetcode/tree/main/linked-list)|Easy<br/>*Cracked*|Java|0ms<br/>(Beats 100%)|43.8mb<br/>(Beats 95.80%)|
 |---|---|---|---|---|---|---|
-|Linked List Cycle<br/>*(standard)*|[hasCycle.py](https://github.com/guillermobermejo/leetcode/blob/main/linked-list/hasCycle.py)|[linked-list](https://github.com/guillermobermejo/leetcode/tree/main/linked-list)|Easy|Python|36ms<br/>(Beats 97.77%)|19.77mb<br/>(Beats 85.98%)|
+|Linked List Cycle<br/>*(standard)*|[hasCycle.py](https://github.com/guillermobermejo/leetcode/blob/main/linked-list/hasCycle.py)|[linked-list](https://github.com/guillermobermejo/leetcode/tree/main/linked-list)|Easy|Python3|36ms<br/>(Beats 97.77%)|19.77mb<br/>(Beats 85.98%)|
 |---|---|---|---|---|---|---|
 |[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[longestConsecutive.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/longestConsecutive.java)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Medium|Java|26ms<br/>(Beats 72.15%)|67.3mb<br/>(Beats 10.54%)|
 |---|---|---|---|---|---|---|
@@ -157,9 +157,9 @@
 |---|---|---|---|---|---|---|
 |Maximum Product Subarray|[maxProduct.cpp](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/maxProduct.cpp)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Medium<br/>*Cracked*|C++|0ms<br/>(Beats 100%)|16.4mb<br/>(Beats 12.38%)|
 |---|---|---|---|---|---|---|
-|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[merge.py](https://github.com/guillermobermejo/leetcode/blob/main/two-pointers/merge.py)|[two-pointers](https://github.com/guillermobermejo/leetcode/tree/main/two-pointers)|Medium<br/>*Cracked*|Python|3ms<br/>(Beats 93.21%)|21.00mb<br/>(Beats 63.22%)|
+|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[merge.py](https://github.com/guillermobermejo/leetcode/blob/main/two-pointers/merge.py)|[two-pointers](https://github.com/guillermobermejo/leetcode/tree/main/two-pointers)|Medium<br/>*Cracked*|Python3|3ms<br/>(Beats 93.21%)|21.00mb<br/>(Beats 63.22%)|
 |---|---|---|---|---|---|---|
-|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)|[mergeTwoLists.py](https://github.com/guillermobermejo/leetcode/blob/main/linked-list/mergeTwoLists.py)|[linked-list](https://github.com/guillermobermejo/leetcode/tree/main/linked-list)|Easy|Python|0ms<br/>(Beats 100%)|17.90mb<br/>(Beats 37.79%)|
+|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)|[mergeTwoLists.py](https://github.com/guillermobermejo/leetcode/blob/main/linked-list/mergeTwoLists.py)|[linked-list](https://github.com/guillermobermejo/leetcode/tree/main/linked-list)|Easy|Python3|0ms<br/>(Beats 100%)|17.90mb<br/>(Beats 37.79%)|
 |---|---|---|---|---|---|---|
 |[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[minCostClimbingStairs.java](https://github.com/guillermobermejo/leetcode/blob/main/1-d-dp/minCostClimbingStairs.java)|[1-d-dp](https://github.com/guillermobermejo/leetcode/tree/main/1-d-dp)|Easy|Java|0ms<br/>(Beats 100%)|43mb<br/>(Beats 64.67%)|
 |---|---|---|---|---|---|---|
@@ -179,11 +179,11 @@
 |---|---|---|---|---|---|---|
 |Product of Array Except Self<br/>*(2 array)*|[productExceptSelf2.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/productExceptSelf2.java)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Medium|Java|2ms<br/>(Beats 67.37%)|54.6mb<br/>(Beats 7.31%)|
 |---|---|---|---|---|---|---|
-|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[removeDuplicates.py](https://github.com/guillermobermejo/leetcode/blob/main/two-pointers/removeDuplicates.py)|[two-pointers](https://github.com/guillermobermejo/leetcode/tree/main/two-pointers)|Easy<br/>*Cracked*|Python|0ms<br/>(Beats 100%)|19.11mb<br/>(Beats 8.09%)|
+|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[removeDuplicates.py](https://github.com/guillermobermejo/leetcode/blob/main/two-pointers/removeDuplicates.py)|[two-pointers](https://github.com/guillermobermejo/leetcode/tree/main/two-pointers)|Easy<br/>*Cracked*|Python3|0ms<br/>(Beats 100%)|19.11mb<br/>(Beats 8.09%)|
 |---|---|---|---|---|---|---|
-|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)<br/>(in-place)|[rotate.py](https://github.com/guillermobermejo/leetcode/blob/main/linked-list/reverseList.py)|[linked-list](https://github.com/guillermobermejo/leetcode/tree/main/linked-list)|Easy|Python|0ms<br/>(Beats 100%)|18.72mb<br/>(Beats 37.99%)|
+|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)<br/>(in-place)|[rotate.py](https://github.com/guillermobermejo/leetcode/blob/main/linked-list/reverseList.py)|[linked-list](https://github.com/guillermobermejo/leetcode/tree/main/linked-list)|Easy|Python3|0ms<br/>(Beats 100%)|18.72mb<br/>(Beats 37.99%)|
 |---|---|---|---|---|---|---|
-|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[rotate.py](https://github.com/guillermobermejo/leetcode/blob/main/two-pointers/rotate.py)|[two-pointers](https://github.com/guillermobermejo/leetcode/tree/main/two-pointers)|Medium<br/>*Cracked*|Python|3ms<br/>(Beats 73.97%)|25.70mb<br/>(Beats 20.41%)|
+|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[rotate.py](https://github.com/guillermobermejo/leetcode/blob/main/two-pointers/rotate.py)|[two-pointers](https://github.com/guillermobermejo/leetcode/tree/main/two-pointers)|Medium<br/>*Cracked*|Python3|3ms<br/>(Beats 73.97%)|25.70mb<br/>(Beats 20.41%)|
 |---|---|---|---|---|---|---|
 |[Same Tree](https://leetcode.com/problems/same-tree/)<br/>*(verbose)*|[isSameTree.java](https://github.com/guillermobermejo/leetcode/blob/main/trees/isSameTree.java)|[trees](https://github.com/guillermobermejo/leetcode/tree/main/trees)|Easy|Java|0ms<br/>(Beats 100%)|40.8mb<br/>(Beats 73.77%)|
 |---|---|---|---|---|---|---|
@@ -191,9 +191,9 @@
 |---|---|---|---|---|---|---|
 |[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[searchMatrix.java](https://github.com/guillermobermejo/leetcode/blob/main/binary-search/searchMatrix.java)|[binary-search](https://github.com/guillermobermejo/leetcode/tree/main/binary-search)|Medium|Java|0ms<br/>(Beats 100%)|41.7mb<br/>(Beats 52.13%)|
 |---|---|---|---|---|---|---|
-|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[searchRotated.py](https://github.com/guillermobermejo/leetcode/blob/main/binary-search/searchRotated.py)|[binary-search](https://github.com/guillermobermejo/leetcode/tree/main/binary-search)|Medium<br/>*Cracked*|Python|0ms<br/>(Beats 100%)|18.10mb<br/>(Beats 66.56%)|
+|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[searchRotated.py](https://github.com/guillermobermejo/leetcode/blob/main/binary-search/searchRotated.py)|[binary-search](https://github.com/guillermobermejo/leetcode/tree/main/binary-search)|Medium<br/>*Cracked*|Python3|0ms<br/>(Beats 100%)|18.10mb<br/>(Beats 66.56%)|
 |---|---|---|---|---|---|---|
-|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[subarraySum.py](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/subarraySum.py)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Medium<br/>*Cracked*|Python|22ms<br/>(Beats 96.94%)|20.36mb<br/>(Beats 71.43%)|
+|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[subarraySum.py](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/subarraySum.py)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Medium<br/>*Cracked*|Python3|22ms<br/>(Beats 96.94%)|20.36mb<br/>(Beats 71.43%)|
 |---|---|---|---|---|---|---|
 |[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)|[isSubtree.java](https://github.com/guillermobermejo/leetcode/blob/main/trees/isSubtree.java)|[trees](https://github.com/guillermobermejo/leetcode/tree/main/trees)|Easy|Java|2ms<br/>(Beats 95.65%)|43.8mb<br/>(Beats 94.83%)|
 |---|---|---|---|---|---|---|
@@ -228,6 +228,8 @@
 |[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)<br/>*(int[ ][ ] quadrants)*|[isValidSudoku.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/isValidSudoku.java)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Medium<br/>*Cracked*|Java|1ms<br/>(Beats 100%)|44.3mb<br/>(Beats 39.61%)|
 |---|---|---|---|---|---|---|
 |Valid Sudoku<br/>*(quadrants func)*|[isValidSudoku2.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/isValidSudoku2.java)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Medium<br/>*Cracked*|Java|1ms<br/>(Beats 100%)|44.2mb<br/>(Beats 52.16%)|
+|---|---|---|---|---|---|---|
+|Valid Sudoku<br/>*(int[ ][ ] quadrants)*|[isValidSudoku.py](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/isValidSudoku.py)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Medium<br/>*Cracked*|Python3|0ms<br/>(Beats 100%)|17.83mb<br/>(Beats 43.95%)|
 
 <br/>
 <br/>
