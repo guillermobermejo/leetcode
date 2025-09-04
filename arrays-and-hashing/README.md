@@ -15,7 +15,9 @@
 |[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[containsDuplicate.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/containsDuplicate.java)|Easy|Java|O(n)|O(n)|10ms<br/>(Beats 85.11%)|57.8mb<br/>(Beats 21.49%)|
 |---|---|---|---|---|---|---|
 |Contains Duplicate<br/>*(Optimized)*|[containsDuplicate2.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/containsDuplicate2.java)|Easy<br/>*Cracked*|Java|O(n)|O(n)|7ms<br/>(Beats 98.46%)|60.7mb<br/>(Beats 19.71%)|
+|---|---|---|---|---|---|---|
 |Contains Duplicate|[containsDuplicate.py](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/containsDuplicate.py)|Easy|Python3|O(n)|O(n)|411ms<br/>(Beats 80.69%)|32.1mb<br/>(Beats 32.15%)|
+|---|---|---|---|---|---|---|
 |Contains Duplicate|[containsDuplicate.cpp](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/containsDuplicate.cpp)|Easy|C++|O(n)|O(n)|72ms<br/>(Beats 97.72%)|73.2mb<br/>(Beats 45.84%)|
 |---|---|---|---|---|---|---|---|
 |[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[groupAnagrams.py](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/groupAnagrams.py)|Medium|Python3|O(n)|O(n)|14ms<br/>(Beats 51.70%)|22.54mb<br/>(Beats 32.06%)|
@@ -41,6 +43,8 @@
 |[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)<br/>*(in-place)*|[productExceptSelf.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/productExceptSelf.java)|Medium|Java|O(n)|O(1)|2ms<br/>(Beats 66.87%)|53mb<br/>(Beats 51.43%)|
 |---|---|---|---|---|---|---|---|
 |Product of Array Except Self<br/>*(2 array)*|[productExceptSelf2.java](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/productExceptSelf2.java)|Medium|Java|O(n)|O(n)|2ms<br/>(Beats 67.37%)|54.6mb<br/>(Beats 7.31%)|
+|---|---|---|---|---|---|---|---|
+|Product of Array Except Self<br/>*(in-place)|[productExceptSelf.py](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/productExceptSelf.py)|Medium|Python3|O(n)|O(n)|27ms<br/>(Beats 45.97%)|23.44mb<br/>(Beats 41.03%)|
 |---|---|---|---|---|---|---|---|
 |[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[subarraySum.py](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/subarraySum.py)|Medium<br/>*Cracked*|Python3|O(n)|O(n)|22ms<br/>(Beats 96.94%)|20.36mb<br/>(Beats 71.43%)|
 |---|---|---|---|---|---|---|---|
