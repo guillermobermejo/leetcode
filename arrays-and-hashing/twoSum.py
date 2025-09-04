@@ -89,3 +89,23 @@ class Solution:
             hashmap[nums[i]] = i
         
         return result
+
+
+'''
+Simplified:
+
+        num_dict = dict()
+
+        for i in range(len(nums)):
+            needed = target - nums[i]
+
+            if needed in num_dict:
+                if i == num_dict[needed]:
+                    continue
+
+                return [num_dict[needed], i]
+            
+            num_dict[nums[i]] = i
+        
+        return [-1,-1]
+'''
