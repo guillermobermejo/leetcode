@@ -107,7 +107,7 @@
 |---|---|---|---|---|---|---|
 |Contains Duplicate|[containsDuplicate.cpp](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/containsDuplicate.cpp)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Easy|C++|72ms<br/>(Beats 97.72%)|57.8mb<br/>(Beats 45.84%)|
 |---|---|---|---|---|---|---|
-|[Generate Parenthesis](https://leetcode.com/problems/generate-parentheses/)|[generateParenthesis.py](https://github.com/guillermobermejo/leetcode/blob/main/stack/generateParenthesis.py)|[stack](https://github.com/guillermobermejo/leetcode/tree/main/stack)|Medium|Python3|0ms<br/>(Beats 100%)|18.05mb<br/>(Beats 43.36%)|
+|[Generate Parenthesis](https://leetcode.com/problems/generate-parentheses/)|[generateParenthesis.py](https://github.com/guillermobermejo/leetcode/blob/main/stack/generateParenthesis.py)|[stack](https://github.com/guillermobermejo/leetcode/tree/main/stack)|Medium<br/>*BEST*|Python3|0ms<br/>(Beats 100%)|18.05mb<br/>(Beats 43.36%)|
 |---|---|---|---|---|---|---|
 |[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[groupAnagrams.py](https://github.com/guillermobermejo/leetcode/blob/main/arrays-and-hashing/groupAnagrams.py)|[arrays-and-hashing](https://github.com/guillermobermejo/leetcode/tree/main/arrays-and-hashing)|Medium|Python3|14ms<br/>(Beats 51.70%)|22.54mb<br/>(Beats 32.06%)|
 |---|---|---|---|---|---|---|
